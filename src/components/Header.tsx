@@ -84,7 +84,7 @@ const Header: React.FC = () => {
                 leaveFrom="opacity-100 scale-100"
                 leaveTo="opacity-0 scale-95"
             >
-                <div id="mobile-menu" className="md:hidden bg-white shadow-lg">
+                <div id="mobile-menu" className="md:hidden bg-white shadow-lg pointer-events-auto">
                     <ul className="flex flex-col space-y-4 pt-1 pb-6 px-6">
                         {menuItems.map(item => (
                             <li key={item.text}>
