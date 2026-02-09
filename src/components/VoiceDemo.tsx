@@ -13,7 +13,7 @@ const VoiceDemo: React.FC = () => {
     const [isSDKReady, setIsSDKReady] = useState(false);
 
     const publicKey = "5cf7462d-30fe-4d70-9ea1-89ce0bd65ec5";
-    const assistantId = "32469dd2-296a-49d1-928d-5f4d573d9e11";
+    const assistantId = "b1738305-8aba-4337-8dab-1ed9c93e8747";
 
     useEffect(() => {
         // 1. Check if already loaded
@@ -138,7 +138,7 @@ const VoiceDemo: React.FC = () => {
                 `}
                 style={{ minWidth: '205px' }}
             >
-                {!isSDKReady ? "Laden..." : isCalling ? "Ophangen" : "Test de demo direct"}
+                {!isSDKReady ? "Laden..." : isCalling ? "Ophangen" : "Test Live Demo"}
             </button>
             <p className="text-sm text-foreground/60 font-medium">
                 {status}

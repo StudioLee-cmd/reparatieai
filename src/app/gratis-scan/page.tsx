@@ -6,13 +6,15 @@ import { motion, AnimatePresence } from "framer-motion";
 import { BsGlobe, BsPerson, BsEnvelope, BsCheckCircleFill } from "react-icons/bs";
 
 // Separate component to handle search params securely within Suspense
-const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
+const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
     const searchParams = useSearchParams();
 
     // State for form fields
     const [name, setName] = useState('');
     const [website, setWebsite] = useState('');
     const [email, setEmail] = useState('');
+    const [struggles, setStruggles] = useState('');
+    const [error, setError] = useState('');
 
     // Pre-fill effect
     useEffect(() => {
@@ -27,15 +29,33 @@ const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
         }
     }, [searchParams]);
 
+    const handleSurpriseMe = () => {
+        setStruggles("Ik weet niet precies wat ik nodig heb, maar ik wil graag zien waar de kansen liggen en hoe jullie mij kunnen helpen.");
+    };
+
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
-        onStartScan();
+        setError('');
+
+        // Basic validation
+        if (!name || !website || !email) {
+            setError("Vul alle verplichte velden in.");
+            return;
+        }
+
+        // Website validation (must have a dot)
+        if (!website.includes('.') || website.length < 4) {
+            setError("Voer een geldige website URL in (bijv. jouwbedrijf.nl).");
+            return;
+        }
+
+        onStartScan({ name, website, email, struggles });
     };
 
     return (
         <form onSubmit={handleSubmit} className="space-y-6">
             <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">Naam</label>
+                <label className="block text-sm font-medium text-gray-700 mb-2">Naam <span className="text-red-500">*</span></label>
                 <div className="relative">
                     <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                         <BsPerson className="text-gray-400" />
@@ -52,13 +72,14 @@ const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
             </div>
 
             <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">Website URL</label>
+                <label className="block text-sm font-medium text-gray-700 mb-2">Website URL <span className="text-red-500">*</span></label>
                 <div className="relative">
                     <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                         <BsGlobe className="text-gray-400" />
                     </div>
                     <input
                         type="url"
+                        required
                         placeholder="https://jouwwebsite.nl"
                         value={website}
                         onChange={(e) => setWebsite(e.target.value)}
@@ -71,7 +92,7 @@ const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
             </div>
 
             <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">E-mail</label>
+                <label className="block text-sm font-medium text-gray-700 mb-2">E-mail <span className="text-red-500">*</span></label>
                 <div className="relative">
                     <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                         <BsEnvelope className="text-gray-400" />
@@ -87,6 +108,32 @@ const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
                 </div>
             </div>
 
+            <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">
+                    Waar loop je nu tegenaan?
+                </label>
+                <textarea
+                    rows={3}
+                    placeholder="Ik heb te weinig tijd voor..."
+                    value={struggles}
+                    onChange={(e) => setStruggles(e.target.value)}
+                    className="block w-full p-3 border border-gray-300 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
+                />
+                <button
+                    type="button"
+                    onClick={handleSurpriseMe}
+                    className="text-sm text-blue-600 hover:text-blue-800 mt-2 font-medium flex items-center gap-1"
+                >
+                    ✨ Ik weet het niet, verras mij maar
+                </button>
+            </div>
+
+            {error && (
+                <div className="bg-red-50 text-red-600 p-3 rounded-lg text-sm">
+                    {error}
+                </div>
+            )}
+
             <button
                 type="submit"
                 className="w-full bg-blue-600 text-white font-bold py-4 px-6 rounded-xl shadow-lg hover:bg-blue-500 hover:shadow-xl hover:scale-[1.02] transition-all duration-200 flex items-center justify-center gap-2"
@@ -101,10 +148,10 @@ const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
 export default function GratisScanPage() {
     const [isModalOpen, setIsModalOpen] = useState(false);
 
-    const startScan = () => {
+    const startScan = (data: any) => {
         setIsModalOpen(true);
         // Here you would typically trigger the webhook/n8n workflow
-        console.log("Starting scan...");
+        console.log("Starting scan with data:", data);
     };
 
     return (

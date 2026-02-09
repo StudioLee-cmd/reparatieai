@@ -46,9 +46,9 @@ export const comparisonData: IComparisonItem[] = [
         description: "Vervangt Hootsuite, Buffer & Later"
     },
     {
-        role: "Contract & Offerte Software",
+        role: "Reserveringssysteem & Kassa",
         cost: 45,
-        description: "Vervangt DocuSign, PandaDoc & offertetools"
+        description: "Vervangt Salonized, Treatwell & BarberBooking"
     },
     {
         role: "Agenda & Planning Tools",

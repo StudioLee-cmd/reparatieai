@@ -10,11 +10,11 @@ export const menuItems: IMenuItem[] = [
         url: "/#pricing"
     },
     {
-        text: "Review Pakket",
+        text: "Reviews",
         url: "/review-pakket"
     },
     {
-        text: "Gratis Readiness Scan",
+        text: "Gratis Scan",
         url: "/gratis-scan"
     },
     {

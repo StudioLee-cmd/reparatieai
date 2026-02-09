@@ -19,7 +19,7 @@ const FocusCTA: React.FC<FocusCTAProps> = ({ onClick }) => {
         return () => clearInterval(interval);
     }, [hovered]);
 
-    const items = ["Start Gratis", "Vind Goud in Buizen", "Draai de Kraan Open", "Geen Lek, Wel Flow"];
+    const items = ["Start Gratis", "Winst tot in de Puntjes", "Volgeboekte Agenda", "Knippen Zonder Zorgen"];
 
     return (
         <button

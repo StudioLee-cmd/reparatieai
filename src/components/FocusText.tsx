@@ -4,11 +4,11 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const FocusText: React.FC = () => {
     const items = [
-        "Vind Goud in Buizen 🪙",
-        "Draai de Kraan Open 🚰",
-        "Geen Lek, Wel Flow 💧",
+        "Winst tot in de Puntjes 💇‍♀️",
+        "Volgeboekte Agenda 📅",
+        "Meer Knippen, Minder Admin ✂️",
         "Meer Winst, Minder Stress 📈",
-        "Je Agenda Automatisch Vol 📅"
+        "Je Kassa Klopt Altijd 💶"
     ];
     const [index, setIndex] = useState(0);
 

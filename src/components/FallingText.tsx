@@ -1,11 +1,13 @@
 "use client";
 import React, { useEffect, useRef, useState } from "react";
 import Matter from "matter-js";
+import { useTheme } from "next-themes";
 
 const FallingText = () => {
     const containerRef = useRef<HTMLDivElement>(null);
     const canvasRef = useRef<HTMLCanvasElement>(null);
     const [hasStarted, setHasStarted] = useState(false);
+    const { resolvedTheme } = useTheme();
 
     useEffect(() => {
         if (!containerRef.current || !canvasRef.current) return;
@@ -63,40 +65,39 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // NEW HERO USPs & SLOGANS
-            "Vind Goud in Buizen 🏆",
-            "Alles-in-1 Systeem 🛠️",
-            "Nooit Meer Gemiste Oproepen 📞",
-            "Weg Met 10 Losse Apps 📱",
-            "Draai de Kraan Open 🚰",
-            "Je Kantoor in je Broekzak 👖",
-            "Jouw AI Sparringpartner 🤖",
-            "Stop Winstlekkages 💸",
+            // HERO USPs (KAPPER EDITION)
+            "Winst tot in de Puntjes 💇‍♀️",
+            "Alles-in-1 Systeem ✂️",
+            "Nooit Meer Gemiste Afspraken 📅",
+            "Je Balie Eindelijk Opgeruimd ✨",
+            "Knippen Zonder Zorgen 💇‍♀️",
+            "Je Salon in je Broekzak 📱",
+            "Jouw AI Receptioniste 🤖",
+            "Stop Omzetlekkages 💸",
             "Geen Gedoe Met Facturen 🧾",
-            "Alle Tools in 1 Koffer 🧰",
-            "Meer Vrijheid, Minder Stress 🌴",
-            "100% Jouw Eigen Huisstijl 🎨",
+            "Alle Tools in 1 App 📱",
+            "Meer Vrijheid, Minder Stress 🧘",
+            "100% Jouw Eigen Stijl 🎨",
             "Klanten & AI in 1 Systeem 🤝",
-            "Gegarandeerd Beter Vindbaar 📈",
-            "Klant terug laten komen als een boemerang 🪃",
+            "Volgeboekte Agenda 📈",
+            "Klanten die terugkomen als een boemerang 🪃",
             "Slapende klanten wakker schudden ⏰",
 
-            // ORIGINAL FUN FAVORITES (RESTORED)
-            "Meer tijd om je bouwvakkersdecolleté te showen 🍑",
-            "Tijd voor bier & bitterballen 🍺",
-            "Niet meer van de ladder vallen voor een belletje 🪜",
-            "Laat de AI maar lullen (en plannen) 🤖",
-            "Sleutelen aan buizen, niet aan telefoons 🔧",
-            "Geen natte voeten, wel warme leads 💧",
-            "Doorspoelen die administratie 🚽",
-            "CV ketel fixen, AI doet de rest 🔥",
-            "Wij de planning, jij de held 🦸‍♂️",
-            "Gas erop met die handel 💨",
-            "Omdat je vrouw ook wel eens aandacht wil 💑",
-            "Jij de pijp, AI de hype 🚀",
-            "Geen gezeik, iedereen rijk 🤑",
-            "Van beunhaas naar baas 🏗️",
-            "Omdat koffie drinken ook werk is ☕"
+            // KAPPERS PUNS & FUN (PUNCHIER)
+            "Minder lullen, meer krullen 💇‍♂️",
+            "Tijd voor koffie & roddels ☕",
+            "Laat de telefoon maar rinkelen (AI pakt op) 📞",
+            "Laat de AI je agenda vullen 🤖",
+            "Föhnen, niet telefoneren 💨",
+            "Geen uitgroei in je planning 📅",
+            "Geknipt voor succes ✂️",
+            "Jij de schaar, AI de rest 💈",
+            "Van kapster naar top-ondernemer 🚀",
+            "Handen in het haar? Nergens voor nodig! 👐",
+            "Meer omzet in minder tijd ⏳",
+            "Altijd scherp, net als je schaar 🔪",
+            "Strakke coupe, strakke planning 📏",
+            "Eindelijk rustig lunchen 🥗"
         ];
 
         // Pick random 10 unique words
@@ -328,7 +329,8 @@ const FallingText = () => {
                 }
 
                 // --- TEXT DRAWING (TIGHT WRAP) ---
-                ctx.fillStyle = "black";
+                // Use very light blue for dark mode, dark for light mode
+                ctx.fillStyle = resolvedTheme === 'dark' ? "#e0e7ff" : "#1a1a1a";
 
                 // Determine Safe Max Width - STRICTER
                 let maxWidth = 0;
@@ -403,13 +405,14 @@ const FallingText = () => {
             Engine.clear(engine);
             window.removeEventListener("resize", handleResize);
         };
-    }, [hasStarted]);
+    }, [hasStarted, resolvedTheme]);
 
     return (
-        <div ref={containerRef} className="w-full h-[200px] md:h-[400px] bg-white overflow-hidden relative cursor-grab active:cursor-grabbing border-t border-gray-100 flex items-center justify-center">
+        <div ref={containerRef} className="w-full h-[200px] md:h-[400px] bg-white dark:bg-[var(--background)] overflow-hidden relative cursor-grab active:cursor-grabbing border-t border-gray-100 dark:border-[var(--card-border)] flex items-center justify-center">
             <canvas ref={canvasRef} className="block w-full h-full" />
         </div>
     );
 };
 
 export default FallingText;
+

@@ -1,12 +1,12 @@
 export const siteDetails = {
-    siteName: 'LoodgieterAI',
-    siteUrl: 'https://loodgieter-ai.nl/',
+    siteName: 'KapperAI',
+    siteUrl: 'http://localhost:3000/',
     metadata: {
-        title: 'LoodgieterAI - De slimme assistent voor jouw loodgietersbedrijf',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. LoodgieterAI regelt je agenda, telefoon en administratie volledig automatisch.',
+        title: 'KapperAI - De slimme assistent voor jouw kapsalon',
+        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. KapperAI regelt je agenda, telefoon en administratie volledig automatisch.',
     },
     language: 'nl-nl',
     locale: 'nl-NL',
-    siteLogo: `${process.env.BASE_PATH || ''}/images/logo-final.png`, // or use a string for the logo e.g. "TechStartup"
+    siteLogo: '/images/logo-transparent.png', // Transparent logo for dark mode support
     googleAnalyticsId: '', // e.g. G-XXXXXXX,
 }

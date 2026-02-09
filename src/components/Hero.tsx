@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
                 />
             </div>
 
-            <div className="absolute left-0 right-0 bottom-0 backdrop-blur-[2px] h-40 bg-gradient-to-b from-transparent via-[rgba(233,238,255,0.5)] to-[rgba(202,208,230,0.5)]">
+            <div className="absolute left-0 right-0 bottom-0 backdrop-blur-[2px] h-40 bg-gradient-to-b from-transparent via-[var(--hero-gradient-via)] to-[var(--hero-gradient-to)]">
             </div>
 
             <div className="text-center relative">
@@ -63,13 +63,19 @@ const Hero: React.FC = () => {
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                             className="mr-2"
                         >
-                            De grootste kans voor&nbsp;<Highlight color="primary">loodgieters</Highlight>
+                            De grootste kans voor&nbsp;<Highlight color="primary">kappers</Highlight>
                         </motion.span>
                         <br className="hidden md:block" />
                         <motion.span
                             style={{ x: xRight, opacity, display: 'inline-block' }}
                         >
-                            sinds de uitvinding van&nbsp;de&nbsp;<Highlight color="secondary">moersleutel</Highlight>.
+                            sinds de uitvinding van de
+                        </motion.span>
+                        <br className="hidden md:block" />
+                        <motion.span
+                            style={{ x: xLeft, opacity, display: 'inline-block' }}
+                        >
+                            <Highlight color="secondary">schaar</Highlight>.
                         </motion.span>
                     </h1>
                 </motion.div>
@@ -95,20 +101,20 @@ const Hero: React.FC = () => {
 
                         <RotatingText
                             texts={[
-                                'Vind Goud in Buizen 🏆',
-                                'Alles-in-1 Systeem 🛠️',
-                                'Nooit Meer Gemiste Oproepen 📞',
-                                'Weg Met 10 Losse Apps 📱',
-                                'Draai de Kraan Open 🚰',
-                                'Je Kantoor in je Broekzak 👖',
-                                'Jouw AI Sparringpartner 🤖',
-                                'Stop Winstlekkages 💸',
+                                'Winst tot in de Puntjes 💇‍♀️',
+                                'Alles-in-1 Systeem ✂️',
+                                'Nooit Meer Gemiste Afspraken 📅',
+                                'Weg Met Losse Briefjes 🗑️',
+                                'Knippen Zonder Zorgen 💇‍♀️',
+                                'Je Salon in je Broekzak 📱',
+                                'Jouw AI Receptioniste 🤖',
+                                'Stop Omzetlekkages 💸',
                                 'Geen Gedoe Met Facturen 🧾',
-                                'Alle Tools in 1 Koffer 🧰',
-                                'Meer Vrijheid, Minder Stress 🌴',
-                                '100% Jouw Eigen Huisstijl 🎨',
+                                'Alle Tools in 1 App 📱',
+                                'Meer Vrijheid, Minder Stress 🧘',
+                                '100% Jouw Eigen Stijl 🎨',
                                 'Klanten & AI in 1 Systeem 🤝',
-                                'Gegarandeerd Beter Vindbaar 📈'
+                                'Volgeboekte Agenda 📈'
                             ]}
                             mainClassName="px-2 sm:px-3 bg-[#0EA5E9] text-white overflow-hidden py-0.5 sm:py-1 justify-center rounded-lg shadow-md"
                             staggerFrom="last"
@@ -125,7 +131,7 @@ const Hero: React.FC = () => {
                     <div className="flex flex-col sm:flex-row items-center sm:items-start justify-center gap-4">
                         <button
                             onClick={() => setIsModalOpen(true)}
-                            className="flex items-center justify-center min-w-[205px] px-8 h-14 rounded-full text-white bg-foreground text-xl font-bold hover:scale-105 transition-transform duration-300 shadow-xl hover:shadow-2xl hover:ring-4 ring-primary/20"
+                            className="flex items-center justify-center min-w-[205px] px-8 h-14 rounded-full text-black bg-primary text-xl font-bold hover:scale-105 transition-transform duration-300 shadow-xl hover:shadow-2xl hover:ring-4 ring-primary/20"
                         >
                             Start Gratis
                         </button>
@@ -137,24 +143,16 @@ const Hero: React.FC = () => {
                     initial={{ opacity: 0, y: 40, scale: 0.95 }}
                     animate={{ opacity: 1, y: 0, scale: 1 }}
                     transition={{ duration: 0.8, delay: 0.6, type: "spring" }}
-                    className="mix-blend-multiply"
+                    className="light-video-blend"
                 >
-                    <div className="relative mt-12 md:mt-16 mx-auto flex justify-center gap-4 max-w-4xl px-4">
+                    <div className="relative mt-12 md:mt-16 mx-auto flex justify-center px-4">
                         <video
                             src="/videos/hero-left.mp4"
                             autoPlay
                             muted
                             loop
                             playsInline
-                            className="w-1/2 max-w-[300px]"
-                        />
-                        <video
-                            src="/videos/hero-demo.mp4"
-                            autoPlay
-                            muted
-                            loop
-                            playsInline
-                            className="w-1/2 max-w-[300px]"
+                            className="w-full max-w-[300px]"
                         />
                     </div>
                 </motion.div>
