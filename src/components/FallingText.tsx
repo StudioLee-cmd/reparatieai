@@ -65,38 +65,38 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // HERO USPs (DAKDEKKER EDITION)
-            "Meer Winst per Dak 🏠",
+            // HERO USPs (REPARATIE EDITION)
+            "Meer Reparaties, Meer Omzet 🔧",
             "Alles-in-1 Systeem 🛠️",
-            "Nooit Meer Gemiste Oproepen 📞",
+            "Nooit Meer Gemiste Aanvragen 📅",
             "Je Werkbonnen op Orde 📋",
             "Ondernemen Zonder Zorgen 🚀",
-            "Je Kantoor in je Broekzak 📱",
+            "Je Werkplaats in je Broekzak 📱",
             "Jouw AI Receptioniste 🤖",
-            "Je Cijfers Waterdicht 💧",
+            "Stop Omzetlekkages 💸",
             "Geen Gedoe Met Facturen 🧾",
             "Alle Tools in 1 App 📱",
             "Meer Vrijheid, Minder Stress 🧘",
             "100% Jouw Eigen Stijl 🎨",
             "Klanten & AI in 1 Systeem 🤝",
-            "Volgeboekte Agenda 📈",
+            "Volgeboekte Werkplaats 📈",
             "Offertes die scoren 📝",
             "Slapende klanten wakker schudden ⏰",
 
-            // DAKDEKKER PUNS & FUN
-            "Minder kantoor, meer dak op 🏠",
-            "Tijd voor koffie & je klus ☕",
+            // REPARATIE PUNS & FUN
+            "Minder sleutelen aan de boel, meer aan de business 🔧",
+            "Tijd voor koffie & je gereedschapskist ☕",
             "Laat de telefoon maar rinkelen (AI pakt op) 📞",
-            "Laat de AI je planning doen 🤖",
-            "Sleutelen, niet telefoneren 🔨",
-            "Geen lekkage in je planning 📅",
-            "Geknipt voor Jouw Business ✂️",
-            "Jij de vakman, AI de rest 👷‍♂️",
-            "Van dakdekker naar top-ondernemer 🚀",
-            "Handen in het haar? Nergens voor nodig! 👐",
-            "Meer omzet in minder tijd ⏳",
-            "Altijd scherp, net als je tools 🔪",
-            "Strakke planning, blije klanten 📅",
+            "Laat de AI je agenda vullen 🤖",
+            "Repareren, niet telefoneren 🔩",
+            "Geen defecten in je planning 📅",
+            "Kapot? AI fixt de boel verder 🤖",
+            "Jij de moersleutel, AI de rest 🤖",
+            "Van monteur naar top-ondernemer 🚀",
+            "Olie aan je handen? AI aan het werk 💪",
+            "Meer klussen in minder tijd ⏳",
+            "Altijd scherp, net als je bits 🔩",
+            "Strakke montage, strakke planning 🛠️",
             "Eindelijk rustig lunchen 🥪"
         ];
 
