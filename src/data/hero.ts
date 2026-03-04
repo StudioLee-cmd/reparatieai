@@ -1,5 +1,5 @@
 export const heroDetails = {
-    heading: 'De grootste kans voor dakdekkers sinds de uitvinding van de dakpan.',
-    subheading: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. Dakdekker AI regelt je agenda, telefoon en administratie volledig automatisch. Zo kan jij ongestoord doen waar je goed in bent: het dak op.',
-    centerImageSrc: '/images/hero-mockup.webp',
+    heading: 'De grootste kans voor monteurs sinds de uitvinding van de schroevendraaier.',
+    subheading: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. ReparatieAI regelt je agenda, telefoon en administratie volledig automatisch. Zo kan jij ongestoord doen waar je goed in bent: reparaties uitvoeren.',
+    centerImageSrc: '/images/hero-image.png',
 }
