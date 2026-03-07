@@ -38,4 +38,4 @@ AI stuurt automatisch een WhatsApp-bericht na elke afgeronde reparatie: "Blij da
 
 Reparatiebedrijven die AI inzetten reageren sneller, plannen efficiënter en bouwen een sterkere reputatie op. Het resultaat: meer omzet met hetzelfde team.
 
-Meer weten? Bezoek [reparatieai.nl](https://reparatieai.nl).
+Meer weten? Bezoek [reparatieai.nl](https://www.reparatieai.nl).
