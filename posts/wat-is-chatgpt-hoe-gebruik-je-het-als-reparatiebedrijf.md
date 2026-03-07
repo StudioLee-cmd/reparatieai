@@ -78,4 +78,4 @@ In plaats van 2 uur per week besteden aan ChatGPT-prompts, social media en klant
 
 ChatGPT is een krachtige tool die elk reparatiebedrijf gratis kan uitproberen. Maar het vervangt geen automatisering. Voor een compleet systeem dat je spoedmeldingen opvangt, reviews verzamelt, je vindbaarheid verbetert en je marketing draaiende houdt, heb je een gespecialiseerd platform nodig dat je branche kent.
 
-Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://studiolee.nl) om te ontdekken wat er mogelijk is.
+Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.
