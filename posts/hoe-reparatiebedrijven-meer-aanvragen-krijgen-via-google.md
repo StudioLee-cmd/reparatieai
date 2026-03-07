@@ -99,7 +99,7 @@ Jij repareert. Wij zorgen dat klanten jou vinden:
 
 Meer klanten, geen gemiste oproepen, alles geautomatiseerd.
 
-**Benieuwd wat ReparatieAI voor jouw bedrijf oplevert?** Neem contact op via reparatieai.nl.
+**Benieuwd wat ReparatieAI voor jouw bedrijf oplevert?** Neem contact op via [reparatieai.nl](https://www.reparatieai.nl).
 
 ---
 
