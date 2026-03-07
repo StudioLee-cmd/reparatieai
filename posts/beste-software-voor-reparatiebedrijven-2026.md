@@ -77,4 +77,4 @@ Een wasmachine die stopt, een vaatwasser die lekt, een telefoonscherm dat kapot 
 - **Boekhouding?** Moneybird regelt facturen en BTW.
 - **Compleet systeem?** [ReparatieAI](/) combineert planning, facturatie, reviews, chatbot en vindbaarheid in één — zonder commissie.
 
-Benieuwd wat ReparatieAI voor jouw bedrijf kan betekenen? [Neem contact op](/contact).
+Benieuwd wat ReparatieAI voor jouw bedrijf kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).
