@@ -30,7 +30,7 @@ Door je marketing af te stemmen op dit patroon, bereik je klanten precies wannee
 
 De winter is traditioneel rustig voor veel reparatiebedrijven. Gebruik deze periode voor preventief onderhoud:
 
-- Stuur [onderhoudsmails](/blog/email-marketing-reparatiebedrijven-herinneringen) naar bestaande klanten: "Is uw wasmachine klaar voor het voorjaar?"
+- Stuur [onderhoudsmails](/blog/email-marketing-reparatiebedrijf-herinnering) naar bestaande klanten: "Is uw wasmachine klaar voor het voorjaar?"
 - Bied een winteronderhoudsactie aan — korting op preventieve checks
 - Maak content over onderhoudstips — dit trekt bezoekers naar je website
 
@@ -47,7 +47,7 @@ De vraag stijgt. Klanten bereiden zich voor op de zomer:
 Nu is het druk. Marketing verschuift van werving naar efficiëntie:
 
 - Focus op snelle reactietijden — de snelste reparateur wint
-- Automatiseer [statusupdates](/blog/automatische-statusupdates-reparatie) zodat je minder tijd kwijt bent aan telefonisch klantcontact
+- Automatiseer [statusupdates](/blog/statusupdates-reparatiebedrijf-klanten) zodat je minder tijd kwijt bent aan telefonisch klantcontact
 - Verzamel reviews na elke klus — deze helpen je in het rustige seizoen
 
 ### Q4: Oktober-december — het verwarmingskwartaal
@@ -98,4 +98,4 @@ Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen groei? Geld terug.
 
 Seizoensinvloeden zijn een gegeven in de reparatiebranche. Maar met een doordachte seizoensmarketingstrategie — combineer preventief onderhoud in dalen, gerichte campagnes voor pieken, en onderhoudscontracten voor stabiliteit — bouw je een bedrijf dat het hele jaar door draait. Begin met het Q1-plan en bouw van daaruit verder.
 
-Lees ook onze tips voor een [sterke online reputatie](/blog/online-reputatie-reparatiebedrijf) en hoe je [meer klussen wint via slimme offertes](/blog/offertes-reparatiebedrijf-meer-klussen).
+Lees ook onze tips voor een [sterke online reputatie](/blog/online-reputatie-reparatiebedrijf-beschermen) en hoe je [meer klussen wint via slimme offertes](/blog/offertes-reparatiebedrijf-meer-klussen).

@@ -11,7 +11,7 @@ tags: ["Website", "Conversie", "Leadgeneratie"]
 
 Je reparatiewebsite trekt bezoekers, maar hoeveel daarvan dienen daadwerkelijk een aanvraag in? Bij de meeste reparatiebedrijven is dat minder dan 3%. Dat betekent dat 97 van de 100 bezoekers vertrekken zonder contact op te nemen. Met een paar slimme aanpassingen verhoog je dat percentage flink.
 
-Een goede website is geen visitekaartje — het is je hardst werkende medewerker. Terwijl jij bezig bent met reparaties, kan je website op de achtergrond nieuwe aanvragen binnenhalen. Lees ook hoe je [beter vindbaar wordt op Google](/blog/hoe-reparatiebedrijf-meer-aanvragen-krijgt-via-google) om meer bezoekers naar je website te trekken.
+Een goede website is geen visitekaartje — het is je hardst werkende medewerker. Terwijl jij bezig bent met reparaties, kan je website op de achtergrond nieuwe aanvragen binnenhalen. Lees ook hoe je [beter vindbaar wordt op Google](/blog/hoe-reparatiebedrijven-meer-aanvragen-krijgen-via-google) om meer bezoekers naar je website te trekken.
 
 ## Duidelijke call-to-actions plaatsen
 
@@ -42,7 +42,7 @@ Bezoekers die twijfelen, overtuig je met bewijs. Toon prominent op je homepage:
 - **Aantal reparaties**: "500+ reparaties uitgevoerd" geeft vertrouwen
 - **Garantie-informatie**: "12 maanden garantie op elke reparatie"
 
-Heb je nog niet genoeg reviews? Lees hoe je [meer Google reviews krijgt](/blog/meer-google-reviews-reparatiebedrijf). Combineer dit met een goede [online reputatie](/blog/online-reputatie-reparatiebedrijf) en bezoekers kiezen sneller voor jou.
+Heb je nog niet genoeg reviews? Lees hoe je [meer Google reviews krijgt](/blog/meer-google-reviews-reparatiebedrijf). Combineer dit met een goede [online reputatie](/blog/online-reputatie-reparatiebedrijf-beschermen) en bezoekers kiezen sneller voor jou.
 
 ## Snelheid en mobiel
 

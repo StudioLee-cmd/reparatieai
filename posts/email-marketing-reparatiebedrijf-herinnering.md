@@ -19,7 +19,7 @@ Het is ook de meest kosteneffectieve marketingstrategie die er is. Een email naa
 
 ## Je mailinglijst slim opbouwen
 
-Begin met wat je al hebt. Elke klant die ooit een reparatie heeft laten uitvoeren, heeft een emailadres achtergelaten — op de factuur, in je [CRM](/blog/automatische-statusupdates-reparatiebedrijf) of in je inbox.
+Begin met wat je al hebt. Elke klant die ooit een reparatie heeft laten uitvoeren, heeft een emailadres achtergelaten — op de factuur, in je [CRM](/blog/statusupdates-reparatiebedrijf-klanten) of in je inbox.
 
 **Verzamel de afgelopen drie jaar**. Ga systematisch door je administratie en maak een lijst. Dat is je basis.
 

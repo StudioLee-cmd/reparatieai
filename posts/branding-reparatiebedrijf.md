@@ -20,7 +20,7 @@ De meeste reparatiebedrijven concurreren op prijs en snelheid. Maar zonder herke
 - Vergelijken klanten je met 5 alternatieven
 - Ben je inwisselbaar
 - Is elke klant een eenmalige transactie
-- Heb je geen [terugkerende klanten](/blog/klantbehoud-reparatiebedrijven-eenmalige-klus-vaste-klant)
+- Heb je geen [terugkerende klanten](/blog/klantbehoud-reparatiebedrijf-vaste-klant)
 
 Met een sterk merk draai je dat om. Klanten bellen jou specifiek, betalen graag meer, en bevelen je aan.
 
@@ -33,7 +33,7 @@ Kies een kleurcombinatie en gebruik die overal:
 - Werkkleding (polo's, jassen)
 - Bedrijfsbus
 - Gereedschapskoffer
-- [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-reparatiebedrijf-eerste-keuze)
+- [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-reparatiebedrijf)
 - Facturen en offertes
 
 ### Duidelijke positionering
@@ -50,7 +50,7 @@ Wat maakt jou anders? Kies je speerpunt:
 Elk contactmoment is een kans om je merk te versterken:
 
 - Professionele bevestigingsberichten
-- [Automatische statusupdates](/blog/automatische-statusupdates-reparatie-klanten)
+- [Automatische statusupdates](/blog/statusupdates-reparatiebedrijf-klanten)
 - Nette verpakking bij retournering
 - Follow-up na de reparatie
 
@@ -58,14 +58,14 @@ Elk contactmoment is een kans om je merk te versterken:
 
 | Kanaal | Wat je doet |
 |--------|-------------|
-| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-reparatiebedrijf-eerste-keuze) | Complete profielinvulling, foto's, reviews |
+| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-reparatiebedrijf) | Complete profielinvulling, foto's, reviews |
 | Website | Consistent design, portfolio, testimonials |
-| [Social media](/blog/social-media-reparatiebedrijven-meer-klanten) | Reparatievideo's, tips, klantreacties |
-| [Email marketing](/blog/email-marketing-reparatiebedrijven-herinneringen) | Onderhoudstips, seizoensberichten |
+| [Social media](/blog/social-media-reparatiebedrijven-online) | Reparatievideo's, tips, klantreacties |
+| [Email marketing](/blog/email-marketing-reparatiebedrijf-herinnering) | Onderhoudstips, seizoensberichten |
 
 ## Van reviews naar merkvertrouwen
 
-[Google reviews](/blog/meer-google-reviews-reparatiebedrijf-automatisch) zijn niet alleen goed voor je ranking — ze bouwen je merk. Reageer altijd persoonlijk:
+[Google reviews](/blog/meer-google-reviews-reparatiebedrijf) zijn niet alleen goed voor je ranking — ze bouwen je merk. Reageer altijd persoonlijk:
 
 - Bedank voor positieve reviews
 - Los negatieve reviews professioneel op
@@ -83,7 +83,7 @@ Start met deze 5 stappen:
 
 ## Laat je branding professioneel uitwerken
 
-Bij StudioLee bouwen we merken voor vakmensen. Van [online reputatie](/blog/online-reputatie-reparatiebedrijf-bescherm-tegen-klachten) tot content marketing — alles afgestemd op jouw positionering. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee bouwen we merken voor vakmensen. Van [online reputatie](/blog/online-reputatie-reparatiebedrijf-beschermen) tot content marketing — alles afgestemd op jouw positionering. Met slechts **15 minuten per maand** aan jouw kant.
 
 De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 

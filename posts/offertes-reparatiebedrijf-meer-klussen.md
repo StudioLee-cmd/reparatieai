@@ -27,7 +27,7 @@ Een goede offerte is helder, specifiek en professioneel:
 
 **Geef een vaste prijs waar mogelijk**. Klanten haten onzekerheid. "Totaalprijs: 185 euro inclusief btw, onderdelen en arbeid" is sterker dan "vanaf 150 euro, afhankelijk van..."
 
-**Benoem de [garantie](/blog/garantiebeleid-reparatiebedrijf)**. "3 maanden garantie op onderdelen en arbeid." Dit wekt vertrouwen en onderscheidt je van concurrenten die niets garanderen.
+**Benoem de [garantie](/blog/garantiebeleid-reparatiebedrijf-vertrouwen)**. "3 maanden garantie op onderdelen en arbeid." Dit wekt vertrouwen en onderscheidt je van concurrenten die niets garanderen.
 
 ## Digitaal offreren: sneller en professioneler
 

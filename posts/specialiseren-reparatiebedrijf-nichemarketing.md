@@ -52,7 +52,7 @@ Content marketing is bijzonder effectief voor gespecialiseerde reparatiebedrijve
 - **Onderhouds tips**: "Zo verleng je de levensduur van je vaatwasser"
 - **Vergelijkingen**: "Repareren of vervangen: wanneer loont welke keuze?"
 
-Deze content trekt precies de juiste bezoekers naar je website — mensen met een probleem dat jij kunt oplossen. Combineer het met een goede [social media strategie](/blog/social-media-reparatiebedrijven) en je bouwt een stabiele stroom van leads op.
+Deze content trekt precies de juiste bezoekers naar je website — mensen met een probleem dat jij kunt oplossen. Combineer het met een goede [social media strategie](/blog/social-media-reparatiebedrijven-online) en je bouwt een stabiele stroom van leads op.
 
 ## Van generalist naar specialist
 

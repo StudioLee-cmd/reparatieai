@@ -45,7 +45,7 @@ Communiceer de voordelen: preventief onderhoud is goedkoper dan noodreparaties, 
 
 Met een klein klantenbestand kun je alles handmatig doen. Maar zodra je meer dan 50 klanten per maand bedient, helpt automatisering:
 
-- **Automatische [statusupdates](/blog/automatische-statusupdates-reparatiebedrijf)**: klanten krijgen een bericht wanneer hun reparatie is ontvangen, wanneer eraan gewerkt wordt en wanneer het klaar is
+- **Automatische [statusupdates](/blog/statusupdates-reparatiebedrijf-klanten)**: klanten krijgen een bericht wanneer hun reparatie is ontvangen, wanneer eraan gewerkt wordt en wanneer het klaar is
 - **Herinneringen voor onderhoud**: automatische e-mails op basis van de reparatiedatum
 - **Verjaardagsberichten of seizoenstips**: klein gebaar, groot effect
 
@@ -64,7 +64,7 @@ Het effect van doorverwijzingen is cumulatief. Een klant verwijst er twee door, 
 ## Veelgemaakte fouten
 
 - **Geen klantgegevens bewaren**: als je niet weet wie je klanten zijn, kun je ze niet benaderen
-- **Alleen contact bij problemen**: als de enige e-mail die je stuurt een [garantie-herinnering](/blog/garantiebeleid-reparatiebedrijf) is, voel je commercieel
+- **Alleen contact bij problemen**: als de enige e-mail die je stuurt een [garantie-herinnering](/blog/garantiebeleid-reparatiebedrijf-vertrouwen) is, voel je commercieel
 - **Reviews niet actief vragen**: wachten tot klanten uit zichzelf een review plaatsen werkt niet
 - **Geen onderscheid maken**: behandel vaste klanten als VIP. Snellere service, voorrang bij drukte
 
