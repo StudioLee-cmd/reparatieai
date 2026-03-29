@@ -7,8 +7,6 @@ image: "/images/blog/prijzen-website-reparatiebedrijf.png"
 tags: ["prijzen communiceren", "reparatiebedrijf", "website"]
 ---
 
-# Prijzen op je website als reparatiebedrijf: transparantie die vertrouwen wekt
-
 "Wat kost een reparatie?" Klanten willen het weten voordat ze bellen. Als jouw [website](/blog/reparatiewebsite-aanvraagmachine) geen enkele prijsindicatie geeft, kiest de bezoeker voor een concurrent die dat wel doet.
 
 In dit artikel lees je hoe je als reparatiebedrijf prijzen communiceert op een manier die vertrouwen wekt en meer aanvragen oplevert.

@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-reparatiebedrijf-partners.png"
 tags: ["samenwerkingen", "reparatiebedrijf", "groei"]
 ---
 
-# Samenwerken als reparatiebedrijf: partners die klanten doorsturen
-
 De meeste reparatiebedrijven wachten tot klanten hen vinden via Google of mond-tot-mond. Maar de slimste reparatiebedrijven hebben partners die actief klanten doorsturen. Winkels die zelf niet repareren, verzekeraars die vakmensen nodig hebben, woningbouwverenigingen met honderden huishoudens.
 
 ## Waarom partnerschappen werken voor reparatiebedrijven

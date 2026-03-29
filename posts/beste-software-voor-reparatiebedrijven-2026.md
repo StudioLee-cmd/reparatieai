@@ -7,8 +7,6 @@ image: "/images/blog/beste-software-voor-reparatiebedrijven-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
 ---
 
-# Beste software voor reparatiebedrijven 2026: tools vergeleken
-
 Een wasmachine die stopt, een vaatwasser die lekt, een telefoonscherm dat kapot is — reparatiewerk is urgent en klanten zoeken snel een oplossing. Welke software helpt jouw reparatiebedrijf om gevonden te worden, werk te plannen en professioneel te factureren?
 
 ## Wat zoekt een reparatiebedrijf in software?

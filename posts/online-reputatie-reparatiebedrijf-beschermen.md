@@ -7,8 +7,6 @@ image: "/images/blog/online-reputatie-reparatiebedrijf-beschermen.png"
 tags: ["Reputatie", "Reviews", "Strategie"]
 ---
 
-# Online reputatie als reparatiebedrijf: bescherm je tegen onterechte klachten
-
 Je hebt jarenlang kwaliteit geleverd. Honderden tevreden klanten. En dan plaatst iemand een vernietigende Google-review — onterecht, overdreven, of zelfs nep. Die ene review staat bovenaan, terwijl je 47 positieve beoordelingen eronder verdwijnen. Herkenbaar? Je bent niet alleen. Online reputatiemanagement is een van de grootste uitdagingen voor reparatiebedrijven in 2026.
 
 In dit artikel lees je hoe je je online reputatie beschermt tegen onterechte klachten, hoe je omgaat met negatieve reviews, en hoe je proactief een ijzersterke reputatie opbouwt.

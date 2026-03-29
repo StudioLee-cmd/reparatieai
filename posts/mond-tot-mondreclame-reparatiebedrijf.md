@@ -7,8 +7,6 @@ image: "/images/blog/mond-tot-mondreclame-reparatiebedrijf.png"
 tags: ["mond-tot-mond", "reparatiebedrijf", "marketing"]
 ---
 
-# Mond-tot-mondreclame als reparatiebedrijf: tevreden klanten als groeimotor
-
 "Ken je iemand die mijn wasmachine kan repareren?" Dat gesprek vindt dagelijks plaats in buurtgroepen en vriendengroepen. Het antwoord bepaalt waar de klant naartoe gaat. Mond-tot-mondreclame is voor reparatiebedrijven de krachtigste en goedkoopste groeistrategie.
 
 ## Waarom mond-tot-mond werkt voor reparatiebedrijven

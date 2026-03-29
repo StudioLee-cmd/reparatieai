@@ -7,8 +7,6 @@ image: "/images/blog/branding-reparatiebedrijf.png"
 tags: ["branding", "reparatiebedrijf", "merkopbouw"]
 ---
 
-# Branding als reparatiebedrijf: zo herkennen klanten jou meteen
-
 "Welk reparatiebedrijf was dat ook alweer?" — als klanten deze vraag stellen, heb je een brandingprobleem. In een markt vol anonieme reparatiediensten is herkenning goud waard.
 
 Branding gaat niet over een duur logo. Het gaat over hoe klanten je onthouden, herkennen en aanbevelen. Dit artikel laat zien hoe je als reparatiebedrijf een merk bouwt dat blijft hangen.

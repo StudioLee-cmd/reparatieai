@@ -7,8 +7,6 @@ image: "/images/blog/leadgeneratie-reparatiebedrijf.png"
 tags: ["leadgeneratie", "reparatiebedrijf", "marketing"]
 ---
 
-# Leadgeneratie als reparatiebedrijf: meer klanten via slimme kanalen
-
 Veel reparatiebedrijven zijn afhankelijk van een handvol vaste klanten en af en toe een toevallige aanvraag. Dat werkt — tot het niet meer werkt. Een vaste klant verhuist, een concurrent opent om de hoek, en opeens is je agenda half leeg.
 
 Leadgeneratie betekent dat je een systeem opzet dat structureel nieuwe klanten aantrekt. Niet afhankelijk van geluk, maar van slimme kanalen die voor je werken terwijl jij bezig bent met reparaties.
