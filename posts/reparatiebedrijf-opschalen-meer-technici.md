@@ -3,7 +3,7 @@ title: "Reparatiebedrijf opschalen: meer technici en hogere omzet"
 excerpt: "Je reparatiebedrijf groeit, maar je loopt tegen grenzen aan. Praktische tips voor het aannemen van technici, het stroomlijnen van processen en het verhogen van je omzet."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
-image: "/images/blog/reparatiebedrijf-opschalen-meer-technici.png"
+image: "/images/blog/reparatiebedrijf-opschalen-meer-technici.jpg"
 tags: ["Groei", "Ondernemen"]
 cluster: ""
 ---
