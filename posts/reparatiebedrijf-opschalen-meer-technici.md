@@ -1,7 +1,7 @@
 ---
 title: "Reparatiebedrijf opschalen: meer technici en hogere omzet"
 excerpt: "Ontdek hoe je als reparatiebedrijf succesvol opschaalt met meer technici, slimmere processen en hogere omzet — zonder chaos."
-date: "2026-04-01"
+date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-opschalen-meer-technici.png"
 tags: ["Groei", "Bedrijfsvoering", "Reparatie"]
