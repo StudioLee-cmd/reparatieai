@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-reparatiebedrijf.png"
 tags: ["Tools", "ChatGPT", "Reparatie"]
+cluster: "tools-uitleg"
 ---
 
 ChatGPT is de meest gebruikte AI-tool ter wereld. Miljoenen mensen gebruiken het dagelijks voor teksten, antwoorden en ideeën. Maar wat kan het concreet voor een reparatiebedrijf? En waar houdt het op? In dit artikel leggen we uit wat ChatGPT is, hoe je het slim inzet, en waarom een gespecialiseerd platform als ReparatieAI structureel meer oplevert.

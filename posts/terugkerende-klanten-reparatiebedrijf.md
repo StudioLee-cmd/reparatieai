@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/terugkerende-klanten-reparatiebedrijf.png"
 tags: ["Reparatie", "Terugkerende Klanten", "Klantbehoud"]
+cluster: "crm-klantbeheer"
 ---
 
 ## Het eenmalige-klant-probleem

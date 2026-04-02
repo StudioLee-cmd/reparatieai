@@ -5,6 +5,7 @@ date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/robot-repareert-wasmachine.jpg"
 tags: ["1 April", "Reviews", "Automatisering"]
+cluster: "review-automatisering"
 ---
 
 ## De robot die elke wasmachine kent

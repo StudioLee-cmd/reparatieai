@@ -5,6 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-opschalen-meer-technici.png"
 tags: ["Groei", "Ondernemen"]
+cluster: ""
 ---
 
 Je reparatiezaak loopt goed. Te goed, eigenlijk. Je staat zelf de hele dag apparaten te repareren, je agenda zit vol en je moet klanten afwijzen of laten wachten. Het is tijd om op te schalen — maar hoe doe je dat zonder de kwaliteit te verliezen?

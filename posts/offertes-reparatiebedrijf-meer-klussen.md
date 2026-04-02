@@ -7,6 +7,7 @@ image: "/images/blog/offertes-reparatiebedrijf-meer-klussen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["offerte proces", "reparatiebedrijf", "klussen"]
+cluster: "offerte-proces"
 ---
 
 ## Waarom snelheid alles bepaalt

@@ -5,6 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verminderen-reparatiebedrijf.jpg"
 tags: ["No-shows", "Klantenmanagement", "Groei"]
+cluster: "no-shows"
 ---
 
 ## De verborgen kosten van no-shows

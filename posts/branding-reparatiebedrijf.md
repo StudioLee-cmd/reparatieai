@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-reparatiebedrijf.png"
 tags: ["branding", "reparatiebedrijf", "merkopbouw"]
+cluster: "branding"
 ---
 
 "Welk reparatiebedrijf was dat ook alweer?" — als klanten deze vraag stellen, heb je een brandingprobleem. In een markt vol anonieme reparatiediensten is herkenning goud waard.

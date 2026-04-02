@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-reparatiebedrijf.png"
 tags: ["Google", "Vindbaarheid", "Marketing"]
+cluster: "google-bedrijfsprofiel"
 ---
 
 Wanneer een wasmachine het begeeft of een laptop niet meer opstart, pakt de eigenaar zijn telefoon en zoekt op Google. "Reparatiebedrijf bij mij in de buurt" levert een lijst met bedrijven op — en het eerste wat de zoeker ziet is het Google Bedrijfsprofiel. Een compleet en actief profiel kan het verschil maken tussen een volle werkplaats en een lege.

@@ -5,6 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-reparatiebedrijven-ai-inzetten-voor-groei.png"
 tags: ["AI", "Automatisering", "Reparatie"]
+cluster: "ai-automatisering"
 ---
 
 In de reparatiebranche telt snelheid. De klant met een kapotte wasmachine, een defecte cv-ketel of een gebroken ruit wil niet wachten. Reparatiebedrijven die snel reageren, winnen de klant — en de review. AI helpt je die snelheid structureel te realiseren.

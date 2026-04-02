@@ -7,6 +7,7 @@ image: "/images/blog/klantbehoud-reparatiebedrijf-vaste-klant.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantbehoud", "reparatie", "relatiebeheer"]
+cluster: "crm-klantbeheer"
 ---
 
 ## De waarde van terugkerende klanten

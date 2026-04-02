@@ -7,6 +7,7 @@ image: "/images/blog/email-marketing-reparatiebedrijf-herinnering.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "reparatiebedrijf", "herinneringen"]
+cluster: "email-marketing"
 ---
 
 ## Waarom email marketing werkt voor reparatiebedrijven
