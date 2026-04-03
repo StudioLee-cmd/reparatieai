@@ -57,7 +57,7 @@ Zorg dat je telefoonnummer direct zichtbaar is op mobiel. Bij spoedzoekwerk belt
 
 ### Hoe concurreer ik met grote reparatieketens?
 
-Met lokale SEO. Ketens scoren landelijk maar missen vaak lokale relevantie. Jouw voordeel: je bent in de buurt, reageert sneller en hebt lokale reviews. Een klant met een kapotte wasmachine kiest de monteur die vandaag kan komen, niet de keten die volgende week een afspraak heeft.
+Met [lokale SEO](/seo). Ketens scoren landelijk maar missen vaak lokale relevantie. Jouw voordeel: je bent in de buurt, reageert sneller en hebt lokale reviews. Een klant met een kapotte wasmachine kiest de monteur die vandaag kan komen, niet de keten die volgende week een afspraak heeft.
 
 ### Moet ik voor elk apparaat een aparte pagina maken?
 
