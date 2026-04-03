@@ -15,7 +15,7 @@ Voor reparatiebedrijven is dat cruciaal. Je klanten zijn drukbezette mensen die 
 
 ## Hoe automatische WhatsApp-herinneringen werken
 
-Je hoeft niet handmatig berichten te sturen. Moderne planningstools koppelen direct aan WhatsApp Business en sturen berichten automatisch op basis van je agenda:
+Je hoeft niet handmatig berichten te sturen. Moderne planningstools koppelen direct aan WhatsApp Business en sturen [berichten automatisch](/chatbot) op basis van je agenda:
 
 **48 uur voor de afspraak:** Een vriendelijk bericht met de datum, het tijdstip en wat de klant kan verwachten. Inclusief een bevestigingsknop.
 
