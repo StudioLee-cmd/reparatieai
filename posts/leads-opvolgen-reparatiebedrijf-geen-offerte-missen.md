@@ -66,7 +66,7 @@ Reparatiebedrijven die hun opvolging automatiseren:
 
 Zelf een systeem opzetten kost tijd en technische kennis. Met een managed service wordt het ingericht en onderhouden: automatische bevestigingen, opvolgsequenties, een [AI-chatbot](/chatbot) die 24/7 aanvragen afhandelt en [review-verzoeken](/reviews) na de reparatie.
 
-Bij [StudioLee](/tarieven) besteed je er maar [15 minuten per maand](/gratis-scan) aan. De rest draait automatisch.
+Bij [StudioLee](/tarieven) besteed je er maar [15 minuten per maand](/gratis-scan) aan. De rest draait automatisch. Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen meetbare groei? Geld terug.
 
 ## Veelgestelde vragen
 
