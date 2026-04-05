@@ -56,6 +56,16 @@ Het handmatig versturen van al deze berichten kost je uren per dag. Met automati
 - Review-verzoek → automatisch na afronding
 - Statusupdates → handmatig maar met templates (twee tikken)
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als reparatiebedrijf.
+
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [AI chatbot](/chatbot) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 WhatsApp is het sterkste communicatiekanaal dat je als reparatiebedrijf kunt inzetten. Professioneel ingericht en deels geautomatiseerd bespaart het je tijd, verhoogt het je conversie en verbetert de klanttevredenheid.
