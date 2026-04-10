@@ -61,4 +61,4 @@ Maak het nooit ingewikkeld. Geen QR-codes die niet werken, geen links die naar d
 
 Reviews verzamelen is geen eenmalige actie. Het is een doorlopend proces dat automatisch moet draaien. Met het juiste bericht, op het juiste moment, via het juiste kanaal, groeit je review-aantal maand na maand.
 
-Wil je weten hoe automatische review-verzoeken werken voor jouw reparatiebedrijf? Vraag een [gratis scan](/gratis-scan) aan en we laten het zien.
+Met een [automatisch review-systeem](/reviews) groeit je Google-profiel zonder extra werk. Wil je weten hoe automatische review-verzoeken werken voor jouw reparatiebedrijf? Vraag een [gratis scan](/gratis-scan) aan en we laten het zien.
