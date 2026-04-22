@@ -2,11 +2,11 @@
 title: "Reactietijd bij reparaties: waarom het eerste uur telt"
 excerpt: "De snelste reparateur wint de klant. Ontdek waarom reactietijd belangrijker is dan prijs en hoe je altijd als eerste reageert."
 date: "2026-04-12"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reactietijd-reparatie-eerste-uur.jpg"
 tags: ["Leads", "Snelheid", "Groei"]
 ---
-
 ## De klant kiest wie het snelst reageert
 
 Een wasmachine die niet meer draait, een vaatwasser die lekt, een oven die het begeeft. De klant googelt, belt drie reparateurs en kiest degene die het snelst terugbelt. Niet de goedkoopste, niet de beste reviews, maar de snelste.

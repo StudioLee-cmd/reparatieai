@@ -2,11 +2,11 @@
 title: "Reviews automatisch verzamelen na elke reparatie"
 excerpt: "Na elke reparatie vergeet je om een review te vragen. Met een automatisch systeem verzamel je structureel meer Google Reviews zonder tijd kwijt te zijn."
 date: "2026-04-19"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-automatisch-verzamelen-reparatiebedrijf.jpg"
 tags: ["Reviews", "Automatisering", "Groei"]
 ---
-
 ## Het probleem met handmatig reviews vragen
 
 Je repareert een wasmachine, de klant is blij, je rijdt door naar de volgende klus. En de review? Die vergeet je te vragen. Niet omdat je het niet wilt, maar omdat je bezig bent. Na vijf klussen op een dag is het het laatste waar je aan denkt.

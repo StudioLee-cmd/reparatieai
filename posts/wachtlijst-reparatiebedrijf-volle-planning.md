@@ -2,11 +2,11 @@
 title: "Wachtlijst als no-show buffer: altijd een volle planning als reparatiebedrijf"
 excerpt: "Slim wachtlijstbeheer voorkomt lege plekken door no-shows. Zo zet je een wachtlijst op die je reparatieplanning vol houdt."
 date: "2026-04-09"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijst-reparatiebedrijf-volle-planning.jpg"
 tags: ["No-shows", "Reparatie", "Planning"]
 ---
-
 ## Het probleem: lege plekken die je niet meer kunt vullen
 
 Als reparatiebedrijf draai je op een strakke planning. Elke monteur heeft vier tot zes reparaties per dag. Valt er eentje weg door een no-show, dan heb je een gat van anderhalf tot twee uur dat je niet meer gevuld krijgt. De klant belt niet af, je monteur staat voor een dichte deur, en je verliest minimaal 75 tot 120 euro aan productieve uren.

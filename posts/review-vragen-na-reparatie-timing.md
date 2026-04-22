@@ -2,11 +2,11 @@
 title: "Review vragen na reparatie: het ideale moment en bericht"
 excerpt: "Wanneer vraag je klanten om een review na een reparatie? Te vroeg is opdringerig, te laat vergeten ze het. Ontdek de perfecte timing en berichtformulering."
 date: "2026-04-11"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-vragen-na-reparatie-timing.jpg"
 tags: ["Reviews", "Klanttevredenheid", "Groei"]
 ---
-
 ## Waarom timing alles is bij reviews vragen
 
 Je hebt de wasmachine gerepareerd, de klant is blij en je rijdt door naar de volgende klus. Een week later bedenk je dat je vergeten bent om een review te vragen. Of je stuurt alsnog een berichtje, maar de klant reageert niet meer. Het moment is voorbij.

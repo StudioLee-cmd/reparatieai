@@ -2,11 +2,11 @@
 title: "Online gevonden worden als reparatiebedrijf: lokale SEO tips"
 excerpt: "Klanten met een kapot apparaat zoeken direct op Google. Zo zorg je dat jouw reparatiebedrijf bovenaan verschijnt."
 date: "2026-04-17"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-gevonden-reparatiebedrijf-seo.jpg"
 tags: ["Vindbaarheid", "Google", "SEO"]
 ---
-
 ## De klant zoekt nu, niet morgen
 
 Een kapotte wasmachine, een lekkende vaatwasser of een koelkast die niet meer koelt. De klant heeft een probleem en wil het vandaag nog opgelost hebben. De eerste plek waar ze zoeken: Google. "Wasmachine reparatie [plaatsnaam]" of "vaatwasser storing reparateur bij mij in de buurt."

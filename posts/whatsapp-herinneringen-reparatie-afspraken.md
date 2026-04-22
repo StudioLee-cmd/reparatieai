@@ -2,11 +2,11 @@
 title: "WhatsApp-herinneringen voor reparatie-afspraken"
 excerpt: "Automatische WhatsApp-herinneringen verminderen no-shows bij reparatie-afspraken met meer dan 50%. Ontdek hoe je ze instelt en wat ze opleveren."
 date: "2026-04-03"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-herinneringen-reparatie-afspraken.jpg"
 tags: ["WhatsApp", "No-shows", "Reparatie", "Automatisering"]
 ---
-
 ## Waarom WhatsApp beter werkt dan bellen of mailen
 
 Iedereen checkt WhatsApp. Het is de communicatie-app die Nederlanders het vaakst openen — meer dan 10 keer per dag gemiddeld. E-mail verdwijnt in de inbox, een telefoontje wordt weggedrukt, maar een WhatsApp-bericht wordt bijna altijd gelezen. De open rate ligt boven de 90 procent.

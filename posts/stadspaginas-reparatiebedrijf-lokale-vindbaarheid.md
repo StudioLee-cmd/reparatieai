@@ -2,11 +2,11 @@
 title: "Stadspagina's voor reparatiebedrijven: meer lokale klussen"
 excerpt: "Klanten zoeken \"wasmachine reparatie [stad]\". Met stadspagina's rank je in elke plaats die je bedient zonder extra vestiging. Zo bouw je ze."
 date: "2026-04-16"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stadspaginas-reparatiebedrijf-lokale-vindbaarheid.jpg"
 tags: ["Vindbaarheid", "Stadspagina", "Reparatie"]
 ---
-
 ## Waarom "wasmachine reparatie [stad]" goud is voor jou
 
 Een vrouw in Haarlem doet 's ochtends een was, hoort een bonk en de wasmachine is over. Vol water. Ze opent haar telefoon en typt: "wasmachine reparatie Haarlem". Geen vergelijking, geen reviews lezen. Ze klikt het eerste resultaat, ziet een lokaal nummer en belt direct. Wie op die plek staat, krijgt de klus. Wie niet op pagina 1 verschijnt, telt niet mee, want zij belt geen tweede bedrijf.

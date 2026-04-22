@@ -2,11 +2,11 @@
 title: "Klanttevredenheid meten als reparatiebedrijf: de 4 KPI's"
 excerpt: "Klanttevredenheid als reparatiebedrijf: niet zomaar reviews, maar vier concrete meetpunten die direct voorspellen of jouw bedrijf het komende jaar groeit of krimpt."
 date: "2026-04-21"
+cluster: "klanttevredenheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-meten-reparatiebedrijf-kpis.jpg"
 tags: ["Reparatiebedrijf", "Klanttevredenheid", "KPI", "Groei"]
 ---
-
 "Onze klanten zijn tevreden" is de meest gelogen zin in elk reparatiebedrijf. Niet omdat eigenaren expres liegen, maar omdat ze meten wat toevallig zichtbaar is: een paar reviews, geen klachten de afgelopen twee weken, tevreden gezichten tijdens oplevering. Die signalen zeggen weinig over de werkelijke gezondheid van je klantrelaties. Een reparatiebedrijf dat serieus wil groeien heeft vier harde KPI's die de werkelijkheid boven tafel krijgen — en daarmee voorspellen of je het volgende jaar meer of minder aanvragen krijgt.
 
 Deze gids loopt door die vier KPI's: wat ze precies meten, hoe je ze opzet zonder dure enquête-software, en welke cijfers zorgelijk of juist hoopgevend zijn. Aan het einde heb je een dashboard dat past op één A4'tje en dat je elke maand bijwerkt in minder dan een half uur.

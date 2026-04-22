@@ -2,11 +2,11 @@
 title: "No-shows voorkomen bij reparaties: klant op tijd herinneren"
 excerpt: "Gemiste afspraken kosten reparatiebedrijven duizenden euro's per jaar. Ontdek hoe automatische herinneringen no-shows met 50 procent verminderen."
 date: "2026-04-07"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-reparatiebedrijf-voorkomen.jpg"
 tags: ["No-shows", "Reparatie", "Herinneringen"]
 ---
-
 ## Gemiste afspraken: het duurste probleem dat niemand bijhoudt
 
 Een monteur rijdt naar een adres voor een wasmachinereparatie. Niemand thuis. De klant neemt de telefoon niet op. Na 20 minuten wachten rijdt de monteur door naar de volgende klus, als die er al is.

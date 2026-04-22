@@ -2,11 +2,11 @@
 title: "Garantie op reparaties: zo bouw je vertrouwen op"
 excerpt: "Klanten kiezen voor de reparateur die garantie biedt. Ontdek hoe je garantiebeleid slim inzet om meer opdrachten te winnen en betere reviews te krijgen."
 date: "2026-04-14"
+cluster: "garantiebeleid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/garantie-reparatie-vertrouwen-opbouwen.jpg"
 tags: ["Garantie", "Klantrelatie", "Reparatie Tips"]
 ---
-
 ## Waarom garantie het verschil maakt
 
 Een klant met een kapotte wasmachine, telefoon of cv-ketel heeft twee opties: een reparateur zonder garantie of een reparateur die zes maanden garantie geeft op het werk. De keuze is snel gemaakt, ook als de tweede iets duurder is.

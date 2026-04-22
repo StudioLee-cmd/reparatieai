@@ -2,11 +2,11 @@
 title: "No-shows als reparateur: zo beperk je het verlies"
 excerpt: "Klanten die niet thuis zijn wanneer je langskomt kosten je tijd en geld. Ontdek hoeveel en wat je eraan kunt doen."
 date: "2026-04-17"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-reparateur-verlies-beperken.jpg"
 tags: ["No-shows", "Planning", "Omzet"]
 ---
-
 ## Het probleem van de dichte deur
 
 Je hebt een afspraak voor een wasmachinereparatie, een vaatwasser die lekt of een droger die niet meer draait. Je rijdt erheen, belt aan en er wordt niet opengedaan. De klant is het vergeten, is naar het werk of heeft het probleem "zelf opgelost" met een YouTube-video.

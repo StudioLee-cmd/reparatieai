@@ -2,11 +2,11 @@
 title: "Reparatiebedrijf automatiseren: minder handwerk achter het bureau"
 excerpt: "Reparatiebedrijven besteden tot 15 uur per week aan planning en communicatie. Automatisering geeft je die uren terug."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-automatiseren.jpg"
 tags: ["Automatisering", "Reparatie", "Efficiëntie"]
 ---
-
 ## Repareren doe je met je handen, niet met je inbox
 
 De klant belt met een kapot apparaat. Je noteert het probleem op een papiertje. Je plant de reparatie in je agenda. Je bestelt het onderdeel. Je belt de klant wanneer het onderdeel binnen is. Je plant de afspraak opnieuw. Je voert de reparatie uit. Je schrijft de factuur. Je stuurt een herinnering als de betaling uitblijft.

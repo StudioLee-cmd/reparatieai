@@ -2,11 +2,11 @@
 title: "Nazorg reparatiebedrijf: 3 contactmomenten die herhaalklussen opleveren"
 excerpt: "Drie concrete nazorg-contactmomenten na een reparatie die een eenmalige klant omzetten in een terugkerende relatie van 3 tot 5 reparaties per jaar."
 date: "2026-04-22"
+cluster: "nazorg"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-reparatiebedrijf-herhaalklussen-contactmomenten.jpg"
 tags: ["Reparatiebedrijf", "Nazorg", "Klantrelatie", "Herhaalklussen"]
 ---
-
 Een reparatiebedrijf krijgt gemiddeld 60 tot 80 procent van zijn omzet uit nieuwe klanten en slechts 20 tot 40 procent uit herhaalklussen. Dat is precies omgekeerd aan wat een gezond groeiend bedrijf zou moeten doen. De reden is simpel: na een reparatie horen de meeste klanten niks meer van hun monteur, totdat er weer iets kapot gaat, en tegen die tijd zijn ze jou vergeten en zoeken ze opnieuw op Google.
 
 Het punt is dat klanten na een geslaagde reparatie open staan voor vervolgcontact. Ze zijn dankbaar, het werkt weer, en jouw naam is vers in hun hoofd. Alleen, op dat moment doen de meeste reparatiebedrijven niks. In deze gids staan drie concrete nazorg-contactmomenten die een eenmalige reparatie omzetten in een klantrelatie van 3 tot 5 reparaties per jaar. Het kost je per klant maximaal 5 minuten per jaar als het systeem eenmaal draait.

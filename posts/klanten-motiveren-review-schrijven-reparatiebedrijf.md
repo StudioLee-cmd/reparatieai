@@ -2,11 +2,11 @@
 title: "Klanten motiveren een review te schrijven als reparatiebedrijf: wat werkt echt"
 excerpt: "De meeste klanten willen best een review schrijven, maar doen het niet. Zo motiveer je ze zonder opdringerig te zijn."
 date: "2026-04-10"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanten-motiveren-review-schrijven-reparatiebedrijf.jpg"
 tags: ["Reviews", "Reparatie", "Klanten"]
 ---
-
 ## Het probleem is niet onwil, het is vergeten
 
 Negen van de tien klanten die tevreden zijn over je reparatie, willen best een review schrijven. Ze zeggen het zelfs: "Leuk bedrijf, ik zal zeker iets achterlaten." Maar ze doen het niet. Niet omdat ze van gedachten zijn veranderd, maar omdat het leven doorgaat. De wasmachine draait weer, het probleem is opgelost, en de motivatie om een review te schrijven verdampt.

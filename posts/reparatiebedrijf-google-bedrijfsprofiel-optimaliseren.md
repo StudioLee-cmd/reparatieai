@@ -2,11 +2,11 @@
 title: "Google Bedrijfsprofiel als reparatiebedrijf: complete optimalisatie"
 excerpt: "Je Google Bedrijfsprofiel is gratis en het belangrijkste verkoopkanaal voor reparatiebedrijven. Lees hoe je het volledig optimaliseert."
 date: "2026-04-08"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-google-bedrijfsprofiel-optimaliseren.jpg"
 tags: ["SEO", "Google Bedrijfsprofiel", "Reparatiebedrijf"]
 ---
-
 ## Waarom je Google Bedrijfsprofiel jouw belangrijkste verkoopkanaal is
 
 Iemand heeft een wasmachine die ratelt, een telefoon met een kapot scherm, een elektrische fiets die niet meer oplaadt. Wat doet hij? Niet de Telefoongids erbij pakken. Hij typt "wasmachine reparatie [stad]" of "telefoonscherm vervangen [stad]" in Google. De drie bedrijven die bovenaan in het kaartresultaat staan krijgen 80 procent van de kliks.

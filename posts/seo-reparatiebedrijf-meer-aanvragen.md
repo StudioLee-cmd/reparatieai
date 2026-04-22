@@ -2,11 +2,11 @@
 title: "SEO voor reparatiebedrijven: meer aanvragen via Google"
 excerpt: "Klanten zoeken online naar een reparatieservice bij hen in de buurt. Ontdek hoe je met SEO meer reparatie-aanvragen genereert via Google."
 date: "2026-04-03"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seo-reparatiebedrijf-meer-aanvragen.jpg"
 tags: ["SEO", "Vindbaarheid", "Reparatie", "Google"]
 ---
-
 ## Waarom online vindbaarheid essentieel is voor reparatiebedrijven
 
 Een kapotte wasmachine, een lekkende vaatwasser, een cv-ketel die uitvalt — klanten googelen het probleem en bellen de eerste reparatieservice die ze vinden. Als jij niet in die eerste resultaten staat, mis je klussen die letterlijk voor het oprapen liggen.

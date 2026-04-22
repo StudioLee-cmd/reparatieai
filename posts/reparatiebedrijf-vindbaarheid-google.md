@@ -2,11 +2,11 @@
 title: "Vindbaarheid van je reparatiebedrijf in Google verbeteren"
 excerpt: "De meeste reparatiebedrijven zijn onzichtbaar in Google. Leer hoe je met lokale SEO meer klanten aantrekt zonder te adverteren."
 date: "2026-04-06"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-vindbaarheid-google.jpg"
 tags: ["SEO", "Reparatie", "Vindbaarheid"]
 ---
-
 ## Onzichtbaar in Google? Dan besta je niet
 
 Wanneer iemands wasmachine kapotgaat, is de eerste reflex Google openen en zoeken naar "wasmachine reparatie [stad]." Als jouw reparatiebedrijf daar niet verschijnt, maakt het niet uit hoe goed je bent. Die klant gaat naar de concurrent die wél zichtbaar is.

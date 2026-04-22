@@ -2,11 +2,11 @@
 title: "Reviews op je website tonen: zo overtuig je als reparatiebedrijf"
 excerpt: "Google reviews op je eigen website plaatsen versterkt het vertrouwen van bezoekers. Ontdek hoe je ze toont en welke reviews het meest overtuigen."
 date: "2026-04-12"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-website-tonen-reparatiebedrijf.jpg"
 tags: ["Reviews", "Website", "Groei"]
 ---
-
 ## Waarom reviews op je website meer doen dan op Google alleen
 
 Klanten zoeken je op Google en zien je reviews. Goed. Maar als ze doorklikken naar je website en daar geen reviews zien, verdwijnt het vertrouwen. Het voelt alsof je website van een ander bedrijf is dan je Google profiel.

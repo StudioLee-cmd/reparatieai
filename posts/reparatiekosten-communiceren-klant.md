@@ -2,11 +2,11 @@
 title: "Reparatiekosten communiceren naar klanten: eerlijk, duidelijk, zonder gedoe"
 excerpt: "Klanten willen weten wat een reparatie kost voordat je begint. Zo communiceer je prijzen helder zonder jezelf tekort te doen."
 date: "2026-04-05"
+cluster: "prijzen-communiceren"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiekosten-communiceren-klant.jpg"
 tags: ["Prijzen", "Reparatie", "Klantcommunicatie"]
 ---
-
 ## "Hoeveel gaat dit kosten?"
 
 De klant kijkt je aan terwijl je onder de vaatwasser ligt. Je hebt het probleem gevonden maar weet dat het antwoord niet goedkoop is. Hoe breng je het?

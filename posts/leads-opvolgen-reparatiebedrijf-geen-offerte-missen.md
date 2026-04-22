@@ -2,11 +2,11 @@
 title: "Leads opvolgen als reparatiebedrijf: geen offerte missen"
 excerpt: "Mis je offerteaanvragen omdat je op een klus bent? Ontdek hoe je als reparatiebedrijf elke lead opvolgt — automatisch en zonder gedoe."
 date: "2026-04-04"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-reparatiebedrijf-geen-offerte-missen.jpg"
 tags: ["Leads", "Opvolging", "Reparatiebedrijf"]
 ---
-
 ## Het probleem: aanvragen die binnenkomen terwijl je repareert
 
 Als reparateur zit je de hele dag met je handen bezig: wasmachines, vaatwassers, telefoons, laptops. Ondertussen komen er aanvragen binnen via WhatsApp, e-mail en je website. Tegen de tijd dat je 's avonds je telefoon checkt, hebben drie van de vijf klanten al iemand anders gevonden.

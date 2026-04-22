@@ -2,11 +2,11 @@
 title: "Website van je reparatiebedrijf: 5 tips voor meer aanvragen"
 excerpt: "Je website krijgt bezoekers maar weinig reparatie-aanvragen? Deze 5 aanpassingen verhogen je conversie direct."
 date: "2026-04-18"
+cluster: "website-conversie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-website-meer-aanvragen.jpg"
 tags: ["Website", "Conversie", "Leads"]
 ---
-
 ## Bezoekers die vertrekken zonder te boeken
 
 Een klant met een kapotte wasmachine googelt "wasmachine reparatie [stad]", klikt op jouw website, kijkt rond en vertrekt. Geen telefoontje, geen formulier, geen WhatsApp. Dit gebeurt bij 98 procent van de bezoekers op een gemiddelde reparateurswebsite.

@@ -2,11 +2,11 @@
 title: "Reviews verzamelen na een spoedklus: zo doe je dat als reparatiebedrijf"
 excerpt: "Na een spoedklus is de klant opgelucht. Precies het juiste moment om een review te vragen. Zo automatiseer je dat."
 date: "2026-04-15"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-na-spoedklus-reparatie.jpg"
 tags: ["Reviews", "Automatisering", "Klantrelatie"]
 ---
-
 De wasmachine lekt, de vaatwasser doet het niet meer, de verwarming valt uit midden in de winter. Je klant belt in paniek, jij lost het op, en een uur later werkt alles weer. De opluchting is enorm. Precies op dat moment staat de klant het meest open voor een review. Maar als je het niet vraagt, gebeurt het niet.
 
 De meeste reparatiebedrijven laten dit moment voorbijgaan. Niet omdat ze geen reviews willen, maar omdat er altijd een volgende spoedklus wacht. Het gevolg: een handvol reviews terwijl je tientallen tevreden klanten per maand helpt.
