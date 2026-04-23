@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Reparatiebedrijven',
     siteUrl: 'https://www.reparatieai.nl/',
     metadata: {
-        title: 'ReparatieAI - De slimme assistent voor jouw reparatiebedrijf',
+        title: 'ReparatieAI - AI voor jouw reparatiebedrijf',
         description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. ReparatieAI regelt je agenda, telefoon en administratie volledig automatisch.',
     },
     language: 'nl-NL',
