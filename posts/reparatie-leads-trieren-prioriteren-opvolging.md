@@ -29,6 +29,8 @@ Voor de [AI telefonist](/voice-ai) van een reparatiebedrijf werkt dit principe n
 
 ## De 5 categorieën waarin elke reparatie-lead valt
 
+![Werkplaats van een reparatiebedrijf met geopende koffiemachine, gereedschap en notitieboek met categorie-aantekeningen](/images/blog/reparatie-leads-trieren-prioriteren-opvolging-2.jpg)
+
 Op basis van wat we zien bij Nederlandse reparatiebedrijven (witgoed, koffieautomaten, fiets-elektronica, audio-apparatuur, tuin-machines en huishoudelektronica), dekken vijf categorieën circa 95 procent van alle binnenkomende leads.
 
 ### 1. Warm-en-vast (8-15% van je leads, 70-85% conversie)
