@@ -1,6 +1,6 @@
 ---
 title: "Voice AI scripts voor reparatiebedrijven"
-excerpt: "Een goede AI telefonist voor een reparatiebedrijf stelt de juiste intake-vragen, schat de klus juist in en boekt direct. Scripts per type reparatie, getest in de praktijk."
+excerpt: "Een goede AI telefonist voor reparatiebedrijven stelt de juiste intake-vragen en boekt direct. Scripts per type reparatie, getest in de praktijk."
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voice-ai-scripts-reparatiebedrijf-intake.jpg"
