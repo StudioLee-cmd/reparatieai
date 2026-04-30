@@ -1,7 +1,7 @@
 ---
 title: "Welke GBP-categorie kies je als reparateur die meerdere apparaten doet?"
 slug: gbp-categorie-keuze-multi-discipline-reparatiebedrijf
-date: 2026-04-30
+date: 2026-04-29
 excerpt: "Telefoon, witgoed én fiets repareren? Welke Google Bedrijfsprofiel-categorie als primair, welke als secundair, en waarom een verkeerde keuze je 30-50% verkeer kan kosten."
 image: "/images/blog/gbp-categorie-keuze-multi-discipline-reparatiebedrijf.jpg"
 authorSlug: "tim-van-der-lee"
