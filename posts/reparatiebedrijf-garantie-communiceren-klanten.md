@@ -1,5 +1,5 @@
 ---
-title: "Garantie na reparatie: hoe communiceer je het slim naar klanten?"
+title: "Garantie na reparatie: hoe communiceer je het slim?"
 slug: reparatiebedrijf-garantie-communiceren-klanten
 date: "2026-05-01"
 excerpt: "Een goed gecommuniceerde garantie levert 30-45% meer reviews en 15-25% meer herhaalbezoek op. Voorbeeldteksten en de 4 fouten die je moet vermijden."
