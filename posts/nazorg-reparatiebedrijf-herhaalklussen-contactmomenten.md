@@ -2,7 +2,7 @@
 title: "Nazorg reparatiebedrijf: 3 contactmomenten die herhaalklussen opleveren"
 excerpt: "Drie concrete nazorg-contactmomenten na een reparatie die een eenmalige klant omzetten in een terugkerende relatie van 3 tot 5 reparaties per jaar."
 date: "2026-04-22"
-cluster: "nazorg"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-reparatiebedrijf-herhaalklussen-contactmomenten.jpg"
 tags: ["Reparatiebedrijf", "Nazorg", "Klantrelatie", "Herhaalklussen"]

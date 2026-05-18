@@ -5,7 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/garantiebeleid-reparatiebedrijf-vertrouwen.png"
 tags: ["Reparatiebedrijf", "Garantie", "Vertrouwen"]
-cluster: "garantiebeleid"
+cluster: "website"
 ---
 
 ## Waarom garantie het verschil maakt

@@ -5,7 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-reparatiebedrijf-partners.png"
 tags: ["samenwerkingen", "reparatiebedrijf", "groei"]
-cluster: "samenwerkingen"
+cluster: "branding"
 ---
 
 De meeste reparatiebedrijven wachten tot klanten hen vinden via Google of mond-tot-mond. Maar de slimste reparatiebedrijven hebben partners die actief klanten doorsturen. Winkels die zelf niet repareren, verzekeraars die vakmensen nodig hebben, woningbouwverenigingen met honderden huishoudens.

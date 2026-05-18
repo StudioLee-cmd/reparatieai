@@ -2,7 +2,7 @@
 title: "Leads opvolgen als reparatiebedrijf: geen offerte missen"
 excerpt: "Mis je offerteaanvragen omdat je op een klus bent? Ontdek hoe je als reparatiebedrijf elke lead opvolgt — automatisch en zonder gedoe."
 date: "2026-04-04"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-reparatiebedrijf-geen-offerte-missen.jpg"
 tags: ["Leads", "Opvolging", "Reparatiebedrijf"]

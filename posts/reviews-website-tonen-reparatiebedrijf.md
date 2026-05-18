@@ -2,7 +2,7 @@
 title: "Reviews op je website tonen: zo overtuig je als reparatiebedrijf"
 excerpt: "Google reviews op je eigen website plaatsen versterkt het vertrouwen van bezoekers. Ontdek hoe je ze toont en welke reviews het meest overtuigen."
 date: "2026-04-12"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-website-tonen-reparatiebedrijf.jpg"
 tags: ["Reviews", "Website", "Groei"]

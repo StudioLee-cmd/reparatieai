@@ -6,7 +6,7 @@ excerpt: "Een concurrentieanalyse helpt reparatiebedrijven het uurtarief en aanb
 image: "/images/blog/concurrentieanalyse-reparatiebedrijven-6-datapunten.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Concurrentieanalyse", "Marktonderzoek", "Strategie"]
-cluster: "concurrentieanalyse"
+cluster: "branding"
 ---
 
 Een huishoudelijke-apparaat reparatiebedrijf in Eindhoven hanteerde 65 euro per uur voor wasmachine-, vaatwas- en koelkast-reparaties. Toen de eigenaar voor het eerst bewust 5 lokale concurrenten in kaart bracht, bleek dat 4 van de 5 tussen 75 en 95 euro per uur zaten. Het aanpassen van zijn tarief in stappen van 5 euro per kwartaal leverde 12 maanden later 22.000 euro extra omzet op, zonder een enkele klant te verliezen.

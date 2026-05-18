@@ -5,7 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-reparatiebedrijf.png"
 tags: ["leadgeneratie", "reparatiebedrijf", "marketing"]
-cluster: "lead-opvolging"
+cluster: "automatisering"
 ---
 
 Veel reparatiebedrijven zijn afhankelijk van een handvol vaste klanten en af en toe een toevallige aanvraag. Dat werkt — tot het niet meer werkt. Een vaste klant verhuist, een concurrent opent om de hoek, en opeens is je agenda half leeg.

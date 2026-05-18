@@ -5,7 +5,7 @@ date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatie-klantdossier-herhaalopdrachten.jpg"
 tags: ["CRM", "Klantbeheer", "Reparatie"]
-cluster: "crm-klantbeheer"
+cluster: "automatisering"
 ---
 
 Een wasmachine gerepareerd vorig jaar. Zes maanden later belt dezelfde klant voor de vaatwasser, maar je herkent de naam niet. Je rijdt erheen, doet de klus, vergeet hem weer. Over 14 maanden komt hij niet meer terug want hij belde direct een concurrent die hij pas leerde kennen. Kans verloren.

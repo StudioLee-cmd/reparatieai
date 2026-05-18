@@ -2,7 +2,7 @@
 title: "Garantie op reparaties: zo bouw je vertrouwen op"
 excerpt: "Klanten kiezen voor de reparateur die garantie biedt. Ontdek hoe je garantiebeleid slim inzet om meer opdrachten te winnen en betere reviews te krijgen."
 date: "2026-04-14"
-cluster: "garantiebeleid"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/garantie-reparatie-vertrouwen-opbouwen.jpg"
 tags: ["Garantie", "Klantrelatie", "Reparatie Tips"]

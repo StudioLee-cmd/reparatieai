@@ -2,7 +2,7 @@
 title: "Website van je reparatiebedrijf: 5 tips voor meer aanvragen"
 excerpt: "Je website krijgt bezoekers maar weinig reparatie-aanvragen? Deze 5 aanpassingen verhogen je conversie direct."
 date: "2026-04-18"
-cluster: "website-conversie"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-website-meer-aanvragen.jpg"
 tags: ["Website", "Conversie", "Leads"]

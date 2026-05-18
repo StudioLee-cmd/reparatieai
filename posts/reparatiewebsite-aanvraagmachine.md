@@ -5,7 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiewebsite-aanvraagmachine.png"
 tags: ["Website", "Conversie", "Leadgeneratie"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 ## Waarom je website meer kan doen

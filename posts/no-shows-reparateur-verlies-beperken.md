@@ -2,7 +2,7 @@
 title: "No-shows als reparateur: zo beperk je het verlies"
 excerpt: "Klanten die niet thuis zijn wanneer je langskomt kosten je tijd en geld. Ontdek hoeveel en wat je eraan kunt doen."
 date: "2026-04-17"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-reparateur-verlies-beperken.jpg"
 tags: ["No-shows", "Planning", "Omzet"]

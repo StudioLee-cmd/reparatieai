@@ -6,7 +6,7 @@ excerpt: "Voor-na fotos van reparaties zijn de sterkste marketing-asset die een 
 image: "/images/blog/foto-portfolio-reparaties-marketing-zonder-uren-werk.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Portfolio", "Marketing", "Foto", "Social media", "Reparatiebedrijf"]
-cluster: "portfolio"
+cluster: "website"
 ---
 
 **In het kort:**

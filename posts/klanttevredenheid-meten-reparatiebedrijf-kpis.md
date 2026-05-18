@@ -2,7 +2,7 @@
 title: "Klanttevredenheid meten als reparatiebedrijf: de 4 KPI's"
 excerpt: "Klanttevredenheid als reparatiebedrijf: niet zomaar reviews, maar vier concrete meetpunten die direct voorspellen of jouw bedrijf het komende jaar groeit of krimpt."
 date: "2026-04-21"
-cluster: "klanttevredenheid"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-meten-reparatiebedrijf-kpis.jpg"
 tags: ["Reparatiebedrijf", "Klanttevredenheid", "KPI", "Groei"]

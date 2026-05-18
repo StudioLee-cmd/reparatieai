@@ -5,7 +5,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-monteurs-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
-cluster: ""
+cluster: "automatisering"
 ---
 
 Het runnen van een reparatiebedrijf anno 2026 is topsport. Je bent niet alleen vakspecialist die apparaten weer aan de praat krijgt, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel ondernemers die wij spreken, staan de hele dag te sleutelen, maar als ze eerlijk kijken, zijn ze 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, onderdelen bestellen en facturen doen.

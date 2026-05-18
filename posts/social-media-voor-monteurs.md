@@ -5,7 +5,7 @@ date: "2026-01-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-voor-monteurs.png"
 tags: ["Social Media", "Branding", "Automatisering"]
-cluster: ""
+cluster: "social-media"
 ---
 
 Ik hoor het je denken: "Social Media? Daar heb ik toch geen tijd voor? Ik ben monteur, geen influencer! Ik ga echt geen dansjes doen op TikTok of elke dag mijn lunch posten." En je hebt groot gelijk. Dat moet je ook helemaal niet willen. Jij bent een vakman, geen clown.

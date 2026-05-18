@@ -6,7 +6,7 @@ excerpt: "5 werkplaats-software-systemen voor reparatiebedrijven vergeleken in 2
 image: "/images/blog/werkplaats-software-reparatiebedrijf-5-systemen-vergeleken.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Software-vergelijking", "Werkplaatsplanning", "Reparatiebedrijf"]
-cluster: "software-vergelijking"
+cluster: "automatisering"
 ---
 
 **In het kort:**

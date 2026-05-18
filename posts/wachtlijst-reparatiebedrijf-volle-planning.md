@@ -2,7 +2,7 @@
 title: "Wachtlijst als no-show buffer: altijd een volle planning als reparatiebedrijf"
 excerpt: "Slim wachtlijstbeheer voorkomt lege plekken door no-shows. Zo zet je een wachtlijst op die je reparatieplanning vol houdt."
 date: "2026-04-09"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijst-reparatiebedrijf-volle-planning.jpg"
 tags: ["No-shows", "Reparatie", "Planning"]

@@ -5,7 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-reparatiebedrijf-meer-klanten.jpg"
 tags: ["Lead opvolging", "Klanten", "Groei"]
-cluster: "lead-opvolging"
+cluster: "automatisering"
 ---
 
 ## De klant die niet wacht

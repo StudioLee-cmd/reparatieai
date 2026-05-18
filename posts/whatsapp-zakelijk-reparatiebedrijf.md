@@ -2,7 +2,7 @@
 title: "WhatsApp zakelijk inzetten als reparatiebedrijf: tips en voorbeelden"
 excerpt: "WhatsApp is het meest gebruikte communicatiekanaal in Nederland. Zo zet je het professioneel in voor je reparatiebedrijf."
 date: "2026-04-05"
-cluster: "sms-whatsapp"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-zakelijk-reparatiebedrijf.jpg"
 tags: ["WhatsApp", "Reparatie", "Communicatie"]

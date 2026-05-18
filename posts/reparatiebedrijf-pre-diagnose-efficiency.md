@@ -5,7 +5,7 @@ date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-pre-diagnose-efficiency.jpg"
 tags: ["Intake", "Pre-diagnose", "Tijdwinst"]
-cluster: "offerte-proces"
+cluster: "automatisering"
 ---
 
 Een gemiddeld Nederlands reparatiebedrijf voor huishoudelijke apparaten, elektronica of kleine motoren voert elke werkdag tussen de 15 en 30 pre-intake-gesprekken. Een potentiële klant belt of vult een formulier in met een vage omschrijving ("mijn wasmachine maakt rare geluiden" of "de koelkast koelt niet meer"), en voordat er überhaupt een reparatie-afspraak geboekt kan worden moet er een diagnose-achtig gesprek plaatsvinden. Wat is het precies? Welk merk, welk type, hoe oud? Wat zijn de symptomen? Kun je een foto sturen? Wat verwacht je qua kosten?

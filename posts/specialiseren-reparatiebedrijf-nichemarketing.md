@@ -5,7 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-reparatiebedrijf-nichemarketing.png"
 tags: ["Specialisatie", "Marketing", "Strategie"]
-cluster: "specialisatie"
+cluster: "branding"
 ---
 
 ## Waarom specialisatie loont

@@ -5,7 +5,7 @@ date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-website-reparatiebedrijf.png"
 tags: ["prijzen communiceren", "reparatiebedrijf", "website"]
-cluster: "prijzen-communiceren"
+cluster: "website"
 ---
 
 "Wat kost een reparatie?" Klanten willen het weten voordat ze bellen. Als jouw [website](/blog/reparatiewebsite-aanvraagmachine) geen enkele prijsindicatie geeft, kiest de bezoeker voor een concurrent die dat wel doet.

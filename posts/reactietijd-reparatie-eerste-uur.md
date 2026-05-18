@@ -2,7 +2,7 @@
 title: "Reactietijd bij reparaties: waarom het eerste uur telt"
 excerpt: "De snelste reparateur wint de klant. Ontdek waarom reactietijd belangrijker is dan prijs en hoe je altijd als eerste reageert."
 date: "2026-04-12"
-cluster: "lead-opvolging"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reactietijd-reparatie-eerste-uur.jpg"
 tags: ["Leads", "Snelheid", "Groei"]

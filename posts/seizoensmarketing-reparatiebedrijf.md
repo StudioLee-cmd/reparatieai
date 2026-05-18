@@ -5,7 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoensmarketing-reparatiebedrijf.png"
 tags: ["Seizoensmarketing", "Planning", "Groei"]
-cluster: "seizoenswerk"
+cluster: "automatisering"
 ---
 
 Elk reparatiebedrijf kent het patroon: in sommige maanden sta je de telefoon niet bij te houden, in andere weken is het stil. Wasmachines geven het vaker op na intensief gebruik in de feestperiode. Airconditioners falen in de eerste hittegolf. En in januari belt niemand voor de kapotte vaatwasser die al drie maanden lekt.

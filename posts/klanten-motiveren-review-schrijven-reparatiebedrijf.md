@@ -2,7 +2,7 @@
 title: "Klanten motiveren een review te schrijven als reparatiebedrijf: wat werkt echt"
 excerpt: "De meeste klanten willen best een review schrijven, maar doen het niet. Zo motiveer je ze zonder opdringerig te zijn."
 date: "2026-04-10"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanten-motiveren-review-schrijven-reparatiebedrijf.jpg"
 tags: ["Reviews", "Reparatie", "Klanten"]

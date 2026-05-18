@@ -5,7 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/statusupdates-reparatiebedrijf-klanten.png"
 tags: ["Reparatie", "Klantcommunicatie", "Automatisering"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 ## Het eeuwige telefoontje: "Is mijn apparaat al klaar?"

@@ -2,7 +2,7 @@
 title: "Review vragen na reparatie: het ideale moment en bericht"
 excerpt: "Wanneer vraag je klanten om een review na een reparatie? Te vroeg is opdringerig, te laat vergeten ze het. Ontdek de perfecte timing en berichtformulering."
 date: "2026-04-11"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-vragen-na-reparatie-timing.jpg"
 tags: ["Reviews", "Klanttevredenheid", "Groei"]

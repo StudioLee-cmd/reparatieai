@@ -2,7 +2,7 @@
 title: "No-shows voorkomen bij reparaties: klant op tijd herinneren"
 excerpt: "Gemiste afspraken kosten reparatiebedrijven duizenden euro's per jaar. Ontdek hoe automatische herinneringen no-shows met 50 procent verminderen."
 date: "2026-04-07"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-reparatiebedrijf-voorkomen.jpg"
 tags: ["No-shows", "Reparatie", "Herinneringen"]

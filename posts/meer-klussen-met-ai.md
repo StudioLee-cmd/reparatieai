@@ -5,7 +5,7 @@ date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-klussen-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
-cluster: ""
+cluster: "reviews"
 ---
 
 Als je zelf een reparateur zoekt, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een bedrijf 3,4 sterren? Dan scroll je door, want je vertrouwt het niet. Heeft hij 4,9 sterren met 200 reviews? Dan bel je hem direct. In de reparatiebranche, waar vertrouwen alles is (klanten geven hun kostbare bezit aan jou mee), is jouw online reputatie je belangrijkste bezit.

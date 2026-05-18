@@ -6,7 +6,7 @@ excerpt: "Telefoon, witgoed én fiets repareren? Welke Google Bedrijfsprofiel-ca
 image: "/images/blog/gbp-categorie-keuze-multi-discipline-reparatiebedrijf.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Google Profiel", "Vindbaarheid", "SEO"]
-cluster: google-bedrijfsprofiel
+cluster: "vindbaarheid"
 ---
 
 # Welke Google Bedrijfsprofiel-categorie kies je als reparateur die meerdere apparaten doet?
