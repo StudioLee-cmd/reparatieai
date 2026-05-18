@@ -6,7 +6,7 @@ excerpt: "Concrete ROI-rekensom voor AI-automatisering in een reparatiebedrijf: 
 image: "/images/blog/kosten-ai-automatisering-reparatiebedrijf-roi.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Tools", "ROI", "Kosten", "AI-automatisering", "Reparatiebedrijf"]
-cluster: "tools-uitleg"
+cluster: "automatisering"
 ---
 
 **In het kort:**
