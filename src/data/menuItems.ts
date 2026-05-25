@@ -12,6 +12,7 @@ export const menuItems: IMenuItem[] = [
             { text: "Reviews voor Reparatiebedrijven", url: "/reviews" },
             { text: "Review Pakket", url: "/review-pakket" },
             { text: "CRM voor Reparatiebedrijven", url: "/crm" },
+            { text: "Automatisering voor Reparateurs", url: "/automatisering" },
         ]
     },
     {
