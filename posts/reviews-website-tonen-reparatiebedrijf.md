@@ -1,5 +1,6 @@
 ---
 title: "Reviews op je website tonen: zo overtuig je als reparatiebedrijf"
+seoTitle: "Reviews op je website tonen"
 excerpt: "Google reviews op je eigen website plaatsen versterkt het vertrouwen van bezoekers. Ontdek hoe je ze toont en welke reviews het meest overtuigen."
 date: "2026-04-12"
 cluster: "reviews"

@@ -1,6 +1,6 @@
 ---
 title: "Pre-diagnose bij reparatiebedrijven: intake-tijd halveren"
-excerpt: "Pre-intake-gesprekken over storingen kosten reparatiebedrijven 5 uur per werkdag aan gesprekken die meestal niet tot omzet leiden. Zo doorbreek je het patroon structureel."
+excerpt: "Pre-intake-gesprekken over storingen kosten reparatiebedrijven 5 uur per werkdag aan gesprekken die meestal niet tot omzet leiden."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-pre-diagnose-efficiency.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Het Einde van de \"Telefoon tijdens het Sleutelen\": 24/7 Bereikbaar Zonder Personeel"
+seoTitle: "Het Einde van de \"Telefoon tijdens het Sleutelen\""
 excerpt: "Mis nooit meer een klus omdat je met vieze handen staat. Onze Voice AI neemt op, plant reparaties en beantwoordt vragen. Veilig en winstgevend."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"

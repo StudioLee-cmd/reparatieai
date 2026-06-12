@@ -1,5 +1,6 @@
 ---
 title: "Hoe AI Monteurs Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)"
+seoTitle: "Hoe AI Monteurs Helpt Bij Het Besparen Van Tijd"
 excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van reparateurs kan automatiseren. Van admin tot planning: dit is je nieuwe digitale opzichter."
 date: "2025-12-15"
 authorSlug: "tim-van-der-lee"

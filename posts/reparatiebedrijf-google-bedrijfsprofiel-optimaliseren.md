@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel als reparatiebedrijf: complete optimalisatie"
+seoTitle: "Google Bedrijfsprofiel als reparatiebedrijf"
 excerpt: "Je Google Bedrijfsprofiel is gratis en het belangrijkste verkoopkanaal voor reparatiebedrijven. Lees hoe je het volledig optimaliseert."
 date: "2026-04-08"
 cluster: "vindbaarheid"

@@ -1,6 +1,7 @@
 ---
 title: "Beste software voor reparatiebedrijven 2026: tools vergeleken"
-excerpt: "Welke software helpt jouw reparatiebedrijf groeien? Een eerlijke vergelijking van de beste tools in 2026."
+seoTitle: "Beste software voor reparatiebedrijven 2026"
+excerpt: "Welke software helpt jouw reparatiebedrijf groeien? Een eerlijke vergelijking van de beste tools in 2026. Met prijzen en praktijkervaringen."
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-software-voor-reparatiebedrijven-2026.png"

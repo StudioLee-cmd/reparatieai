@@ -1,5 +1,6 @@
 ---
 title: "Reparatiekosten communiceren naar klanten: eerlijk, duidelijk, zonder gedoe"
+seoTitle: "Reparatiekosten communiceren naar klanten"
 excerpt: "Klanten willen weten wat een reparatie kost voordat je begint. Zo communiceer je prijzen helder zonder jezelf tekort te doen."
 date: "2026-04-05"
 cluster: "automatisering"

@@ -1,6 +1,7 @@
 ---
 title: "Administratie voor reparatiebedrijven: slim regelen, meer tijd voor klussen"
-excerpt: "Leer hoe je als reparatiebedrijf je administratie slim regelt en meer tijd overhoudt voor je klanten."
+seoTitle: "Administratie voor reparatiebedrijven"
+excerpt: "Leer hoe je als reparatiebedrijf je administratie slim regelt en meer tijd overhoudt voor je klanten. Van werkbonnen tot facturatie, slim geregeld."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-reparatiebedrijf-slim-regelen.jpg"

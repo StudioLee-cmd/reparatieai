@@ -1,5 +1,6 @@
 ---
 title: "Online reputatie als reparatiebedrijf: bescherm je tegen onterechte klachten"
+seoTitle: "Online reputatie als reparatiebedrijf"
 excerpt: "Eén onterechte klacht kan je online reputatie beschadigen. Leer hoe je als reparatiebedrijf je reputatie beschermt en versterkt."
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"

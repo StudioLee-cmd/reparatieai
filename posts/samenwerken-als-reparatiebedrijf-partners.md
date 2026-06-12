@@ -1,5 +1,6 @@
 ---
 title: "Samenwerken als reparatiebedrijf: partners die klanten doorsturen"
+seoTitle: "Samenwerken als reparatiebedrijf"
 excerpt: "Strategische samenwerkingen met winkels, verzekeraars en woningbouwverenigingen helpen reparatiebedrijven aan een constante stroom klanten."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

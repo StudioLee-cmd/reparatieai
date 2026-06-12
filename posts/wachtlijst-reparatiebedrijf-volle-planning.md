@@ -1,5 +1,6 @@
 ---
 title: "Wachtlijst als no-show buffer: altijd een volle planning als reparatiebedrijf"
+seoTitle: "Wachtlijst als no-show buffer"
 excerpt: "Slim wachtlijstbeheer voorkomt lege plekken door no-shows. Zo zet je een wachtlijst op die je reparatieplanning vol houdt."
 date: "2026-04-09"
 cluster: "automatisering"

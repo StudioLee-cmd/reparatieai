@@ -1,5 +1,6 @@
 ---
 title: "Reparatiebedrijf: het klant-dossier dat 30% meer herhaalopdrachten oplevert"
+seoTitle: "Het klantdossier dat 30% meer herhaalopdrachten oplevert"
 excerpt: "Een simpel CRM met reparatie-historie per klant maakt het verschil tussen eenmalig klussen en een vaste stroom terugkerende opdrachten."
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"

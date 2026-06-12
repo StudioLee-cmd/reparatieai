@@ -1,6 +1,7 @@
 ---
 title: "Mond-tot-mondreclame als reparatiebedrijf: tevreden klanten als groeimotor"
-excerpt: "De krachtigste marketing voor reparatiebedrijven is mond-tot-mond. Leer hoe je klanten activeert als ambassadeurs."
+seoTitle: "Mond-tot-mondreclame als reparatiebedrijf"
+excerpt: "De krachtigste marketing voor reparatiebedrijven is mond-tot-mond. Leer hoe je klanten activeert als ambassadeurs. Met concrete acties."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-reparatiebedrijf.png"

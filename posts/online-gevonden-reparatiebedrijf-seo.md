@@ -1,6 +1,6 @@
 ---
 title: "Online gevonden worden als reparatiebedrijf: lokale SEO tips"
-excerpt: "Klanten met een kapot apparaat zoeken direct op Google. Zo zorg je dat jouw reparatiebedrijf bovenaan verschijnt."
+excerpt: "Klanten met een kapot apparaat zoeken direct op Google. Zo zorg je dat jouw reparatiebedrijf bovenaan verschijnt. Praktische SEO-tips."
 date: "2026-04-17"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"

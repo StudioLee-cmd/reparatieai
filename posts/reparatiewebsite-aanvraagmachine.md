@@ -1,6 +1,6 @@
 ---
 title: "Je reparatiewebsite omzetten in een aanvraagmachine"
-excerpt: "Ontdek hoe je als reparatiebedrijf je website inricht zodat bezoekers direct een aanvraag indienen."
+excerpt: "Ontdek hoe je als reparatiebedrijf je website inricht zodat bezoekers direct een aanvraag indienen. Met vijf concrete verbeterpunten voor je site."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiewebsite-aanvraagmachine.png"

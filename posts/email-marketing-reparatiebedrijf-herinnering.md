@@ -1,5 +1,6 @@
 ---
 title: "Email marketing voor reparatiebedrijven: herinneringen die klanten terugbrengen"
+seoTitle: "Email marketing voor reparatiebedrijven"
 slug: "email-marketing-reparatiebedrijf-herinnering"
 date: "2026-03-22"
 excerpt: "De meeste klanten vergeten hun reparatiebedrijf na de klus. Met slimme email marketing blijf je in beeld en genereer je herhaalopdrachten."

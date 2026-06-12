@@ -1,5 +1,6 @@
 ---
 title: "ReparatieAI vs. Kantoorpersoneel: Waarom meer betalen als het minder oplevert?"
+seoTitle: "ReparatieAI vs. Kantoorpersoneel"
 excerpt: "De harde cijfers. Waarom zou je €3000 per maand betalen aan personeel als AI het beter kan voor een fractie van de prijs?"
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"

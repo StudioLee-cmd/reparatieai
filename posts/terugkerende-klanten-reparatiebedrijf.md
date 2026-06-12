@@ -1,6 +1,7 @@
 ---
 title: "Zo maak je van eenmalige klanten terugkerende klanten in je reparatiebedrijf"
-excerpt: "Een reparatie is vaak eenmalig contact. Maar met de juiste strategie maak je van elke klant een terugkerende klant."
+seoTitle: "Terugkerende klanten voor je reparatiebedrijf"
+excerpt: "Een reparatie is vaak eenmalig contact. Maar met de juiste strategie maak je van elke klant een terugkerende klant. Zo bouw je dat op."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/terugkerende-klanten-reparatiebedrijf.png"

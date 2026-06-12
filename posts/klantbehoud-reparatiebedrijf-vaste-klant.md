@@ -1,5 +1,6 @@
 ---
 title: "Klantbehoud als reparatiebedrijf: van eenmalige reparatie naar vaste klant"
+seoTitle: "Klantbehoud als reparatiebedrijf"
 slug: "klantbehoud-reparatiebedrijf-vaste-klant"
 date: "2026-03-21"
 excerpt: "Een reparatie is vaak een eenmalig contactmoment. Maar met de juiste aanpak maak je van elke klant een terugkerende relatie."

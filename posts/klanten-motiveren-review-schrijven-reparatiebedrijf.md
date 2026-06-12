@@ -1,6 +1,7 @@
 ---
 title: "Klanten motiveren een review te schrijven als reparatiebedrijf: wat werkt echt"
-excerpt: "De meeste klanten willen best een review schrijven, maar doen het niet. Zo motiveer je ze zonder opdringerig te zijn."
+seoTitle: "Reviews vragen als reparatiebedrijf: wat werkt echt"
+excerpt: "De meeste klanten willen best een review schrijven, maar doen het niet. Zo motiveer je ze zonder opdringerig te zijn. Drie bewezen methodes."
 date: "2026-04-10"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"

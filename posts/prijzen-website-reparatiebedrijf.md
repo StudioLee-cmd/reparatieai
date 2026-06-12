@@ -1,5 +1,6 @@
 ---
 title: "Prijzen op je website als reparatiebedrijf: transparantie die vertrouwen wekt"
+seoTitle: "Prijzen op je website als reparatiebedrijf"
 excerpt: "Moet je als reparatiebedrijf prijzen op je website tonen? Ontdek hoe transparantie meer aanvragen en betere klanten oplevert."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"

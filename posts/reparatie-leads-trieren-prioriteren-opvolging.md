@@ -1,6 +1,6 @@
 ---
 title: "Reparatie-leads triëren: welke aanvragen bel je eerst terug?"
-excerpt: "Niet elke reparatie-aanvraag is een goede klus. Zo sorteer je binnen 30 seconden binnenkomende leads in vijf categorieën — en bel je systematisch de juiste eerst terug."
+excerpt: "Niet elke reparatie-aanvraag is een goede klus. Zo sorteer je binnen 30 seconden binnenkomende leads in vijf categorieën."
 date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

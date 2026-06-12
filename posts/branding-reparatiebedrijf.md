@@ -1,5 +1,6 @@
 ---
 title: "Branding als reparatiebedrijf: zo herkennen klanten jou meteen"
+seoTitle: "Branding als reparatiebedrijf"
 excerpt: "Een sterk merk als reparatiebedrijf zorgt voor herkenning en vertrouwen. Leer hoe je je onderscheidt van de concurrentie."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

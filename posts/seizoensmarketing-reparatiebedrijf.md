@@ -1,5 +1,6 @@
 ---
 title: "Seizoensmarketing voor reparatiebedrijven: het hele jaar door werk"
+seoTitle: "Seizoensmarketing voor reparatiebedrijven"
 excerpt: "Reparaties kennen piekmomenten en dalen. Ontdek hoe je met seizoensmarketing het hele jaar door een stabiele stroom aan opdrachten houdt."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

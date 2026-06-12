@@ -1,6 +1,7 @@
 ---
 title: "Reviews verzamelen na een spoedklus: zo doe je dat als reparatiebedrijf"
-excerpt: "Na een spoedklus is de klant opgelucht. Precies het juiste moment om een review te vragen. Zo automatiseer je dat."
+seoTitle: "Reviews verzamelen na een spoedklus"
+excerpt: "Na een spoedklus is de klant opgelucht. Precies het juiste moment om een review te vragen. Zo automatiseer je dat. Zonder extra werk."
 date: "2026-04-15"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"

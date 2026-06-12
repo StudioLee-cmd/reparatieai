@@ -1,8 +1,9 @@
 ---
 title: "Offertes als reparatiebedrijf: sneller reageren, meer klussen winnen"
+seoTitle: "Offertes als reparatiebedrijf"
 slug: "offertes-reparatiebedrijf-meer-klussen"
 date: "2026-03-23"
-excerpt: "De snelste offerte wint. Ontdek hoe je als reparatiebedrijf je offerteproces versnelt en meer klussen binnenhaalt."
+excerpt: "De snelste offerte wint. Ontdek hoe je als reparatiebedrijf je offerteproces versnelt en meer klussen binnenhaalt. Met automatisering."
 image: "/images/blog/offertes-reparatiebedrijf-meer-klussen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"

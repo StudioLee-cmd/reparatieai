@@ -1,5 +1,6 @@
 ---
 title: "Leadgeneratie als reparatiebedrijf: meer klanten via slimme kanalen"
+seoTitle: "Leadgeneratie als reparatiebedrijf"
 excerpt: "Ontdek hoe je als reparatiebedrijf structureel meer aanvragen genereert via je website, Google en slimme online kanalen."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"

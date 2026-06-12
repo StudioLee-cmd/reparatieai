@@ -1,5 +1,6 @@
 ---
 title: "Nazorg reparatiebedrijf: 3 contactmomenten die herhaalklussen opleveren"
+seoTitle: "Nazorg reparatiebedrijf"
 excerpt: "Drie concrete nazorg-contactmomenten na een reparatie die een eenmalige klant omzetten in een terugkerende relatie van 3 tot 5 reparaties per jaar."
 date: "2026-04-22"
 cluster: "automatisering"

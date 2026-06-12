@@ -1,6 +1,7 @@
 ---
 title: "Specialiseren als reparatiebedrijf: nichemarketing die meer oplevert"
-excerpt: "Leer waarom specialisatie als reparatiebedrijf meer oplevert dan alles repareren en hoe je je niche kiest."
+seoTitle: "Specialiseren als reparatiebedrijf"
+excerpt: "Leer waarom specialisatie als reparatiebedrijf meer oplevert dan alles repareren en hoe je je niche kiest. Met praktijkvoorbeelden."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-reparatiebedrijf-nichemarketing.png"

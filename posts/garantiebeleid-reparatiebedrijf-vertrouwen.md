@@ -1,6 +1,7 @@
 ---
 title: "Garantiebeleid voor je reparatiebedrijf: meer vertrouwen en minder discussie"
-excerpt: "Een duidelijk garantiebeleid wint het vertrouwen van klanten en voorkomt discussies achteraf. Zo stel je het op."
+seoTitle: "Garantiebeleid voor je reparatiebedrijf"
+excerpt: "Een duidelijk garantiebeleid wint het vertrouwen van klanten en voorkomt discussies achteraf. Zo stel je het op. Met concrete voorbeelden."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/garantiebeleid-reparatiebedrijf-vertrouwen.png"

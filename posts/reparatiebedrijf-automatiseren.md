@@ -1,6 +1,7 @@
 ---
 title: "Reparatiebedrijf automatiseren: minder handwerk achter het bureau"
-excerpt: "Reparatiebedrijven besteden tot 15 uur per week aan planning en communicatie. Automatisering geeft je die uren terug."
+seoTitle: "Reparatiebedrijf automatiseren"
+excerpt: "Reparatiebedrijven besteden tot 15 uur per week aan planning en communicatie. Automatisering geeft je die uren terug. Dit pak je als eerste aan."
 date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

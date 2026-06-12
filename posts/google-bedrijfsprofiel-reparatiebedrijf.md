@@ -1,6 +1,7 @@
 ---
 title: "Google Bedrijfsprofiel voor je reparatiebedrijf: meer klanten uit je buurt"
-excerpt: "Ontdek hoe je als reparatiebedrijf met een sterk Google Bedrijfsprofiel meer lokale klanten aantrekt."
+seoTitle: "Google Bedrijfsprofiel voor je reparatiebedrijf"
+excerpt: "Ontdek hoe je als reparatiebedrijf met een sterk Google Bedrijfsprofiel meer lokale klanten aantrekt. Met praktische optimalisatietips."
 date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-reparatiebedrijf.png"

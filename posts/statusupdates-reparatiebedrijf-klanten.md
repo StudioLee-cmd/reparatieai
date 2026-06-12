@@ -1,5 +1,6 @@
 ---
 title: "Automatische statusupdates: zo bel je klanten niet meer terug over hun reparatie"
+seoTitle: "Automatische statusupdates"
 excerpt: "Klanten die bellen met 'Is mijn wasmachine al klaar?' kosten je uren per week. Automatische statusupdates lossen dat op."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
