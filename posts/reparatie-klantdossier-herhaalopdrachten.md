@@ -43,7 +43,7 @@ Begin simpel. Een goed klant-dossier heeft deze velden, niet meer:
 - **Notitie veld** voor bijzonderheden ("klant heeft hond, via achterom", "betaalt altijd contant", "zwanger volgende winter, niet meer planten verzetten").
 - **Opvolgings-flag** ("check terug na 6 maanden", "belt volgende keer voor CV-ketel onderhoud").
 
-Meer velden = meer onderhoudslast. Houd het klein. Excel, Notion of Airtable volstaat prima, maar een dedicated [CRM die via WhatsApp automatisch updatet](/automations) scheelt typwerk.
+Meer velden = meer onderhoudslast. Houd het klein. Excel, Notion of Airtable volstaat prima, maar een dedicated [CRM die via WhatsApp automatisch updatet](/automatisering) scheelt typwerk.
 
 ## De drie momenten waarop een CRM je omzet oplevert
 
@@ -85,7 +85,7 @@ Praktische redenen:
 
 Daarom is een lichte, WhatsApp-integrated CRM zo krachtig. Je markeert een klus als afgerond in je agenda of je facturatie-tool, en het systeem voegt automatisch toe aan het klantendossier en plant follow-ups in.
 
-Wil je een goed voorbeeld zien? Onze [automatisering voor reparatiebedrijven](/automations) koppelt je agenda, WhatsApp en klantdossier automatisch. Vraag een [gratis AI-scan aan](/gratis-scan) als je wilt weten waar jouw bedrijf nu staat en hoeveel herhaalomzet je nu laat liggen. Ook een [goede website](/gratis-website) helpt om klantgegevens direct bij intake al te verzamelen.
+Wil je een goed voorbeeld zien? Onze [automatisering voor reparatiebedrijven](/automatisering) koppelt je agenda, WhatsApp en klantdossier automatisch. Vraag een [gratis AI-scan aan](/gratis-scan) als je wilt weten waar jouw bedrijf nu staat en hoeveel herhaalomzet je nu laat liggen. Ook een [goede website](/gratis-website) helpt om klantgegevens direct bij intake al te verzamelen.
 
 ## Wat je vandaag al kunt doen
 

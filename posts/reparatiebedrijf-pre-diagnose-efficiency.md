@@ -58,7 +58,7 @@ Grenzen belangrijk om te zetten:
 - **Geen klachten-afhandelingen over eerdere reparaties.** Persoonlijk contact, geen AI.
 - **Geen onderhandeling over prijzen** zonder duidelijke tarievenstructuur. Maak je tarieven expliciet in de bandbreedte-offertes.
 
-Bij deze onderwerpen moet de chatbot altijd een terugbel-afspraak of persoonlijke mail aanbieden. Lees onze aanpak voor [klantcommunicatie bij reparatiebedrijven](/blog/klantcommunicatie-reparatiebedrijf) voor hoe je de grens tussen AI en mens in de praktijk netjes houdt.
+Bij deze onderwerpen moet de chatbot altijd een terugbel-afspraak of persoonlijke mail aanbieden. Lees onze aanpak voor klantcommunicatie bij reparatiebedrijven voor hoe je de grens tussen AI en mens in de praktijk netjes houdt.
 
 ## Wat de gecombineerde oplossing oplevert
 
