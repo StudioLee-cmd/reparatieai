@@ -93,4 +93,4 @@ Hoe sneller je een negatieve review spot, hoe sneller je kunt reageren. En hoe s
 
 Je online reputatie is een van je waardevolste bezittingen als reparatiebedrijf. Bescherm het door proactief reviews te verzamelen, professioneel te reageren op klachten, en een intern klachtenproces te bouwen dat problemen oplost voordat ze publiek worden.
 
-Wil je hulp bij het automatiseren van je reviewstrategie en klantcommunicatie? Bekijk wat [ReparatieAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het automatiseren van je reviewstrategie en klantcommunicatie? Bekijk wat [ReparatieAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).
