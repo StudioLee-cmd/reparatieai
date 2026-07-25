@@ -8,7 +8,6 @@ image: "/images/blog/terugkerende-klanten-reparatiebedrijf.png"
 tags: ["Reparatie", "Terugkerende Klanten", "Klantbehoud"]
 cluster: "automatisering"
 ---
-
 ## Het eenmalige-klant-probleem
 
 Een reparatiebedrijf heeft een uniek probleem: klanten komen wanneer iets kapot is, je repareert het, en ze vertrekken. Missie geslaagd — maar je ziet ze mogelijk nooit meer terug. Tot hun volgende apparaat kapotgaat, en dan googelen ze opnieuw en kiezen misschien een ander.
@@ -82,7 +81,7 @@ Met de juiste software draait dit volledig automatisch. Je hoeft er niet elke da
 
 Een reparatiebedrijf hoeft niet afhankelijk te zijn van steeds nieuwe klanten. Met onderhoudscontracten, slimme herinneringen en een loyaliteitsprogramma maak je van eenmalige klanten vaste klanten die jaar na jaar terugkomen.
 
-Met [ReparatieAI](/) automatiseren we je klantcommunicatie en herinneringen. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [ReparatieAI](/) automatiseren we je [klantcommunicatie](/automatisering) en herinneringen. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer terugkerende klanten krijgt.
 
