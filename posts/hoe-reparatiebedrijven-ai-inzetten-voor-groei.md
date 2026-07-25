@@ -7,7 +7,6 @@ image: "/images/blog/hoe-reparatiebedrijven-ai-inzetten-voor-groei.png"
 tags: ["AI", "Automatisering", "Reparatie"]
 cluster: "automatisering"
 ---
-
 In de reparatiebranche telt snelheid. De klant met een kapotte wasmachine, een defecte cv-ketel of een gebroken ruit wil niet wachten. Reparatiebedrijven die snel reageren, winnen de klant — en de review. AI helpt je die snelheid structureel te realiseren.
 
 ## Wat AI doet voor reparatiebedrijven
@@ -34,6 +33,8 @@ AI stuurt automatisch een WhatsApp-bericht na elke afgeronde reparatie: "Blij da
 **Stap 1**: Implementeer een digitaal aanvraagformulier met automatische bevestiging.
 **Stap 2**: Koppel je planning aan een field service app die urgentie en locatie combineert.
 **Stap 3**: Activeer review-automatisering na elke afgeronde klus.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-meten-reparatiebedrijf-kpis" class="text-dark fw-semibold">Klanttevredenheid meten als reparatiebedrijf: de 4 KPI's</a> →</p></div></div></div>
 
 ## Conclusie
 
