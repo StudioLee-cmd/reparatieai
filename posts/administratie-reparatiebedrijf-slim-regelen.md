@@ -8,7 +8,6 @@ image: "/images/blog/administratie-reparatiebedrijf-slim-regelen.jpg"
 tags: ["Administratie", "Efficiëntie", "Tools"]
 cluster: "automatisering"
 ---
-
 ## Het belang van goede administratie
 
 Als reparatiebedrijf is je dag gevuld met klussen, klanten en onverwachte storingen. Administratie voelt dan als het laatste waar je zin in hebt. Maar juist een goed geregelde administratie zorgt ervoor dat je bedrijf soepel draait.
@@ -63,6 +62,8 @@ Er zijn betaalbare tools die perfect passen bij reparatiebedrijven:
 - **Voorraadregistratie**: bijhouden welke onderdelen je op voorraad hebt
 
 De meeste pakketten kosten tussen de €10 en €20 per maand. De tijdsbesparing is vele malen groter dan de investering.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-monteurs-helpt" class="text-dark fw-semibold">Hoe AI Monteurs Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)</a> →</p></div></div></div>
 
 ## Je administratie automatiseren
 
