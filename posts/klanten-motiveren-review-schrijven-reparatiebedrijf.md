@@ -58,8 +58,10 @@ Bied nooit korting of cadeaus aan in ruil voor een review. Dit is in strijd met 
 
 Maak het nooit ingewikkeld. Geen QR-codes die niet werken, geen links die naar de verkeerde pagina leiden, geen formulieren die vijf velden vereisen. Een klik, sterren selecteren, twee zinnen typen, verzenden. Dat is het.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-respons-automatiseren-reparatiebedrijf" class="text-dark fw-semibold">Review-respons automatiseren voor reparatiebedrijven</a> →</p></div></div></div>
+
 ## Conclusie: een systeem dat zichzelf draait
 
-Reviews verzamelen is geen eenmalige actie. Het is een doorlopend proces dat automatisch moet draaien. Met het juiste bericht, op het juiste moment, via het juiste kanaal, groeit je review-aantal maand na maand.
+[Reviews verzamelen](/blog/reviews-na-spoedklus-reparatie) is geen eenmalige actie. Het is een doorlopend proces dat automatisch moet draaien. Met het juiste bericht, op het juiste moment, via het juiste kanaal, groeit je review-aantal maand na maand.
 
 Met een [automatisch review-systeem](/reviews) groeit je Google-profiel zonder extra werk. Wil je weten hoe automatische review-verzoeken werken voor jouw reparatiebedrijf? Vraag een [gratis scan](/gratis-scan) aan en we laten het zien.
