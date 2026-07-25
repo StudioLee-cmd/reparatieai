@@ -7,7 +7,6 @@ image: "/images/blog/voice-ai-scripts-reparatiebedrijf-intake.jpg"
 cluster: "voice-ai"
 tags: ["Voice AI", "Reparatie Intake", "Klantcommunicatie"]
 ---
-
 Een klant belt een reparatiebedrijf met een wasmachine die niet meer aanslaat. De medewerker neemt op, vraagt het serie-nummer, vraagt naar de geluiden, vraagt wanneer het probleem begon en plant een afspraak. Vier minuten gesprek. Drie maanden later belt diezelfde klant terug omdat zijn vaatwasser lekt. De medewerker stelt opnieuw alle basis-vragen, plus drie nieuwe specifiek voor afvoerproblemen. Vijf minuten gesprek. Per dag tien tot vijftien van zulke gesprekken bij een gemiddeld reparatiebedrijf, alleen al voor de intake.
 
 Een Voice AI telefonist neemt deze intake-gesprekken over zonder dat de kwaliteit lager wordt, mits de scripts goed zijn. Slechte scripts laten een klant frustrerend door een menu klikken zonder bij de juiste persoon uit te komen. Goede scripts voelen voor de klant alsof er een ervaren medewerker meedenkt. Dit artikel laat zien hoe je voice AI scripts schrijft voor een reparatiebedrijf, met voorbeelden per apparaat-categorie en de fouten die je moet vermijden.
@@ -182,6 +181,8 @@ De AI-kosten zelf zijn 50 tot 150 euro per maand voor een reparatiebedrijf met 6
 ### Hoe weet ik of klanten tevreden zijn?
 
 Vraag het na het gesprek. Een korte SMS of WhatsApp na het inplannen: "Hoe was het gesprek? Beoordeel met 1-5 sterren." Onze pagina over [reviews](/reviews) gaat dieper in op feedback verzamelen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/voice-ai-trainen-reparatiebedrijf-data-vakjargon" class="text-dark fw-semibold">Voice AI trainen voor reparatiebedrijven: data en vakjargon</a> →</p></div></div></div>
 
 ## Klaar om je telefoon te laten draaien?
 
