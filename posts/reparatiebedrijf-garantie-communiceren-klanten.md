@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Garantie", "Klantcommunicatie", "Reparatie", "Vertrouwen", "Reviews"]
 cluster: "automatisering"
 ---
-
 Een reparatiebedrijf dat alleen op de factuur "garantie 6 maanden" zet, mist 70 procent van de marketingwaarde van zijn eigen garantie. Een reparatiebedrijf dat de garantie actief en helder communiceert — vóór de reparatie, tijdens de afgifte, en in de opvolging — bouwt zichtbaar meer vertrouwen op, krijgt 30 tot 45 procent meer reviews, en ziet 15 tot 25 procent meer herhaalbezoek dan concurrenten met dezelfde fysieke garantie.
 
 Dit artikel is voor jou als reparatiebedrijf-eigenaar die wil weten hoe je een bestaande of nieuw te formuleren garantievoorwaarde slim communiceert om klanten meer vertrouwen te geven, professioneler over te komen, en meer herhaalwerk binnen te halen. Inclusief voorbeeldteksten die je morgen kunt gebruiken en de 4 fouten die de meeste reparateurs onbewust maken.
@@ -107,6 +106,8 @@ Voor [een complete reparateurs-stack inclusief geautomatiseerde klantcommunicati
 - Geautomatiseerd opvolgsysteem: €49-149 per maand (zie [tarieven voor reparatiebedrijven](https://www.reparatieai.nl/tarieven))
 
 ROI: voor een reparatiebedrijf met €180.000 omzet betekent een win-rate stijging van 45 naar 65 procent een extra omzet van €30.000 tot €70.000 per jaar — alleen door betere communicatie van bestaande garantie.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/administratie-reparatiebedrijf-slim-regelen" class="text-dark fw-semibold">Administratie voor reparatiebedrijven: slim regelen, meer tijd voor klussen</a> →</p></div></div></div>
 
 ## Begin met één moment, niet met alle drie
 
