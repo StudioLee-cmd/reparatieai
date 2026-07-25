@@ -10,7 +10,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["klantbehoud", "reparatie", "relatiebeheer"]
 cluster: "automatisering"
 ---
-
 ## De waarde van terugkerende klanten
 
 Een reparatiebedrijf leeft van aanvragen. Kapotte wasmachine, defecte laptop, gebarsten telefoonscherm — klanten komen wanneer er iets stuk is. Het probleem: de meeste klanten komen maar een keer. Ze laten iets repareren, betalen en verdwijnen.
@@ -75,6 +74,6 @@ Het effect van doorverwijzingen is cumulatief. Een klant verwijst er twee door, 
 Begin vandaag met drie dingen:
 1. Maak een overzicht van al je klanten van het afgelopen halfjaar
 2. Stuur iedereen een kort "hoe gaat het met uw apparaat?" bericht
-3. Stel herinneringen in voor follow-ups na toekomstige reparaties
+3. Stel [herinneringen](/automatisering) in voor follow-ups na toekomstige reparaties
 
 Wil je meer klanten aantrekken via je online aanwezigheid? [Vraag een gratis scan aan](/gratis-scan) en ontdek je groeikansen.
