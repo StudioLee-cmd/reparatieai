@@ -67,6 +67,8 @@ Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in
 
 Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-herinneringen-reparatie-afspraken" class="text-dark fw-semibold">WhatsApp-herinneringen voor reparatie-afspraken</a> →</p></div></div></div>
+
 ## Conclusie
 
 WhatsApp is het sterkste communicatiekanaal dat je als reparatiebedrijf kunt inzetten. Professioneel ingericht en deels geautomatiseerd bespaart het je tijd, verhoogt het je conversie en verbetert de klanttevredenheid.
