@@ -47,6 +47,8 @@ Houd een lijst bij van klanten die op korte termijn geholpen willen worden. Wann
 
 Dit is de eenvoudigste manier om het verlies van een no-show deels terug te draaien. Je verliest de oorspronkelijke klant, maar je wint een wachtlijstklant die blij is dat het sneller kon.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-verminderen-reparatiebedrijf" class="text-dark fw-semibold">No-shows verminderen als reparatiebedrijf</a> →</p></div></div></div>
+
 ## Reken het uit en neem actie
 
 Tel je gemiste afspraken van de afgelopen maand. Vermenigvuldig met je gemiddelde opdrachtwaarde plus reiskosten. Dat bedrag kun je grotendeels terugwinnen met de juiste automatisering. De investering is minimaal vergeleken met het verlies dat je nu elke week lijdt.
