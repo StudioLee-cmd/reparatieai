@@ -7,7 +7,6 @@ image: "/images/blog/werkspot-alternatief-reparatiebedrijf.jpg"
 tags: ["Vergelijking", "Werkspot", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Het Werkspot-model: wat het je echt kost
 
 Werkspot rekent €15 tot €30 per reactie op een aanvraag. Niet per gewonnen klus — per reactie. Of je de klus krijgt of niet, je betaalt. Bij 20 reacties per maand zit je al snel op €300 tot €600 aan leadkosten, terwijl je slechts een fractie van die leads daadwerkelijk omzet in werk.
@@ -55,7 +54,7 @@ En het belangrijkste: alles wat je opbouwt is van jou. Je website, je content, j
 
 ## Managed service: wij bouwen jouw groei
 
-Dit is waar ReparatieAI fundamenteel verschilt van Werkspot. Werkspot is een platform — je plaatst een profiel en hoopt op leads. ReparatieAI biedt managed service: een compleet team dat jouw online groei beheert.
+Dit is waar ReparatieAI fundamenteel verschilt van Werkspot. Werkspot is een platform — je plaatst een profiel en hoopt op leads. ReparatieAI biedt [managed service](/blog/reparatieai-vs-personeel): een compleet team dat jouw online groei beheert.
 
 Wat dat betekent in de praktijk:
 
