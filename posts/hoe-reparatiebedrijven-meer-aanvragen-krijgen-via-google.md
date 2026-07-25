@@ -7,7 +7,6 @@ image: "/images/blog/hoe-reparatiebedrijven-meer-aanvragen-krijgen-via-google.pn
 tags: ["Vindbaarheid", "Google", "Aanvragen", "Reparatie"]
 cluster: "vindbaarheid"
 ---
-
 ## Reparatiebedrijven draaien op urgentie — en Google levert die klanten
 
 Een wasmachine die kapot gaat, een vaatwasser die lekt, een apparaat dat niet meer werkt — dat wil iemand meteen opgelost hebben. Ze googlen "wasmachine reparatie [stad]" of "witgoed reparateur in de buurt" en bellen het eerste resultaat dat betrouwbaar oogt.
@@ -103,6 +102,8 @@ Meer klanten, geen gemiste oproepen, alles geautomatiseerd.
 **Benieuwd wat ReparatieAI voor jouw bedrijf oplevert?** Neem contact op via [reparatieai.nl](https://www.reparatieai.nl).
 
 ---
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/reparatiebedrijf-vindbaarheid-google" class="text-dark fw-semibold">Vindbaarheid van je reparatiebedrijf in Google verbeteren</a> →</p></div></div></div>
 
 ## Jouw actieplan
 
