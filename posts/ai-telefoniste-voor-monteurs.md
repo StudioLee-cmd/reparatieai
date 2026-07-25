@@ -8,7 +8,6 @@ image: "/images/blog/ai-telefoniste-voor-monteurs.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
 cluster: "voice-ai"
 ---
-
 Het meest frustrerende moment voor een monteur? Je staat net met je handen vol olie, vet of onderdelen in een apparaat. Je concentratie is maximaal. En dan... gaat je telefoon. Je voelt hem trillen in je broekzak. Je weet dat het een potentiële klant kan zijn met een mooie reparatieklus.
 
 Maar je kunt niet opnemen. Je handen zijn vies, je ligt onder een machine, en als je nu stopt, ben je een kwartier bezig om weer in je flow te komen (en je handen schoon te maken). Dus je laat hem gaan. Je denkt: "Ik bel straks wel terug."
@@ -23,7 +22,7 @@ Je telefoon blijft gewoon in je zak (of op de werkbank). Jij blijft gefocust op 
 
 ## Voice AI: Je nieuwe planner die nooit pauze heeft
 
-Onze Voice AI is geen krakend bandje met een irritant keuzemenu ("Toets 1 voor planning..."). Klanten haten dat en hangen op. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze klinkt vriendelijk, professioneel, empathisch en ze weet alles van je bedrijf.
+Onze [Voice AI](/voice-ai) is geen krakend bandje met een irritant keuzemenu ("Toets 1 voor planning..."). Klanten haten dat en hangen op. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze klinkt vriendelijk, professioneel, empathisch en ze weet alles van je bedrijf.
 
 ### Wat Sarah voor je doet:
 - **24/7 Opnemen:** Ook als jij vrij bent, slaapt, onder de douche staat of op vakantie bent. Je bedrijf is altijd 'open'. Een klant die op zondagavond belt omdat de vriezer uitvalt? Sarah staat ze te woord.
