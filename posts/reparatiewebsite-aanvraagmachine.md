@@ -7,7 +7,6 @@ image: "/images/blog/reparatiewebsite-aanvraagmachine.png"
 tags: ["Website", "Conversie", "Leadgeneratie"]
 cluster: "website"
 ---
-
 ## Waarom je website meer kan doen
 
 Je reparatiewebsite trekt bezoekers, maar hoeveel daarvan dienen daadwerkelijk een aanvraag in? Bij de meeste reparatiebedrijven is dat minder dan 3%. Dat betekent dat 97 van de 100 bezoekers vertrekken zonder contact op te nemen. Met een paar slimme aanpassingen verhoog je dat percentage flink.
@@ -50,6 +49,8 @@ Heb je nog niet genoeg reviews? Lees hoe je [meer Google reviews krijgt](/blog/m
 Meer dan 60% van je bezoekers komt via een smartphone — vaak omdat ze nu een probleem hebben en snel een reparateur zoeken. Als je website traag laadt of niet goed werkt op mobiel, verlies je die urgente leads.
 
 Test je website via Google PageSpeed Insights. Streef naar een laadtijd onder de 3 seconden. Zorg dat je aanvraagformulier ook op een klein scherm makkelijk in te vullen is — grote invoervelden, duidelijke knoppen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/reparatiebedrijf-website-meer-aanvragen" class="text-dark fw-semibold">Website van je reparatiebedrijf: 5 tips voor meer aanvragen</a> →</p></div></div></div>
 
 ## Conclusie
 
