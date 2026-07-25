@@ -52,6 +52,8 @@ Klanten die bevestigen, houd je. Klanten die annuleren, vervang je direct via de
 
 Dit dubbele systeem, voorkomen plus opvangen, is hoe de best draaiende reparatiebedrijven hun planning op 95 procent bezetting houden.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-reparateur-verlies-beperken" class="text-dark fw-semibold">No-shows als reparateur: zo beperk je het verlies</a> →</p></div></div></div>
+
 ## Conclusie: geen lege plekken meer
 
 Een wachtlijst is een van de meest onderschatte tools voor reparatiebedrijven. Het kost weinig om op te zetten, het draait automatisch, en het verdient zichzelf terug vanaf de eerste week.
