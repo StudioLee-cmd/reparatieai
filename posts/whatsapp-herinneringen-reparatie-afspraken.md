@@ -83,6 +83,8 @@ Absoluut. Berichten als "Onderdeel besteld, levertijd 2 dagen" of "Reparatie afg
 
 Bij spoedklussen is de herinnering minder relevant — de klant wacht actief op je komst. Maar een "monteur is onderweg" bericht is alsnog waardevol voor de klanervaring.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/garantie-reparatie-vertrouwen-opbouwen" class="text-dark fw-semibold">Garantie op reparaties: zo bouw je vertrouwen op</a> →</p></div></div></div>
+
 ## Conclusie
 
 WhatsApp-herinneringen zijn de meest effectieve en goedkoopste manier om no-shows te verminderen. De open rate is ongeëvenaard, klanten waarderen de service en jij verspilt minder tijd aan lege adressen.
