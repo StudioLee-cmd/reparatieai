@@ -68,6 +68,8 @@ Maak duidelijk hoe een klant een beroep doet op de garantie. Moet hij bellen? Ee
 4. **Train je team.** Elke medewerker moet dezelfde garantievoorwaarden communiceren. Inconsistentie ondermijnt vertrouwen.
 5. **Registreer garantiegevallen.** Houd bij hoeveel claims je krijgt en waarvoor. Dat helpt je onderdelen kiezen die minder snel terugkomen.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/reparatie-leads-trieren-prioriteren-opvolging" class="text-dark fw-semibold">Reparatie-leads triëren: welke aanvragen bel je eerst terug?</a> →</p></div></div></div>
+
 ## Garantie is geen risico, het is een investering
 
 De reparateurs die het beste draaien, zijn niet degenen met de laagste prijzen. Het zijn de bedrijven die zekerheid bieden. Garantie is het bewijs dat je vertrouwen hebt in je eigen vakmanschap. En dat vertrouwen is precies wat klanten zoeken.
