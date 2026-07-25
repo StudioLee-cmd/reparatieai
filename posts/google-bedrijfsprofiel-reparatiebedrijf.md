@@ -8,14 +8,13 @@ image: "/images/blog/google-bedrijfsprofiel-reparatiebedrijf.png"
 tags: ["Google", "Vindbaarheid", "Marketing"]
 cluster: "vindbaarheid"
 ---
-
 Wanneer een wasmachine het begeeft of een laptop niet meer opstart, pakt de eigenaar zijn telefoon en zoekt op Google. "Reparatiebedrijf bij mij in de buurt" levert een lijst met bedrijven op — en het eerste wat de zoeker ziet is het Google Bedrijfsprofiel. Een compleet en actief profiel kan het verschil maken tussen een volle werkplaats en een lege.
 
 In dit artikel leer je hoe je je Google Bedrijfsprofiel als reparatiebedrijf optimaal inzet.
 
 ## Waarom Google Bedrijfsprofiel onmisbaar is
 
-Google Bedrijfsprofiel is gratis en het eerste dat potentiele klanten zien. Het toont je contactgegevens, openingstijden, locatie en — cruciaal — je reviews. Zonder profiel besta je niet in lokale zoekresultaten. Met een halfleeg profiel maak je een onprofessionele indruk.
+Google Bedrijfsprofiel is gratis en het eerste dat potentiele klanten zien. Het toont je contactgegevens, openingstijden, locatie en — cruciaal — je reviews. Zonder profiel besta je niet in lokale [zoekresultaten](/seo). Met een halfleeg profiel maak je een onprofessionele indruk.
 
 De bedrijven die bovenaan verschijnen in het Local Pack (de drie kaartresultaten) ontvangen tot 70% van alle klikken. Hoe je die positie bereikt, hangt samen met je [algehele online vindbaarheid](/blog/hoe-reparatiebedrijven-meer-aanvragen-krijgen-via-google), maar je Google-profiel is het fundament.
 
