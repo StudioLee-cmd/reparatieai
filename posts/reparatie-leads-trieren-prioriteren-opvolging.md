@@ -127,6 +127,8 @@ Stuur automatisch een ontvangstbevestiging met de boodschap "wij nemen morgenoch
 
 Niet helemaal. Een goede chatbot of intake-formulier filter al 50-70 procent van de tijdverlies-leads automatisch uit. De rest komt door en moet je leren snel als zodanig te identificeren en kort af te handelen. Volledig uitsluiten is niet wenselijk omdat sommige "tijdverlies-leads" via mond-tot-mond alsnog zorgen voor goede klanten in een later stadium.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/werkspot-alternatief-reparatiebedrijf" class="text-dark fw-semibold">Werkspot alternatief voor reparatiebedrijf: eigen aanvragen</a> →</p></div></div></div>
+
 ## Conclusie
 
 Lead-opvolging in een reparatiebedrijf is niet een snelheidstest maar een sorteer-test. Wie alle leads in de volgorde van binnenkomst belt, behandelt zijn beste klanten gelijk aan zijn slechtste prospects — met als resultaat een gemiddelde conversie van 30 tot 40 procent. Wie zijn leads bewust triëert in vijf categorieën en daarop zijn opvolgvolgorde baseert, schuift zijn conversie naar 55 tot 70 procent zonder een seconde extra werk per lead. Het verschil zit volledig in de selectie, niet in de inzet.
