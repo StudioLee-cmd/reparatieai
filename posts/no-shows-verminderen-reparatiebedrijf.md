@@ -7,7 +7,6 @@ image: "/images/blog/no-shows-verminderen-reparatiebedrijf.jpg"
 tags: ["No-shows", "Klantenmanagement", "Groei"]
 cluster: "automatisering"
 ---
-
 ## De verborgen kosten van no-shows
 
 Als reparatiebedrijf werk je op afspraak. Je plant je dag, rijdt naar klanten en voert reparaties uit. Een no-show gooit die planning in de war — en kost meer dan je denkt.
@@ -72,11 +71,13 @@ Hoe je dit opzet:
 - **Alternatieve datum aanbieden**: "Niet meer nodig? Of past een andere datum beter?"
 - **Automatische wachtlijst**: bij annulering schuift de volgende klant door
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/wachtlijst-reparatiebedrijf-volle-planning" class="text-dark fw-semibold">Wachtlijst als no-show buffer: altijd een volle planning als reparatiebedrijf</a> →</p></div></div></div>
+
 ## Van verloren tijd naar volle agenda
 
 Het verschil tussen een reparatiebedrijf met veel no-shows en eentje met weinig no-shows is niet de kwaliteit van het werk. Het is het systeem eromheen.
 
-Automatische herinneringen, een helder beleid en een makkelijk omboeksysteem verminderen no-shows met 50 tot 70 procent. Dat zijn tientallen productieve uren per maand die je terugwint.
+Automatische [herinneringen](/automatisering), een helder beleid en een makkelijk omboeksysteem verminderen no-shows met 50 tot 70 procent. Dat zijn tientallen productieve uren per maand die je terugwint.
 
 De opzet kost je een ochtend. De besparing is structureel — week na week, maand na maand.
 
