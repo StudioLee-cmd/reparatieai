@@ -85,6 +85,8 @@ Veel no-shows zijn verkapte annuleringen. De klant wil afzeggen maar bereikt je 
 
 Een [AI-telefonist](/voice-ai) die 24/7 bereikbaar is, lost dit op. De klant belt, spreekt de annulering in, en jij krijgt direct een melding. Geen gemiste oproep, geen stille no-show.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/reparatiekosten-communiceren-klant" class="text-dark fw-semibold">Reparatiekosten communiceren naar klanten: eerlijk, duidelijk, zonder gedoe</a> →</p></div></div></div>
+
 ## Praktisch stappenplan
 
 Wat je deze week kunt doen:
