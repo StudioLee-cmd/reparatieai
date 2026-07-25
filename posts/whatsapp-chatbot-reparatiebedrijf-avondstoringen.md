@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Chatbot", "WhatsApp", "Bereikbaarheid", "Automatisering"]
 cluster: "chatbot"
 ---
-
 Je werkplaats gaat om vijf uur dicht. De wasmachine van een klant begeeft het om acht uur 's avonds, midden in een berg natte was. Die klant gaat niet wachten tot morgen negen uur, die pakt zijn telefoon en zoekt nu iemand. Komt hij bij jou op een dichte deur en een voicemail, dan staat zijn aanvraag binnen twee minuten bij de reparateur die wel reageert.
 
 Dat is zonde, want het kost je niets om 's avonds bereikbaar te zijn zonder zelf op te nemen. Een [ai chatbot voor reparatiebedrijven](/chatbot) vangt die avondaanvraag op, stelt de juiste vragen en zet de melding klaar in je agenda voor de volgende ochtend.
@@ -76,6 +75,8 @@ Dat hangt af van hoe je hem inricht. Je bepaalt zelf de toon en de vragen, zodat
 Minder dan je denkt. De chatbot leert van je website, je veelgestelde vragen en je werkwijze. Daarna test je hem zelf een paar keer, stuurt de antwoorden bij en zet je hem live op je WhatsApp en je site.
 
 **Lees ook:** [WhatsApp zakelijk inzetten als reparatiebedrijf: tips en voorbeelden](/blog/whatsapp-zakelijk-reparatiebedrijf), voor de bredere manier om WhatsApp professioneel in te zetten naast de chatbot.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-trainen-reparatiebedrijf-data" class="text-dark fw-semibold">AI chatbot trainen op je reparatiebedrijf-data: 4 manieren</a> →</p></div></div></div>
 
 ## Nooit meer een avondstoring mislopen
 
