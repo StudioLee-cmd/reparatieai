@@ -7,7 +7,6 @@ image: "/images/blog/lead-opvolging-reparatiebedrijf-meer-klanten.jpg"
 tags: ["Lead opvolging", "Klanten", "Groei"]
 cluster: "automatisering"
 ---
-
 ## De klant die niet wacht
 
 Een klant met een kapot apparaat, een defecte machine of een storing wil nu een oplossing. Niet morgen, niet volgende week — nu. Als jij niet opneemt, belt de klant het volgende reparatiebedrijf op Google. Binnen vijf minuten is je kans verkeken.
@@ -35,7 +34,7 @@ Contactformulieren op je website zijn een ander pijnpunt. Klanten vullen het for
 
 ## Automatisch reageren op elke aanvraag
 
-Met automatische opvolging verlies je geen enkele lead meer. Bij een gemiste oproep wordt direct een bericht gestuurd: "Ik ben momenteel bij een klant. Beschrijf kort het probleem en ik bel je vandaag nog terug."
+Met [automatische opvolging](/automatisering) verlies je geen enkele lead meer. Bij een gemiste oproep wordt direct een bericht gestuurd: "Ik ben momenteel bij een klant. Beschrijf kort het probleem en ik bel je vandaag nog terug."
 
 Bij een contactformulier-aanvraag wordt direct een bevestiging gestuurd met een geschatte reactietijd. De klant voelt zich gehoord en wacht.
 
@@ -67,6 +66,8 @@ Spoedreparaties zijn vaak je meest winstgevende klussen. Klanten accepteren hoge
 Met een AI-telefoniste die 24/7 bereikbaar is, mis je geen enkele spoedaanvraag — ook niet 's avonds en in het weekend. De AI noteert het probleem, de urgentie en de contactgegevens, en stuurt je alles per WhatsApp. Jij beslist of je direct gaat of de volgende ochtend terugbelt.
 
 Het verschil is enorm: reparateurs die buiten werktijden bereikbaar zijn via AI rapporteren 20 tot 30 procent meer omzet. Niet omdat er meer klanten zijn, maar omdat ze de klanten die er wél zijn niet meer missen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leads-opvolgen-reparatiebedrijf-geen-offerte-missen" class="text-dark fw-semibold">Leads opvolgen als reparatiebedrijf: geen offerte missen</a> →</p></div></div></div>
 
 ## Meten hoeveel leads je wint en verliest
 
