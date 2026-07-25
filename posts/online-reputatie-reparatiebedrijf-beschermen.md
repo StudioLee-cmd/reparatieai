@@ -8,14 +8,13 @@ image: "/images/blog/online-reputatie-reparatiebedrijf-beschermen.png"
 tags: ["Reputatie", "Reviews", "Strategie"]
 cluster: "reviews"
 ---
-
 Je hebt jarenlang kwaliteit geleverd. Honderden tevreden klanten. En dan plaatst iemand een vernietigende Google-review — onterecht, overdreven, of zelfs nep. Die ene review staat bovenaan, terwijl je 47 positieve beoordelingen eronder verdwijnen. Herkenbaar? Je bent niet alleen. Online reputatiemanagement is een van de grootste uitdagingen voor reparatiebedrijven in 2026.
 
 In dit artikel lees je hoe je je online reputatie beschermt tegen onterechte klachten, hoe je omgaat met negatieve reviews, en hoe je proactief een ijzersterke reputatie opbouwt.
 
 ## Waarom je online reputatie alles bepaalt
 
-Meer dan 90% van de consumenten leest online reviews voordat ze een reparatiebedrijf kiezen. En het gaat niet alleen om de sterrenscore — mensen lezen de inhoud van reviews, kijken naar hoe recent ze zijn, en letten op hoe het bedrijf reageert op klachten.
+Meer dan 90% van de consumenten leest [online reviews](/reviews) voordat ze een reparatiebedrijf kiezen. En het gaat niet alleen om de sterrenscore — mensen lezen de inhoud van reviews, kijken naar hoe recent ze zijn, en letten op hoe het bedrijf reageert op klachten.
 
 Een gemiddelde beoordeling van 4.5 sterren met 80 reviews wekt meer vertrouwen dan 5.0 sterren met 3 reviews. Klanten weten dat geen enkel bedrijf perfect is — ze willen zien hoe je omgaat met imperfectie.
 
