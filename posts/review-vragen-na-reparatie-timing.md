@@ -32,7 +32,7 @@ Dit bericht werkt omdat het:
 - Eerlijk zegt waarom je het vraagt ("het helpt ons")
 - Een directe link bevat (geen omweg via zoeken op Google)
 
-Zonder directe link daalt het aantal reviews drastisch. Klanten willen best een review schrijven, maar niet vijf stappen doorlopen om je bedrijf op Google te vinden.
+Zonder directe link daalt het aantal reviews drastisch. Klanten willen best een [review schrijven](/blog/klanten-motiveren-review-schrijven-reparatiebedrijf), maar niet vijf stappen doorlopen om je bedrijf op Google te vinden.
 
 ## De directe Google review link maken
 
