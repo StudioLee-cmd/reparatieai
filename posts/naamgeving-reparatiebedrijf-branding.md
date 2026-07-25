@@ -7,7 +7,6 @@ image: "/images/blog/naamgeving-reparatiebedrijf-branding.jpg"
 tags: ["Branding", "Naamgeving", "Reparatiebedrijf"]
 cluster: "branding"
 ---
-
 ## In het kort
 
 - **Een goede naam is uitspreekbaar in één keer**, makkelijk te schrijven en blijft hangen na één keer horen.
@@ -169,6 +168,8 @@ Soms. "BVO" of "RKS" werkt als de afkorting al lokaal bekend is, maar nieuwe afk
 ### Hoeveel moet ik betalen voor een naam-bedenker?
 
 Een professional rekent 1.500-5.000 euro voor een complete naamgeving inclusief tests en logo. Voor een eenmansbedrijf is zelf-bedenken plus de vijf-punten test goedkoper en even goed.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/branding-reparatiebedrijf" class="text-dark fw-semibold">Branding als reparatiebedrijf: zo herkennen klanten jou meteen</a> →</p></div></div></div>
 
 ## Klaar om je merk te bouwen?
 
