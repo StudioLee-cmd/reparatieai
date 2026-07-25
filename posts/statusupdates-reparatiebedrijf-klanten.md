@@ -8,7 +8,6 @@ image: "/images/blog/statusupdates-reparatiebedrijf-klanten.png"
 tags: ["Reparatie", "Klantcommunicatie", "Automatisering"]
 cluster: "automatisering"
 ---
-
 ## Het eeuwige telefoontje: "Is mijn apparaat al klaar?"
 
 Als reparateur ken je het maar al te goed. Je bent geconcentreerd bezig met een reparatie en de telefoon gaat. "Hallo, ik belde even of mijn wasmachine al klaar is?" Dit telefoontje kost je 3-5 minuten. Vermenigvuldig dat met 8-10 keer per dag en je verliest een uur per dag aan statusvragen.
@@ -58,6 +57,8 @@ Naast statusupdates kun je automatiseren:
 - **Garantie-meldingen** — "Uw reparatie van [datum] valt nog onder garantie tot [datum]"
 - **Reviewverzoeken** — automatisch na ophalen: "Hoe was uw ervaring?"
 - **Seizoenstips** — "Laat uw CV-ketel nakijken voor de winter"
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-reparatiebedrijf-voorkomen" class="text-dark fw-semibold">No-shows voorkomen bij reparaties: klant op tijd herinneren</a> →</p></div></div></div>
 
 ## Conclusie
 
