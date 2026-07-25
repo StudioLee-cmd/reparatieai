@@ -8,10 +8,9 @@ image: "/images/blog/social-media-reparatiebedrijven-online.png"
 tags: ["Social Media", "Marketing", "Groei"]
 cluster: "social-media"
 ---
-
 ## Waarom social media onmisbaar is voor reparatiebedrijven
 
-Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke reparatiebedrijf die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder online zichtbaarheid loop je klanten mis.
+Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke reparatiebedrijf die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder [online zichtbaarheid](/social-media) loop je klanten mis.
 
 De cijfers liegen niet: meer dan 13 miljoen Nederlanders zijn dagelijks actief op social media. Je potentiële klanten scrollen door Instagram, Facebook en LinkedIn terwijl jij dit leest. De vraag is niet of je op social media moet zijn, maar hoe je het slim aanpakt.
 
@@ -48,7 +47,7 @@ Deel je expertise, publiceer korte artikelen over je vakgebied en reageer actief
 
 ## Zo maak je een contentplanning die werkt
 
-Het grootste probleem voor reparatiebedrijven op social media? Consistentie. Je begint enthousiast, post een week lang elke dag, en dan wordt het stil. Herkenbaar?
+Het grootste probleem voor reparatiebedrijven op [social media](/blog/avg-klant-apparaat-fotos-reparatiebedrijf)? Consistentie. Je begint enthousiast, post een week lang elke dag, en dan wordt het stil. Herkenbaar?
 
 De oplossing is een contentplanning. Bepaal vooraf wat je wanneer post en houd je eraan.
 
