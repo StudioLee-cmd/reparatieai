@@ -8,7 +8,6 @@ image: "/images/blog/garantiebeleid-reparatiebedrijf-vertrouwen.png"
 tags: ["Reparatiebedrijf", "Garantie", "Vertrouwen"]
 cluster: "website"
 ---
-
 ## Waarom garantie het verschil maakt
 
 Een klant die een kapotte wasmachine laat repareren, heeft een angst: wat als het volgende week weer kapot gaat? Heb ik dan voor niets betaald? Die angst is de reden dat veel potentiele klanten twijfelen. Een helder garantiebeleid neemt die twijfel weg.
@@ -111,6 +110,8 @@ Bied een verlengde garantie aan als premium optie:
 - Premium: 24 maanden — €49 extra
 
 Dit is extra omzet met minimaal risico (de meeste problemen manifesteren zich binnen 3 maanden).
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elite-monteur-app" class="text-dark fw-semibold"></a> →</p></div></div></div>
 
 ## Conclusie
 
