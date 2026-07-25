@@ -8,7 +8,6 @@ image: "/images/blog/specialiseren-reparatiebedrijf-nichemarketing.png"
 tags: ["Specialisatie", "Marketing", "Strategie"]
 cluster: "branding"
 ---
-
 ## Waarom specialisatie loont
 
 "Wij repareren alles" klinkt breed, maar het overtuigt niemand. Een klant met een kapotte vaatwasser zoekt een specialist in witgoedreparatie, niet een generalist die ook fietsen en telefoons repareert. Specialisatie maakt je:
@@ -65,6 +64,8 @@ De transitie hoeft niet abrupt te zijn:
 3. **Fase 3**: pas geleidelijk je aanbod aan — verwijs klussen buiten je niche door naar collega's
 
 Bouw ondertussen je [terugkerende klanten](/blog/terugkerende-klanten-reparatiebedrijf) op binnen je specialisatie. Een vaste klantenkring van witgoed-eigenaren is waardevoller dan incidentele opdrachten in tien verschillende categorieën.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/buurtwerk-activeren-als-reparatiebedrijf-lokale-klussen" class="text-dark fw-semibold">Buurtwerk activeren als reparatiebedrijf: lokale klussen</a> →</p></div></div></div>
 
 ## Conclusie
 
