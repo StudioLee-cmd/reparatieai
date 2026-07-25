@@ -8,7 +8,6 @@ image: "/images/blog/reparatie-klantdossier-herhaalopdrachten.jpg"
 tags: ["CRM", "Klantbeheer", "Reparatie"]
 cluster: "automatisering"
 ---
-
 Een wasmachine gerepareerd vorig jaar. Zes maanden later belt dezelfde klant voor de vaatwasser, maar je herkent de naam niet. Je rijdt erheen, doet de klus, vergeet hem weer. Over 14 maanden komt hij niet meer terug want hij belde direct een concurrent die hij pas leerde kennen. Kans verloren.
 
 Voor reparatiebedrijven is elke klant een potentiële vaste klant. Maar zonder een simpel klant-dossier (CRM) kom je er niet achter welke klanten er nog zijn, wie wat heeft laten doen, en wie je moet opvolgen. Bedrijven die dit wel goed doen, halen gemiddeld 30 procent meer omzet uit bestaande klanten, zonder één euro extra marketing.
@@ -96,6 +95,8 @@ Wil je een goed voorbeeld zien? Onze [automatisering voor reparatiebedrijven](/a
 - **Noteer reacties en nieuwe klussen.**
 
 Binnen 2 weken zie je waarschijnlijk dat 1 op de 3 oude klanten iets nieuws wilt laten doen. Dat is het moment dat je begrijpt waarom dit systeem de moeite waard is.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lead-opvolging-reparatiebedrijf-meer-klanten" class="text-dark fw-semibold">Lead opvolging voor je reparatiebedrijf</a> →</p></div></div></div>
 
 ## De wiskunde
 
