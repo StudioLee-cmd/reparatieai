@@ -19,7 +19,7 @@ Een stadspagina is een dedicated webpagina geoptimaliseerd voor één combinatie
 
 Een veelvoorkomende denkfout: "Mijn homepage staat in heel Nederland, dat is genoeg." Google werkt zo niet. De algoritmes zien dat je homepage niet specifiek over Haarlem gaat, dus rankt die pagina niet voor "wasmachine reparatie Haarlem". Een gericht gemaakte stadspagina wel. Met 8 tot 15 stadspagina's bestrijk je systematisch de plaatsen in je werkgebied en pak je zoekopdrachten die je homepage nooit zou krijgen.
 
-Dit verschilt overigens van de "service area" van je Google Bedrijfsprofiel. Die geeft Google's Maps-algoritme aan in welke plaatsen je actief bent. Stadspagina's geven het organische zoekalgoritme tekstuele bewijs dat je in die plaats werkt. Beide moeten je doen, ze versterken elkaar.
+Dit verschilt overigens van de "service area" van je [Google Bedrijfsprofiel](/blog/google-qa-sectie-reparatiebedrijf). Die geeft Google's Maps-algoritme aan in welke plaatsen je actief bent. Stadspagina's geven het organische zoekalgoritme tekstuele bewijs dat je in die plaats werkt. Beide moeten je doen, ze versterken elkaar.
 
 ## De reparatie-specifieke stadspagina-blauwdruk
 
