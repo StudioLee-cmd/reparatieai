@@ -35,6 +35,8 @@ Een klant met een dringend probleem kiest het bedrijf dat hij het meest vertrouw
 
 "Dezelfde dag reparatie mogelijk" of "Binnen 4 uur ter plaatse bij spoed." Dit onderscheidt je van concurrenten die geen beloftes doen. Bij reparaties is snelheid het sterkste verkoopargument. Maak het prominent zichtbaar op je homepage.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/intake-formulier-reparatiebedrijf-website" class="text-dark fw-semibold">Reparatie-intake-formulier: 7 velden voor je website</a> →</p></div></div></div>
+
 ## De eerste stap kost je een uur
 
 Begin met je telefoonnummer bovenaan en een WhatsApp-knop. Dat kost je dertig minuten en levert direct meer contactmomenten op. Wil je een complete doorlichting? Vraag een [gratis scan](/gratis-scan) aan.
