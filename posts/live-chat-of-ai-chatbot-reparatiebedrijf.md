@@ -83,6 +83,6 @@ Ja. Start met de chatbot op je website voor storingsaanvragen en veelgestelde vr
 
 Live chat is een prima werktuig voor bedrijven met een bemande balie. Een reparatiebedrijf met één tot vijf man heeft die luxe zelden, en juist daar vallen de avond- en weekendaanvragen nu in een gat. De AI chatbot dicht dat gat: hij vangt, kwalificeert en plant, terwijl jij repareert. Jij repareert, wij regelen de rest.
 
-Bij ReparatieAI richten we die chatbot voor je in, gekoppeld aan je agenda en WhatsApp, met onze Groei-of-Geld-Terug Garantie: levert het systeem aantoonbaar geen extra opdrachten op, dan krijg je je geld terug. Eerst zien waar jouw website nu aanvragen laat lopen? Vraag de [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Eerst zien waar jouw website nu aanvragen laat lopen? Vraag de [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-chatbot-reparatiebedrijf-avondstoringen" class="text-dark fw-semibold">WhatsApp chatbot voor reparatiebedrijven: avondstoringen</a> →</p></div></div></div>

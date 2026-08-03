@@ -93,4 +93,4 @@ Stuk voor stuk te voorkomen met een goed opgezette template en een geleidelijke 
 
 Welke route je ook kiest, de volgorde is dezelfde: thuisstad eerst, dan 3 tot 5 omliggende, dan langzaam uitbreiden. Niet 40 in een keer.
 
-Wil je weten waar je nu staat in jouw lokale markt en hoeveel klussen je laat liggen? [Vraag een gratis scan aan](/gratis-scan). We laten zien waar de quick wins zitten en wat een complete stadspagina-strategie je kost. Werkt het niet, dan krijg je je geld terug binnen 90 dagen. Dat is de Groei-of-Geld-Terug Garantie.
+Wil je weten waar je nu staat in jouw lokale markt en hoeveel klussen je laat liggen? [Vraag een gratis scan aan](/gratis-scan). We laten zien waar de quick wins zitten en wat een complete stadspagina-strategie je kost. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

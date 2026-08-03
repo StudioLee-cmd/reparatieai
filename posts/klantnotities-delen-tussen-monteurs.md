@@ -115,7 +115,7 @@ Door één regel te hanteren die je zelf ook volgt: wat niet bij de klant staat,
 
 Begin klein en begin vandaag. Spreek af welke drie vragen elke notitie beantwoordt, en spreek de twee of drie woorden af waar jullie langs elkaar heen praten. Dat is een gesprek van tien minuten in de bus en het lost het grootste deel van dit probleem op.
 
-De laag eronder richten wij in. Met ReparatieAI zetten we het klantdossier zo op dat elke notitie een naam en een tijdstip draagt en niemand elkaars werk overschrijft. Daarna gaan de [automatische herinneringen voor reparateurs](/automatisering) uit zodra een volgende stap een datum heeft. Dat valt onder onze Groei-of-Geld-Terug Garantie: levert het je aantoonbaar geen tijd en opdrachten op, dan krijg je je geld terug.
+De laag eronder richten wij in. Met ReparatieAI zetten we het klantdossier zo op dat elke notitie een naam en een tijdstip draagt en niemand elkaars werk overschrijft. Daarna gaan de [automatische herinneringen voor reparateurs](/automatisering) uit zodra een volgende stap een datum heeft. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wil je eerst zien waar bij jullie informatie weglekt? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan. We lopen je huidige route van aanvraag tot afronding door en laten zien op welke momenten je collega nu in het donker staat.
 

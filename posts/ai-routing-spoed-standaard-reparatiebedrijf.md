@@ -64,7 +64,7 @@ Het mooie van AI-routing is dat het jouw manier van werken volgt, niet andersom.
 
 Met die paar keuzes werkt je [voice ai voor reparatiebedrijven](/voice-ai) als een filter dat alleen de klussen doorlaat die je aandacht echt verdienen. Je repareert door, en ondertussen wordt elke oproep op waarde geschat.
 
-Wil je weten hoeveel spoedklussen je nu misloopt en waar je bereikbaarheid lekt? Vraag een [gratis AI-scan voor reparatiebedrijven](/gratis-scan) aan, dan zie je precies waar de winst zit. En omdat wij in resultaat geloven, geldt bij onze aanpak een Groei-of-Geld-Terug Garantie: levert het niets op, dan krijg je je geld terug.
+Wil je weten hoeveel spoedklussen je nu misloopt en waar je bereikbaarheid lekt? Vraag een [gratis AI-scan voor reparatiebedrijven](/gratis-scan) aan, dan zie je precies waar de winst zit. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Een goede intake begint bij de juiste vragen. Hoe je die vragen laat stellen, lees je in [Voice AI scripts voor reparatiebedrijven](/blog/voice-ai-scripts-reparatiebedrijf-intake).
 

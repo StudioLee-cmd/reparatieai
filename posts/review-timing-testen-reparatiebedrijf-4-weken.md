@@ -98,6 +98,6 @@ Jij repareert, wij regelen de rest. Maar automatisch op het verkeerde moment bli
 
 Vier weken, drie vensters, drie getallen per venster. Dat is alles. Daarna stuur je niet meer op een aanname of op wat een blog zegt dat gemiddeld werkt, maar op wat jouw klanten met jouw apparaten daadwerkelijk doen.
 
-Wil je die drie flows niet zelf inrichten? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan, dan kijken we bij ReparatieAI mee naar je huidige review-stroom en zetten we de test voor je klaar. Op onze managed service zit een Groei-of-Geld-Terug Garantie: levert het niet op wat we afspreken, dan krijg je je geld terug.
+Wil je die drie flows niet zelf inrichten? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan, dan kijken we bij ReparatieAI mee naar je huidige review-stroom en zetten we de test voor je klaar. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-respons-automatiseren-reparatiebedrijf" class="text-dark fw-semibold">Review-respons automatiseren met AI-templates</a> →</p>

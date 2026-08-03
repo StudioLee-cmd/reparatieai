@@ -80,7 +80,7 @@ De investering is bewust klein gehouden in deze markt: QR-codes zijn vrijwel gra
 
 Losse onderdelen bestellen kan prima: een kaart hier, stickers daar, een QR-generator online. Het werkt, tot niemand meer weet welke link waar naartoe wijst. Wil je het in één keer goed, dan is er het [review pakket voor reparatiebedrijven](/review-pakket) van ReparatieAI: kaart, QR-materiaal en stickers gekoppeld aan je eigen reviewpagina, plus de automatische opvolging erachter.
 
-Zo wordt de [complete review setup voor reparatiebedrijven](/review-pakket) één systeem in plaats van vier losse spulletjes. Met Groei-of-Geld-Terug Garantie: levert het aantoonbaar niets op, dan betaal je niet.
+Zo wordt de [complete review setup voor reparatiebedrijven](/review-pakket) één systeem in plaats van vier losse spulletjes. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/reviews-automatisch-verzamelen-reparatiebedrijf" class="text-dark fw-semibold">Reviews automatisch verzamelen na elke reparatie</a> →</p></div></div></div>
 

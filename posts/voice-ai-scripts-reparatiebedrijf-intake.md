@@ -188,4 +188,4 @@ Vraag het na het gesprek. Een korte SMS of WhatsApp na het inplannen: "Hoe was h
 
 Een goede voice AI bespaart een gemiddeld reparatiebedrijf 8 tot 12 uur per week aan inkomende oproepen plus levert 30-50 procent meer afspraken op. De setup is een paar weken werk, daarna draait het. Wij doen dit standaard voor onze reparatie-klanten, inclusief de scripts, de tests en de doorlopende optimalisatie.
 
-Wil je dit niet zelf opzetten? Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw planning de meeste tijd weglekt aan inkomende oproepen. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Wil je dit niet zelf opzetten? Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw planning de meeste tijd weglekt aan inkomende oproepen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

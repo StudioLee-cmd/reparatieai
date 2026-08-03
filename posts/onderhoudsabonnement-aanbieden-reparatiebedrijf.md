@@ -75,7 +75,7 @@ En de tijd die het kost? Vrijwel nul. De [automatische opvolging](/automatiserin
 
 ## Zelf bouwen of laten draaien?
 
-Je kunt dit zelf opzetten: WhatsApp Business API, een crm systeem met apparaat-velden, een agenda-koppeling en een paar avonden bouwen. Wil je het liever aan de kant hebben staan terwijl jij in de werkplaats staat, dan richt ReparatieAI dit als geheel in: het abonnement-sjabloon, de cyclus-flow, de reminders, de heractivatie en het reviewverzoek, gekoppeld aan je eigen agenda en klantenbestand. Met Groei-of-Geld-Terug Garantie: levert het aantoonbaar niets op, dan betaal je niet.
+Je kunt dit zelf opzetten: WhatsApp Business API, een crm systeem met apparaat-velden, een agenda-koppeling en een paar avonden bouwen. Wil je het liever aan de kant hebben staan terwijl jij in de werkplaats staat, dan richt ReparatieAI dit als geheel in: het abonnement-sjabloon, de cyclus-flow, de reminders, de heractivatie en het reviewverzoek, gekoppeld aan je eigen agenda en klantenbestand. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wil je eerst zien hoeveel terugkerende omzet er nu in je klantenbestand slaapt? Vraag de [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan. Jij repareert, wij regelen de rest. En net als bij die sportschool geldt: het abonnement is niet de truc, de continuïteit is de truc. Jij bent alleen de eerste in je regio die hem ook voor reparaties inzet.
 

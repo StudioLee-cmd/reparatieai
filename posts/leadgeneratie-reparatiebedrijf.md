@@ -74,6 +74,6 @@ Een enkel kanaal levert beperkt resultaat. De kracht zit in de combinatie: een s
 
 Bij ReparatieAI helpen we reparatiebedrijven met het opzetten van een leadgeneratiesysteem dat structureel meer klanten oplevert. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug. Het risico ligt 100% bij ons.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek waar jouw kansen liggen.
