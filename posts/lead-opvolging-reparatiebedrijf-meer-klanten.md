@@ -67,7 +67,7 @@ Met een AI-telefoniste die 24/7 bereikbaar is, mis je geen enkele spoedaanvraag 
 
 Het verschil is enorm: reparateurs die buiten werktijden bereikbaar zijn via AI rapporteren 20 tot 30 procent meer omzet. Niet omdat er meer klanten zijn, maar omdat ze de klanten die er wél zijn niet meer missen.
 
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leads-opvolgen-reparatiebedrijf-geen-offerte-missen" class="text-dark fw-semibold">Leads opvolgen als reparatiebedrijf: geen offerte missen</a> →</p></div></div></div>
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lead-opvolging-reparatiebedrijf-meer-klanten" class="text-dark fw-semibold">Leads opvolgen als reparatiebedrijf: geen offerte missen</a> →</p></div></div></div>
 
 ## Meten hoeveel leads je wint en verliest
 

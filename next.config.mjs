@@ -19,6 +19,8 @@ const nextConfig = {
             { source: '/blog/koelkast-diepvries-reparatie-specialisme-2026', destination: '/', permanent: true },
             { source: '/blog/reparatiebedrijf-opschalen-meer-technici', destination: '/', permanent: true },
             { source: '/blog/robot-repareert-wasmachine', destination: '/', permanent: true },
+            { source: '/blog/leads-opvolgen-reparatiebedrijf-geen-offerte-missen', destination: '/blog/lead-opvolging-reparatiebedrijf-meer-klanten', permanent: true },
+            { source: '/blog/seo-reparatiebedrijf-meer-aanvragen', destination: '/blog/hoe-reparatiebedrijven-meer-aanvragen-krijgen-via-google', permanent: true },
         ];
     },
 };

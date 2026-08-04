@@ -82,7 +82,7 @@ Installeer Google Analytics en Google Search Console op je website. Binnen een m
 
 Gebruik deze data om je strategie aan te passen. Meer verkeer op "wasmachine reparatie" maar weinig op "vaatwasser"? Maak die vaatwasser-pagina beter.
 
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/seo-reparatiebedrijf-meer-aanvragen" class="text-dark fw-semibold">SEO voor reparatiebedrijven: meer aanvragen via Google</a> →</p></div></div></div>
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-reparatiebedrijven-meer-aanvragen-krijgen-via-google" class="text-dark fw-semibold">SEO voor reparatiebedrijven: meer aanvragen via Google</a> →</p></div></div></div>
 
 ## Snel resultaat
 
