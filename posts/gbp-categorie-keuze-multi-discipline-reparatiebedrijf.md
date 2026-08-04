@@ -2,7 +2,7 @@
 title: "Welke GBP-categorie kies je als reparateur die meerdere apparaten doet?"
 seoTitle: "Welke GBP-categorie kies je als reparateur?"
 slug: gbp-categorie-keuze-multi-discipline-reparatiebedrijf
-date: 2026-04-29
+date: "2026-04-29"
 excerpt: "Telefoon, witgoed én fiets repareren? Welke GBP-categorie kies je als primair en waarom een verkeerde keuze je tot de helft van je verkeer kost."
 image: "/images/blog/gbp-categorie-keuze-multi-discipline-reparatiebedrijf.jpg"
 authorSlug: "tim-van-der-lee"
