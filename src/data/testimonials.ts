@@ -1,75 +1,56 @@
 import { ITestimonial } from "@/types";
 
+// ─────────────────────────────────────────────────────────────────────────────────────
+// BOUWSTEEN 8 — HET BEWIJS-BLOK. Toon-regel 3 van het boodschap-frame: bewijs is echt,
+// of het staat er niet (alpha1/ventures/studiolee/projects/niche-sites-upgrade-programma.md
+// §HET BOODSCHAP-FRAME).
+//
+// Tim, keur 173 (01-08): de tien verzonnen klant-quotes gaan eraf en er komt GEEN
+// vervangende constructie voor in de plaats. Het blok bestaat alleen zolang er ECHTE
+// klant-quotes zijn; is die lijst leeg, dan staat de sectie niet op de pagina.
+//
+// ⭐ ÉÉN ECHTE QUOTE TOEVOEGEN IS GENOEG. Zet 'm in `testimonials` hieronder en de sectie
+//    verschijnt vanzelf, kop en al. Er is geen tweede plek om te bewerken:
+//    `Testimonials.tsx` en `page.tsx` lezen allebei uit `proofBlock`.
+// ─────────────────────────────────────────────────────────────────────────────────────
 
-export const testimonials: ITestimonial[] = [
-    {
-        name: 'Peter de Boer',
-        role: 'De Boer Witgoedservice, Utrecht',
-        message: 'Sta je net een wasmachine te repareren, belt er een klant. Voorheen nam ik niet op, nu pakt de AI het direct op en plant de afspraak in. Ideaal als je handen vol zitten.',
-        avatar: '/images/testimonials/testimonial-1.jpg',
-        stars: 5
-    },
-    {
-        name: 'Johan Smit',
-        role: 'Smit Reparaties, Rotterdam',
-        message: 'Ik was bang dat het robotachtig zou klinken, maar klanten merken het verschil niet. Ze zijn blij dat ze direct iemand "spreken" als ik onder een vaatwasser lig.',
-        avatar: '/images/testimonials/testimonial-2.png',
-        stars: 5
-    },
-    {
-        name: 'Kees Bakker',
-        role: 'Bakker Telecom Service, Amsterdam',
-        message: 'Offertes maken voor telefoonreparaties was altijd een drama in de avonduren. Nu doet het systeem het meeste werk. Ik heb weer tijd voor ontspanning.',
-        avatar: '/images/testimonials/testimonial-3.png',
-        stars: 5
-    },
-    {
-        name: 'Dennis Visser',
-        role: 'Visser Computerhulp, Den Haag',
-        message: 'Geen dubbele afspraken meer voor PC reparaties aan huis. Het systeem snapt gewoon hoe een monteur werkt. Scheelt me uren per week.',
-        avatar: '/images/testimonials/testimonial-4.jpg',
-        stars: 5
-    },
-    {
-        name: 'Rob van den Berg',
-        role: 'Brabant Fietsherstel, Eindhoven',
-        message: 'Als je handen onder het smeer zitten, pak je je telefoon niet op. Nu krijg ik gewoon een appje met de klusdetails. Top oplossing.',
-        avatar: '/images/testimonials/testimonial-5.png',
-        stars: 5
-    },
-    {
-        name: 'Hans de Groot',
-        role: 'De Groot Scooter Service, Arnhem',
-        message: 'De automatische facturatie is goud. Reparatie klaar, factuur de deur uit. Vroeger deed ik dat pas in het weekend, nu is het meteen geregeld.',
-        avatar: '/images/testimonials/testimonial-6.png',
-        stars: 5
-    },
-    {
-        name: 'Martin van Dijk',
-        role: 'Van Dijk TV Service, Groningen',
-        message: 'Mijn planner was ziek, maar de zaak draaide gewoon door. Klanten werden netjes te woord gestaan en ingepland voor reparaties. Redde mijn week.',
-        avatar: '/images/testimonials/testimonial-7.png',
-        stars: 4
-    },
-    {
-        name: 'Wouter Meijer',
-        role: 'Meijer Klussendienst, Zwolle',
-        message: 'De "Gemiste Oproep SMS" levert me direct geld op. Mensen bellen verder als je niet opneemt, maar nu blijven ze hangen door dat berichtje.',
-        avatar: '/images/testimonials/testimonial-8.jpg',
-        stars: 5
-    },
-    {
-        name: 'Frank de Jong',
-        role: 'De Jong Audio Repair, Tilburg',
-        message: 'Ik ben handig met de soldeerbout, niet met computers. Maar dit systeem is simpel. Duidelijk overzicht en geen gedoe.',
-        avatar: '/images/testimonials/testimonial-9.jpg',
-        stars: 5
-    },
-    {
-        name: 'Gerard Veenstra',
-        role: 'Veenstra Witgoed, Maastricht',
-        message: 'De investering waard? Eén grote reparatie die je anders had gemist en je hebt het er al uit. Niet twijfelen, gewoon doen.',
-        avatar: '/images/testimonials/testimonial-10.png',
-        stars: 5
-    },
-];
+/**
+ * ECHTE klant-quotes van dit merk. Leeg = er is er vandaag nog geen.
+ * Vullen = het blok toont ze meteen, zonder dat er iets anders aangepast hoeft te worden.
+ * Illustratieve, gegenereerde of "voorbeeld"-quotes horen hier NIET in — dat is precies
+ * wat keur 173 eraf haalde.
+ */
+export const testimonials: ITestimonial[] = [];
+
+/** Kop + subkop van de sectie; `null` laat de hele sectie van de pagina verdwijnen. */
+export interface IProofSection {
+    title: string;
+    description: string;
+}
+
+export interface IProofBlock {
+    /** `null` = de sectie wordt niet gerenderd (page.tsx laat 'm dan weg). */
+    section: IProofSection | null;
+    /** De quotes die getoond worden. Leeg/afwezig = geen marquee. */
+    quotes?: ITestimonial[];
+}
+
+/**
+ * DE KOP BOVEN HET BLOK. Eén constante, want tot 31-07 stond deze zin twee keer letterlijk
+ * in deze file — mét de merknaam erin. Dat is de dubbele hardcode die RULE 3 verbiedt: bij
+ * de rollout naar de andere merken volgt een agent de gedocumenteerde "één regel" en laat
+ * de tweede staan. Eén constante = één string per repo om te vervangen.
+ */
+const echteQuotesSection: IProofSection = {
+    title: 'Wat Onze Klanten Zeggen',
+    description: 'Ervaringen van bedrijven die al werken met ReparatieAI.',
+};
+
+/**
+ * DE ENIGE BRON DIE DE PAGINA LEEST. Geen echte quotes = geen sectie; zodra er één echte
+ * quote in `testimonials` staat is de kop waar en verschijnt het blok.
+ */
+export const proofBlock: IProofBlock =
+    testimonials.length > 0
+        ? { section: echteQuotesSection, quotes: testimonials }
+        : { section: null };
