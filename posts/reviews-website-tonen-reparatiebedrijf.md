@@ -34,7 +34,7 @@ Drie strategische plekken:
 
 Twee opties:
 - **Handmatig:** kopieer de tekst, naam en sterrenscore. Update elke paar maanden met nieuwe reviews
-- **Automatisch:** gebruik een [Google Reviews](/blog/meer-klussen-met-ai) widget die live reviews toont. Dit houdt het actueel zonder dat je er iets voor hoeft te doen
+- **Automatisch:** gebruik een [Google Reviews](/blog/meer-google-reviews-reparatiebedrijf) widget die live reviews toont. Dit houdt het actueel zonder dat je er iets voor hoeft te doen
 
 Bij beide opties: toon de naam van de reviewer en het aantal sterren. Anonieme quotes zonder sterren wekken minder vertrouwen.
 
