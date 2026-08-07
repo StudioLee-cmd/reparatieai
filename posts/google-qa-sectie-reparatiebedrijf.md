@@ -1,93 +1,100 @@
 ---
-title: "Google Q&A voor reparatiebedrijven: de 3 vragen die tellen"
+title: "Google Q&A reparatiebedrijf: weg, wat er nu voor komt"
 slug: google-qa-sectie-reparatiebedrijf
 date: "2026-07-22"
-excerpt: "In je Google Bedrijfsprofiel mag iedereen vragen stellen en beantwoorden. Zo vul je de Q&A zelf in met de drie vragen die klanten echt stellen."
+excerpt: "Het vragenblok in je Google Bedrijfsprofiel is verdwenen. Google beantwoordt de drie vragen van je klant nu zelf, uit bronnen die jij vult of leeg laat."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-qa-sectie-reparatiebedrijf.jpg"
 tags: ["Vindbaarheid", "Google Bedrijfsprofiel", "Lokale SEO", "Reparatiebedrijf"]
 cluster: "vindbaarheid"
 ---
 
-Zoek je eigen bedrijf eens op in Google. Niet je website, gewoon je bedrijfsnaam. Scroll dan in het blok aan de rechterkant naar beneden, voorbij de openingstijden en de reviews, tot je bij "Vragen en antwoorden" komt. Grote kans dat daar één vraag staat. Van een half jaar geleden. Onbeantwoord.
+Zoek je eigen bedrijf eens op in Google. Niet je website, gewoon je bedrijfsnaam. Dat blok "Vragen en antwoorden" waar jarenlang één onbeantwoorde vraag van een half jaar oud in stond, staat er niet meer.
 
-Die vraag staat er openbaar bij, naast je bedrijfsnaam, voor iedereen die jou opzoekt. En het vervelende is: je kunt dat vakje niet uitzetten. Iedere Google-gebruiker mag een vraag stellen bij jouw profiel, en iedere Google-gebruiker mag hem ook beantwoorden. Ook iemand die nog nooit een voet in je werkplaats heeft gezet.
+Google heeft de vragensectie van het Bedrijfsprofiel afgeschaft. Dat is opluchting, want je kon dat vakje niet uitzetten en iedere Google-gebruiker mocht er namens jouw bedrijf antwoord geven. Maar er zit een keerzijde aan. De klant met een kapot apparaat heeft nog steeds dezelfde drie vragen, en hij krijgt er nog steeds antwoord op. Alleen komt dat antwoord nu van Google zelf, samengesteld uit wat het over jou kan vinden.
 
-Dat klinkt als een risico, en dat is het ook. Maar het is vooral een stuk gratis ruimte in de zoekresultaten dat de meeste reparatiebedrijven leeg laten staan. In dit artikel lees je welke drie vragen je er als eerste in zet. Daarna hoe je een antwoord schrijft dat over een jaar nog klopt, en waarom diezelfde antwoorden je ook aan de telefoon tijd besparen.
+In dit artikel lees je welke drie vragen dat zijn, waar het antwoord vanaf nu hoort te staan, en waarom diezelfde antwoorden je ook aan de telefoon tijd besparen. Dat is precies waarom [gevonden worden als reparatiebedrijf](/seo) niet stopt bij je website.
 
-## Waarom een leeg Q&A-blok geen neutrale keuze is
+## Wat er precies is gebeurd
 
-De meeste ondernemers denken dat een lege Q&A-sectie hetzelfde is als geen Q&A-sectie. Dat is niet zo. Het blok staat er, ook als jij er niets mee doet. Het is alleen de vraag wie hem vult.
+Twee momenten, allebei door Google zelf aangekondigd.
 
-Er zijn drie manieren waarop dat misgaat. Een klant stelt een vraag en er komt weken geen antwoord, waardoor je profiel er verlaten uitziet precies op het moment dat iemand jou met een concurrent vergelijkt. Of iemand anders beantwoordt hem, goedbedoeld maar fout, en dat foute antwoord staat er dan namens jouw bedrijf. Of er staat helemaal niets, terwijl de vraag die iedereen heeft gewoon onbeantwoord blijft en de zoeker doorklikt naar het volgende bedrijf in de lijst.
+Op 3 november 2025 zette Google de koppeling uit waarmee software vragen en antwoorden kon lezen en plaatsen. In de eigen documentatie voor ontwikkelaars staat dat de Q&A-API is stopgezet en dat je er geen vragen en antwoorden meer mee kunt lezen of posten. Vanaf 3 december 2025 verdween daarna de publieke sectie van de profielen zelf, verspreid over de maanden erna.
 
-Er zit nog een mechanisme onder dat veel mensen missen: antwoorden kunnen stemmen krijgen, en het antwoord met de meeste stemmen komt bovenaan te staan. Je hebt dus wel invloed, alleen niet via een aan-uitknop. Je hebt invloed door er als eerste een goed antwoord neer te zetten. Dat is precies waarom [gevonden worden als reparatiebedrijf](/seo) niet stopt bij je website: een groot deel van wat een zoeker over jou leest, staat helemaal niet op je site.
+Er komt geen vervangende sectie waarin je zelf vragen kunt plaatsen. Wat erin stond is niet meer zichtbaar, inclusief die vraag van een half jaar geleden waar niemand op reageerde.
 
-## De drie vragen die elk reparatiebedrijf krijgt
+## Wie er nu antwoord geeft namens jouw bedrijf
 
-Je hoeft niet te verzinnen wat klanten vragen. Je krijgt ze al dagelijks aan de telefoon. Voor vrijwel elk reparatiebedrijf komen ze neer op drie types, en die drie horen als eerste in je Q&A.
+Google zelf. In Nederland zie je dat in de AI-overzichten boven de zoekresultaten, sinds mei 2025 ook in het Nederlands, en in de AI-modus die hier sinds oktober 2025 wordt uitgerold. Het antwoord komt uit drie bronnen:
+
+- **Je Bedrijfsprofiel.** Je diensten, je openingstijden, je kenmerken, je bedrijfsomschrijving.
+- **Je website.** De pagina's waarop je uitlegt wat je repareert, hoe het werkt en wat je garantie is.
+- **Je reviews.** De woorden die klanten gebruiken, niet alleen het aantal sterren.
+
+Een leeg profiel was vroeger een gemiste kans. Nu is het een leeg antwoord. Google verzint niets in jouw voordeel: het geeft antwoord met wat het heeft, en als dat weinig is, valt jouw bedrijf uit dat antwoord terwijl de concurrent met een goed gevulde site er wel in staat.
+
+## De drie vragen, en waar het antwoord nu hoort
+
+Je hoeft niet te verzinnen wat klanten vragen. Je krijgt ze al dagelijks aan de telefoon. Voor vrijwel elk reparatiebedrijf komen ze neer op drie types.
 
 ### 1. De storings-vraag: doen jullie dit soort reparaties wel?
 
 Dit is de belangrijkste, want hierop haakt de meeste omzet af. Iemand met een kapot apparaat wil weten of hij bij jou aan het juiste adres is voordat hij belt. Merk, type, soort storing.
 
-Het antwoord dat niet werkt is "wij repareren alle merken". Dat leest als een folder en het beantwoordt de vraag niet. Wat wel werkt, is concreet zijn over wat je doet en net zo concreet over wat je niet doet. Noem welke soorten apparaten je aanneemt, of je ook op locatie komt, en wat er gebeurt als een reparatie niet blijkt te lonen. Dat laatste stelt mensen meer gerust dan een opsomming van merken, want het is de vraag waar ze eigenlijk mee zitten.
+*Waar het antwoord nu hoort:* als aparte diensten in je profiel, plus een eigen pagina per apparaatsoort op je site. Het antwoord dat niet werkt is "wij repareren alle merken". Dat leest als een folder, en Google kan er niets uit halen. Wat wel werkt is concreet zijn over wat je doet én over wat je niet doet, of je op locatie komt, en wat er gebeurt als een reparatie niet blijkt te lonen. Dat laatste stelt mensen meer gerust dan een rij merknamen.
 
-Deze vraag is ook je beste kans om de woorden te gebruiken waar klanten daadwerkelijk op zoeken. Iemand zoekt niet op "witgoedservice", die zoekt op zijn apparaat en zijn klacht. Dezelfde logica die je toepast op [lokale seo voor reparatiebedrijven](/seo), geldt hier: schrijf in de taal van de klant, niet in die van de branche.
+Dit is ook je beste kans om de woorden te gebruiken waar klanten daadwerkelijk op zoeken. Iemand zoekt niet op "witgoedservice", die zoekt op zijn apparaat en zijn klacht. Dezelfde logica die je toepast op [lokale seo voor reparatiebedrijven](/seo) geldt hier: schrijf in de taal van de klant, niet in die van de branche.
 
-### 2. De openingstijden-vraag: wanneer kan ik langskomen?
+### 2. De inlever-vraag: wanneer kan ik langskomen?
 
 Je openingstijden staan al in je profiel, dus deze vraag lijkt overbodig. Dat is hij niet, want de echte vraag is een andere. Mensen willen weten of ze zomaar kunnen binnenlopen met hun apparaat of dat ze eerst moeten bellen. Of ze het buiten die tijden ergens kunnen achterlaten. Of zaterdag ook kan.
 
 ![Opengewerkt apparaat op de werkbank van een reparatiebedrijf met precisiegereedschap en een multimeter](/images/blog/google-qa-sectie-reparatiebedrijf-2.jpg)
 
-Beantwoord dus niet de tijden, maar het inlevermoment. Dat scheelt je bovendien direct telefoontjes, en dat is bij de meeste reparatiebedrijven het echte knelpunt: de telefoon gaat terwijl je met een schroevendraaier in een apparaat zit.
+*Waar het antwoord nu hoort:* in je bedrijfsomschrijving op je profiel, plus twee zinnen bovenaan je contactpagina. Beantwoord dus niet de tijden, maar het inlevermoment. Dat scheelt je direct telefoontjes, en dat is bij de meeste reparatiebedrijven het echte knelpunt: de telefoon gaat terwijl je met een schroevendraaier in een apparaat zit.
 
 ### 3. De garantie-vraag: wat als het straks weer stuk gaat?
 
 Dit is de vraag die twijfelaars over de streep trekt of definitief wegjaagt. Mensen zijn bang dat ze betalen voor iets dat over twee maanden weer kapot is.
 
-Schrijf hier op hoe jouw garantie werkt, in gewone zinnen, en houd het bij wat je altijd waarmaakt. Zet er ook bij waar de garantie níet voor geldt. Een antwoord met een grens erin wordt meer geloofd dan een antwoord zonder, omdat het klinkt als iemand die weet waar hij het over heeft. Hoe je die belofte verder over je hele bedrijf doorvoert, staat los van dit vakje; hier gaat het puur om de formulering die publiek zichtbaar is.
+*Waar het antwoord nu hoort:* op een eigen garantiepagina. Schrijf op hoe jouw garantie werkt, in gewone zinnen, en houd het bij wat je altijd waarmaakt. Zet er ook bij waar de garantie níet voor geldt. Een antwoord met een grens erin wordt meer geloofd dan een antwoord zonder, omdat het klinkt als iemand die weet waar hij het over heeft.
 
-## Hoe je een antwoord schrijft dat over een jaar nog klopt
+## Hoe je iets schrijft dat over een jaar nog klopt
 
-Het grootste probleem met Q&A-antwoorden is niet dat ze fout zijn als je ze schrijft. Het is dat ze stilletjes verouderen. Er staat geen datum bij, niemand krijgt een seintje, en drie jaar later staat er nog steeds een antwoord dat niet meer klopt.
+Het grootste probleem met dit soort antwoorden is niet dat ze fout zijn als je ze schrijft. Het is dat ze stilletjes verouderen. En dat weegt nu zwaarder, want Google geeft ze door aan iemand die je site misschien nooit opent.
 
-Vier regels houden dat weg. Noem geen bedragen, want die veranderen en een oud bedrag naast je naam is erger dan geen bedrag. Noem geen namen van medewerkers. Verwijs voor alles wat beweegt naar je website in plaats van het antwoord zelf, zodat je het op één plek bijwerkt. En schrijf in de tegenwoordige tijd zonder verwijzingen naar dit jaar of dit seizoen.
+Vier regels houden dat weg. Schrijf in de tegenwoordige tijd zonder verwijzingen naar dit jaar of dit seizoen. Noem geen namen van medewerkers. Zet elk beweeglijk feit op één plek, zodat je het op één plek bijwerkt. En zet er wél een bedrag of een termijn in waar dat kan, want een pagina zonder feiten levert geen antwoord op.
 
-Zet er daarna een moment omheen. Eén keer per kwartaal je eigen bedrijfsnaam googelen en de Q&A doorlezen is genoeg. Zet meldingen aan, dan zie je nieuwe vragen binnenkomen zonder te zoeken. En als je toch bezig bent met [de rest van je bedrijfsprofiel op orde brengen](/blog/reparatiebedrijf-google-bedrijfsprofiel-optimaliseren), neem dit blok dan meteen mee, want het is het onderdeel dat het vaakst wordt overgeslagen.
-
-## Mag je zelf vragen toevoegen?
-
-Ja. Dit is waar veel ondernemers op afhaken, omdat het voelt als vals spelen. Dat is het niet. De sectie is er om veelgestelde vragen te beantwoorden, en jij bent de partij die het beste weet welke vragen dat zijn. Zolang het antwoord klopt, doe je precies waar de functie voor bedoeld is: je maakt de zoeker wijzer.
-
-Praktisch werkt het zo: je stelt de vraag zelf vanaf een Google-account, je beantwoordt hem vanaf je bedrijfsaccount, en je stemt op je eigen antwoord zodat hij bovenaan blijft staan. Schrijf de vraag zoals een klant hem zou stellen, niet zoals een marketeer hem zou stellen. "Repareren jullie ook inbouwapparatuur?" leest als een mens. "Welke diensten biedt uw onderneming aan?" leest als een formulier. De officiële uitleg van de functie vind je in de <a href="https://support.google.com/business/" target="_blank" rel="noopener">Help van Google Bedrijfsprofiel</a>.
+Zet er daarna een moment omheen. Eén keer per kwartaal je eigen bedrijfsnaam googelen, op je telefoon en uitgelogd, en lezen wat er over je verteld wordt. En als je toch bezig bent met [de rest van je bedrijfsprofiel op orde brengen](/blog/reparatiebedrijf-google-bedrijfsprofiel-optimaliseren), neem de lege velden dan meteen mee.
 
 ## Diezelfde drie antwoorden zijn overal bruikbaar
 
-Hier wordt het interessant, want je hebt nu iets waardevollers gemaakt dan drie stukjes tekst in een Google-vakje. Je hebt de drie vragen opgeschreven die je bedrijf het vaakst krijgt, mét de antwoorden die je normaal aan de telefoon geeft.
+Hier wordt het interessant, want je hebt nu iets waardevollers dan drie stukjes tekst in een Google-vakje dat niet meer bestaat. Je hebt de drie vragen opgeschreven die je bedrijf het vaakst krijgt, mét de antwoorden die je normaal aan de telefoon geeft.
 
-Die antwoorden horen op meer plekken te staan. Op je site, want een bezoeker die dezelfde twijfel heeft moet hem daar ook opgelost zien; een [gratis website voor reparatiebedrijven](/gratis-website) die deze drie vragen niet beantwoordt, laat aanvragen liggen. In je chat, zodat een avondbezoeker antwoord krijgt zonder dat jij iets doet. En in je telefoonaanname, zodat de beller die "doen jullie ook Bosch" vraagt geen werkonderbreking meer is.
+Die antwoorden horen op meer plekken te staan. Op je site, want een bezoeker met dezelfde twijfel moet hem daar opgelost zien; een [gratis website voor reparatiebedrijven](/gratis-website) die deze drie vragen niet beantwoordt laat aanvragen liggen, en levert Google bovendien niets om mee te werken. In je chat, zodat een avondbezoeker antwoord krijgt zonder dat jij iets doet. En in je telefoonaanname, zodat de beller die "doen jullie ook Bosch" vraagt geen werkonderbreking meer is.
 
-Zo verandert een klein SEO-klusje in iets dat je werkdag rustiger maakt. Het is dezelfde beweging als bij [review management voor reparatiebedrijven](/reviews): één keer goed inrichten, en het blijft daarna voor je werken. En omdat AI-assistenten hun antwoorden uit precies dit soort openbare tekst halen, houd je er met weinig moeite invloed mee op [hoe AI-assistenten jouw bedrijf noemen](/blog/reparatiebedrijf-vindbaar-chatgpt-ai-search). Wie serieus werk maakt van [hoger in google komen als reparatiebedrijf](/seo), begint bij de vragen die klanten sowieso al stellen.
+Omdat AI-assistenten hun antwoorden uit precies dit soort openbare tekst halen, houd je er met weinig moeite invloed mee op [hoe AI-assistenten jouw bedrijf noemen](/blog/reparatiebedrijf-vindbaar-chatgpt-ai-search). Dat gold al en het geldt nu voor Google zelf ook.
+
+En je reviews wegen zwaarder dan vroeger, want die zijn nu een van de drie bronnen. Het is dezelfde beweging als bij [review management voor reparatiebedrijven](/reviews): één keer goed inrichten en het blijft daarna voor je werken. Vraag klanten te benoemen wát je hebt gerepareerd, want "binnen drie dagen mijn vaatwasser gemaakt" is inhoud waar Google iets mee kan.
 
 ## Veelgestelde vragen
 
-**Kan ik een fout antwoord van iemand anders verwijderen?**
-Alleen als het in strijd is met het beleid van Google; dan kun je het rapporteren. In de praktijk werkt het beter om er zelf een beter antwoord onder te zetten en daarop te stemmen, zodat dat antwoord bovenaan komt.
+**Komt de vragensectie nog terug?**
+Nee. Google heeft de functie in november en december 2025 uitgezet en geen vervanger aangekondigd waarin je zelf vragen kunt plaatsen. De vervanging zit in de antwoorden die Google zelf samenstelt.
 
-**Hoeveel vragen moet ik toevoegen?**
-Begin met deze drie. Meer dan een stuk of vijf leest niemand, en drie goede antwoorden zijn meer waard dan tien halve.
+**Zijn de oude vragen en antwoorden nog te zien?**
+Nee, die zijn met de sectie verdwenen. Stond daar informatie die nergens anders staat, dan is dat nu een gat op je website of in je profiel.
 
 **Helpt dit ook echt voor mijn positie in Google?**
-Het is geen knop waarmee je stijgt. Wat het wel doet: een actief, compleet profiel presteert beter dan een verlaten profiel, en een zoeker die zijn antwoord bij jou vindt klikt niet door naar de concurrent. Dat tweede is uiteindelijk waar het om gaat bij [ai-vindbaarheid](/seo).
+Het is geen knop waarmee je stijgt. Wat het wel doet: een compleet profiel met een site die echte antwoorden bevat presteert beter dan een verlaten profiel, en een zoeker die zijn antwoord bij jou vindt klikt niet door naar de concurrent.
+
+**Hoeveel moet ik opschrijven?**
+Begin met deze drie. Drie goede, feitelijke antwoorden zijn meer waard dan tien halve, en meer dan een stuk of vijf onderwerpen tegelijk aanpakken houdt niemand vol.
 
 <div class="lees-ook" style="background-color: rgba(37, 99, 235, 0.08); border-left: 3px solid #2563eb; border-radius: 6px; padding: 12px 16px; margin: 28px 0;"><strong>Lees ook:</strong> <a href="/blog/stadspaginas-reparatiebedrijf-per-discipline">Stad-specifieke paginas voor reparatiebedrijven met meerdere disciplines</a> &rarr;</div>
 
 ## Klaar om die vragen één keer goed te beantwoorden?
 
-Het kost je een half uur om die drie vragen in je bedrijfsprofiel te zetten. Daarna staat er antwoord op de vragen die je anders elke week aan de telefoon uitlegt, op de plek waar mensen jou met je concurrent vergelijken. Jij repareert, wij regelen de rest.
+Het kost je een half uur om die drie antwoorden ergens neer te zetten waar ze gelezen kunnen worden. Daarna staat er antwoord op de vragen die je anders elke week aan de telefoon uitlegt, op de plek waar mensen jou met je concurrent vergelijken. Jij repareert, wij regelen de rest.
 
-Wil je weten welke vragen jouw klanten stellen en wat er nu van jouw bedrijf in Google staat? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan. We kijken je bedrijfsprofiel, je vindbaarheid en je openstaande vragen door en laten zien waar je aanvragen laat liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Meer opdrachten, minder telefoontjes over dingen die allang beantwoord hadden kunnen zijn.
-
-Benieuwd wat er verder nog in je profiel te winnen valt? Bekijk hoe wij [seo voor reparatiebedrijven](/seo) aanpakken.
+Wil je weten wat er nu van jouw bedrijf in Google staat, en welke van deze drie antwoorden nergens te vinden zijn? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan. We kijken je bedrijfsprofiel en je vindbaarheid door en laten zien waar je aanvragen laat liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
