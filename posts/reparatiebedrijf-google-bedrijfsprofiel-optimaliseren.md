@@ -148,17 +148,15 @@ Wat post je?
 
 Eén post per week is genoeg. Doe het op vaste momenten. Dit signaleert aan Google dat je actief bent.
 
-## Stap 8: Vragen beantwoorden (Q&A)
+## Stap 8: Zorg dat het antwoord op de standaardvragen ergens staat
 
-In je Bedrijfsprofiel kunnen klanten vragen stellen die zichtbaar zijn voor anderen. Beantwoord ze actief, of stel zelf vijf veelgestelde vragen in en beantwoord ze direct vanuit je beheeraccount.
+In je Bedrijfsprofiel konden klanten vroeger een vraag stellen die zichtbaar was voor anderen. Die sectie bestaat niet meer: Google stopte op 3 november 2025 de koppeling ernaartoe en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen blijven, en Google stelt het antwoord nu zelf samen uit je profiel, je website en je reviews. Zorg dus dat het er staat:
 
-Voorbeelden:
+- "Wat kost een wasmachine reparatie?" — op je tarievenpagina, met het bedrag er echt bij: "Onze reparaties starten vanaf 75 euro inclusief diagnose. Bij complexere reparaties bespreken we de prijs vooraf."
+- "Hoe lang duurt een telefoonscherm vervangen?" — bij die dienst zelf, in je dienstenlijst en op je site: "Bij ons in de winkel meestal binnen een uur."
+- "Werken jullie ook aan oude apparaten?" — in je bedrijfsomschrijving: "We repareren wasmachines tot 15 jaar oud, mits onderdelen beschikbaar zijn."
 
-- "Wat kost een wasmachine reparatie?" — "Onze reparaties starten vanaf 75 euro inclusief diagnose. Bij complexere reparaties bespreken we de prijs vooraf."
-- "Hoe lang duurt een telefoonscherm vervangen?" — "Bij ons in de winkel meestal binnen een uur."
-- "Werken jullie ook aan oude apparaten?" — "Ja, we repareren wasmachines tot 15 jaar oud, mits onderdelen beschikbaar zijn."
-
-Deze antwoorden verschijnen direct in je profiel en geven Google extra signalen over wat je doet.
+Deze antwoorden staan daarmee op de plek waar Google ze leest, en niemand anders kan ze voor je invullen. Wat er precies veranderd is staat in [Google Q&A reparatiebedrijf: weg, wat er nu voor komt](/blog/google-qa-sectie-reparatiebedrijf).
 
 ## Stap 9: Consistente NAP-gegevens
 
