@@ -37,7 +37,7 @@ Met ReparatieAI is dit verleden tijd. Het systeem kan oneindig veel gesprekken t
 Veel ondernemers denken dat AI hun vakmanschap wil vervangen. Dat is onzin. Een robot kan (voorlopig) niet tippen aan het inzicht van een monteur die een defect opspoort. Het gaat om het vervangen van het dure, trage kantoorwerk. Onze AI tools vervangen in feite drie partijen:
 - **De Telefoniste/Planner:** Een kracht op kantoor kost je al snel €35.000 per jaar. Onze [Voice AI](/voice-ai) (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, en beantwoordt vragen over voorrijkosten en doorlooptijden.
 - **Het Marketingbureau:** Wil je meer specifieke reparaties, zoals high-end apparatuur? Vroeger betaalde je een bureau €1.500 per maand. Onze Social Media AI & Tekstschrijver AI regelen je zichtbaarheid. Ze posten repairs op Instagram en schrijven blogs.
-- **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig. Maar het dagelijkse werk? Kassa AI koppelt alles aan elkaar. Geen gedoe met bonnetjes meer, facturen worden automatisch verstuurd na reparatie.
+- **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig. Maar het dagelijkse werk? Facturatie AI koppelt alles aan elkaar. Geen gedoe met bonnetjes meer, facturen worden automatisch verstuurd na reparatie.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klantnotities-delen-tussen-monteurs" class="text-dark fw-semibold">Klantnotities delen tussen monteurs in je reparatiebedrijf</a> →</p></div></div></div>
 
