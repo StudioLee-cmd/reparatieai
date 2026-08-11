@@ -85,11 +85,11 @@ Voeg drie velden toe aan je bestaande contactformulier: "Welk apparaat?", "Wat i
 
 Voordeel: kost niets. Nadeel: je doet de triage zelf, en bij grote pieken (na een storing of seizoensdrukte) verlies je nog steeds tijd. Werkt voor zzp-reparateurs onder de 50 leads per maand.
 
-### Pad 2 — Chatbot-pre-kwalificatie (€97-€197/maand)
+### Pad 2 — Chatbot-pre-kwalificatie
 
 Een AI-chatbot op je website voert het intake-gesprek voor je. Hij vraagt apparaat, type, garantie-status, en wenstijdvenster. Vervolgens classificeert hij automatisch en stuurt jou een gestructureerde WhatsApp met de categorie al ingevuld. Voordeel: triage is volledig vooraf afgehandeld. Nadeel: vereist een chatbot die niche-specifiek geconfigureerd is voor reparatiebedrijven.
 
-### Pad 3 — Volledig managed lead-flow (€197-€397/maand)
+### Pad 3 — Volledig managed lead-flow
 
 Voice AI plus chatbot plus CRM-integratie. Alle binnenkomende leads — telefoon, web, WhatsApp — komen via één gestandaardiseerde flow binnen, met categorie en prioriteit al vastgelegd. Voor reparatiebedrijven met meerdere technici of B2B-klanten die hoge service-eisen hebben. Bekijk de [tarieven van ReparatieAI](/tarieven) voor de exacte pakketten — het managed-pad zit standaard in alle pakketten boven de basis.
 
@@ -103,7 +103,7 @@ Met triage gaat je conversie naar 55 procent (omdat je je tijd structureel inves
 
 Daar bovenop: je tijdsinvestering daalt. Waar je nu 8 uur per week besteedt aan lead-opvolging, gaat dat met goede triage richting 4-5 uur per week — die uren ga je in plaats daarvan reparaties doen, wat nog eens 3-5 extra klussen per week toevoegt.
 
-Voor een Voice AI-pakket op €197 per maand betaalt het systeem zich dus terug bij minder dan één procent extra conversie. In de praktijk halen reparatiebedrijven die structureel triëren 15-25 procent extra conversie — vrijwel altijd binnen 60 dagen na implementatie.
+Deel het maandbedrag van je pakket (zie /tarieven) door je klus-waarde van €240: zoveel extra klussen heb je nodig om het systeem terug te verdienen. Tegenover €3.840 extra omzet per maand is dat op elke trede een fractie. In de praktijk halen reparatiebedrijven die structureel triëren 15-25 procent extra conversie — vrijwel altijd binnen 60 dagen na implementatie.
 
 ## Veelgestelde vragen
 
