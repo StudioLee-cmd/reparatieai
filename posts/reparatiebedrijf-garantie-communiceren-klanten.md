@@ -103,7 +103,7 @@ Voor [een complete reparateurs-stack inclusief geautomatiseerde klantcommunicati
 
 - Garantievoorwaarden formuleren: 1-2 uur eigen werk
 - Print van garantiebonnen of digitale templates: €30-€60 eenmalig
-- Geautomatiseerd opvolgsysteem: €49-149 per maand (zie [tarieven voor reparatiebedrijven](https://www.reparatieai.nl/tarieven))
+- Geautomatiseerd opvolgsysteem: hier zit geen losse moduleprijs op — het gaat mee in je maandbedrag, en dat staat op de [tarieven voor reparatiebedrijven](https://www.reparatieai.nl/tarieven)
 
 ROI: voor een reparatiebedrijf met €180.000 omzet betekent een win-rate stijging van 45 naar 65 procent een extra omzet van €30.000 tot €70.000 per jaar — alleen door betere communicatie van bestaande garantie.
 
