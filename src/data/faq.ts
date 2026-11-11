@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Werkt dit samen met mijn huidige software?",
-        answer: "Ja, wij koppelen met systemen zoals Moneybird, e-Boekhouden, Exact en Outlook. Zo worden facturen en afspraken direct goed gezet zonder dat jij iets hoeft over te typen.",
+        answer: "Reparatie-afspraken komen direct in je systeem. RepairDesk, RepairShopr, Fixably en Orderry koppelen we automatisch; je agenda (Google of Outlook) ook. Je boekhouding (Moneybird, e-Boekhouden, Exact Online) sluit automatisch aan; werk je met een ander pakket, dan regelen we het met een export die wij inladen.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
