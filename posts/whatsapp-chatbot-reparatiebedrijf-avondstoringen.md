@@ -80,4 +80,4 @@ Minder dan je denkt. De chatbot leert van je website, je veelgestelde vragen en 
 
 ## Nooit meer een avondstoring mislopen
 
-De aanvragen die 's avonds binnenkomen zijn vaak je beste klussen, want daar zit haast bij en daar hoort een eerlijke prijs bij. Met een chatbot die ze opvangt en netjes in je agenda zet, begin je elke ochtend met werk in plaats van met gemiste oproepen. Bij ReparatieAI richten we dat voor je in, inclusief de intake-vragen en de koppeling met je agenda, met een Groei-of-Geld-Terug Garantie. Bekijk wat een [gratis website voor reparatiebedrijven](/gratis-website) met een werkende chatbot voor je kan doen.
+De aanvragen die 's avonds binnenkomen zijn vaak je beste klussen, want daar zit haast bij en daar hoort een eerlijke prijs bij. Met een chatbot die ze opvangt en netjes in je agenda zet, begin je elke ochtend met werk in plaats van met gemiste oproepen. Bekijk wat een [gratis website voor reparatiebedrijven](/gratis-website) met een werkende chatbot voor je kan doen.

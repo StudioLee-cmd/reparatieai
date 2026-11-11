@@ -73,4 +73,4 @@ Google waardeert actieve profielen. Bedrijven die reageren op reviews scoren hog
 
 Je hebt geen systeem nodig om te starten. Maak je directe Google review link aan, sla die op in je telefoon en stuur na je eerstvolgende reparatie het eerste bericht. Vandaag nog.
 
-Wil je weten hoeveel reviews je nu hebt, hoe je scoort ten opzichte van concurrenten en waar de verbeterpunten liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je online reputatie en concrete stappen om meer reviews te verzamelen. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoeveel reviews je nu hebt, hoe je scoort ten opzichte van concurrenten en waar de verbeterpunten liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je online reputatie en concrete stappen om meer reviews te verzamelen.

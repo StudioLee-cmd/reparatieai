@@ -88,6 +88,4 @@ Een realistische invoering voor een reparatiebedrijf:
 
 Wij bouwen deze complete feedback-stack voor reparatiebedrijven in onze managed service. Van NPS-flow tot review-automatisering tot het maandelijkse dashboard waar jij op één pagina ziet of je bedrijf gezond groeit of stilstaat. Meer over [tarieven en pakketten](/tarieven) voor reparatiebedrijven die het hele systeem in één keer willen.
 
-## Groei-of-Geld-Terug Garantie
-
-Als na drie maanden je dashboard niet meer inzicht oplevert in je klantrelaties, en er geen meetbare verbetering is in NPS of reviewvolume, krijg je je investering terug. Wil je eerst een [gratis scan](/gratis-scan) waarin we de huidige cijfers voor jouw bedrijf vaststellen? Dat kost niets, duurt 20 minuten en geeft je direct zicht op waar de grootste winst zit. Jij repareert, wij regelen de rest.
+Wil je eerst een [gratis scan](/gratis-scan) waarin we de huidige cijfers voor jouw bedrijf vaststellen? Dat kost niets, duurt 20 minuten en geeft je direct zicht op waar de grootste winst zit. Jij repareert, wij regelen de rest.

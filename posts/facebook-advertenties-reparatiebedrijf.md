@@ -85,4 +85,4 @@ Kijk in die maand naar één ding: komen er gesprekken uit, en gaan die over het
 
 Levert dat te weinig op, dan zit het bijna altijd in de advertentietekst of in de bestemming, niet in het budget. Jij repareert, wij regelen de rest.
 
-Wil je eerst weten waar je nu online klanten laat liggen, ook zonder advertentiebudget? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan. Je krijgt inzicht in je vindbaarheid, je reviews en de kanalen die voor jouw werkgebied het meeste opleveren. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie van ReparatieAI.
+Wil je eerst weten waar je nu online klanten laat liggen, ook zonder advertentiebudget? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan. Je krijgt inzicht in je vindbaarheid, je reviews en de kanalen die voor jouw werkgebied het meeste opleveren.

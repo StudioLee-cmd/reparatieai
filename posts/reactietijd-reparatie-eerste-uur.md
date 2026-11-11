@@ -64,4 +64,4 @@ Een klant met een kapotte wasmachine vergelijkt geen drie offertes. Die belt tot
 
 Investeer niet in lagere prijzen. Investeer in snellere reacties. Dat levert meer op.
 
-Wil je weten hoe snel jouw bedrijf reageert en waar de verbeterpunten liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je bereikbaarheid en concrete stappen om meer klanten te winnen. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe snel jouw bedrijf reageert en waar de verbeterpunten liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je bereikbaarheid en concrete stappen om meer klanten te winnen.

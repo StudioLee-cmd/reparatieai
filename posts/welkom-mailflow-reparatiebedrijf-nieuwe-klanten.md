@@ -89,7 +89,7 @@ Nee. De koppeling tussen je werkplaatsplanning, je klantdata en de mailflow word
 
 Een nieuwe klant binnenhalen is het dure deel. Hem houden is het goedkope deel, en juist dat laten de meeste reparatiebedrijven liggen. Een welkom-mailflow van vier mails kost je één keer een avond instellen en verdient zichzelf terug zodra de eerste klant terugkomt met zijn volgende kapotte apparaat. Het kost je geen extra uren in de werkplaats, alleen een systeem dat het onthouden voor je doet.
 
-Wil je die flow niet zelf bouwen? Bij ReparatieAI zetten we de complete welkom-mailflow voor je op, gekoppeld aan de werkplaatsplanning en het klantenbestand die je al gebruikt. Doe de [gratis ai scan voor reparatiebedrijven](/gratis-scan) en je ziet precies waar in jouw bedrijf omzet en tijd weglekken na de reparatie. We werken met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast. Jij repareert, wij regelen de rest.
+Wil je die flow niet zelf bouwen? Bij ReparatieAI zetten we de complete welkom-mailflow voor je op, gekoppeld aan de werkplaatsplanning en het klantenbestand die je al gebruikt. Doe de [gratis ai scan voor reparatiebedrijven](/gratis-scan) en je ziet precies waar in jouw bedrijf omzet en tijd weglekken na de reparatie. Jij repareert, wij regelen de rest.
 
 <div class="lees-ook" style="margin:2.5rem 0; padding:1rem 1.25rem; border-radius:0.75rem; background-color:rgba(37, 99, 235, 0.08);">
 <strong>Lees ook:</strong> <a href="/blog/workflow-automatisering-reparatiebedrijf-meerdere-medewerkers">Workflow automatisering voor reparatiebedrijven met meerdere medewerkers</a> &rarr;

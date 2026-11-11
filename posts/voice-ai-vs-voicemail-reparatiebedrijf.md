@@ -80,6 +80,6 @@ Maar groei je, adverteer je, of wil je juist meer storings-klussen binnenhalen, 
 
 Die beller van 16:40 met zijn kapotte wasmachine hoeft nooit meer een bandje te horen. Een AI-telefonist neemt op, plant in en meldt het jou, terwijl jij gewoon doorwerkt aan het lager. Zo ga je [geen oproepen meer missen als reparatiebedrijf](/voice-ai), ook niet in het weekend of tijdens de drukste week van het jaar.
 
-Bij ReparatieAI richten we de AI-telefonist volledig in op jouw werkplaats, inclusief agendakoppeling en status-antwoorden, met onze Groei-of-Geld-Terug Garantie. Jij repareert, wij regelen de rest. Benieuwd waar jouw bereikbaarheid nu lekt? Vraag de [gratis AI-scan voor reparatiebedrijven](/gratis-scan) aan en zie binnen een paar minuten welke aanvragen je nu laat lopen.
+Jij repareert, wij regelen de rest. Benieuwd waar jouw bereikbaarheid nu lekt? Vraag de [gratis AI-scan voor reparatiebedrijven](/gratis-scan) aan en zie binnen een paar minuten welke aanvragen je nu laat lopen.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/voice-ai-callcenter-hybride-reparatiebedrijf" class="text-dark fw-semibold">Voice AI plus call-center: hybride model voor piekdrukte</a> →</p></div></div></div>

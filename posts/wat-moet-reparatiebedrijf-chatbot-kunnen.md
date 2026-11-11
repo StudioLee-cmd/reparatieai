@@ -105,7 +105,7 @@ Klanten vinden wachten onpersoonlijk, geen snel antwoord. Een bot die direct en 
 
 ## Conclusie: koop een collega, geen gadget
 
-Een chatbot voor je reparatiebedrijf beoordeel je niet op hoe hip hij oogt maar op de drie stromen die jouw dag bepalen: storings-intake, statusvragen en garantie, afgerond met een handover waar je monteur direct mee verder kan. Jij repareert, wij regelen de rest: zo hoort de rolverdeling te zijn. Wil je zien hoe een [ai chatbot voor jouw reparatiebedrijf](/chatbot) die drie stromen oppakt, dan richten wij hem in op basis van jouw apparaten en werkwijze, met onze Groei-of-Geld-Terug Garantie van ReparatieAI erop.
+Een chatbot voor je reparatiebedrijf beoordeel je niet op hoe hip hij oogt maar op de drie stromen die jouw dag bepalen: storings-intake, statusvragen en garantie, afgerond met een handover waar je monteur direct mee verder kan. Jij repareert, wij regelen de rest: zo hoort de rolverdeling te zijn.
 
 Eerst weten waar je nu staat? Vraag de [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan en zie binnen een paar minuten welke vragen jouw bedrijf vandaag laat liggen.
 

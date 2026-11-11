@@ -50,4 +50,4 @@ Maar reviews doen meer dan je ranking verbeteren:
 
 ## Direct beginnen
 
-Elk klus die je oplevert zonder review-verzoek is een gemiste kans. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je automatisch reviews verzamelt. Groei-of-Geld-Terug Garantie.
+Elk klus die je oplevert zonder review-verzoek is een gemiste kans. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je automatisch reviews verzamelt.

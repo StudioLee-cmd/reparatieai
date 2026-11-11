@@ -60,4 +60,4 @@ Google ziet reviews als een kwaliteitssignaal. Bedrijven met meer reviews en hog
 
 Selecteer je zes sterkste Google reviews en plaats ze op je homepage. Dat kost een half uur. Het effect op je conversie is direct merkbaar.
 
-Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan.

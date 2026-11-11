@@ -103,7 +103,7 @@ Een reparatiebedrijf-website die concurrentieanalyse-inzichten direct kan toepas
 - Reviews-integratie van Google die automatisch updaten.
 - Een aanvraag-flow die binnen 60 minuten reactie geeft (sneller dan de meeste concurrenten).
 
-Wil je weten waar jouw website nu staat ten opzichte van top-3 reparatiebedrijven in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen de complete concurrentieanalyse plus website-audit. We werken met de Groei-of-Geld-Terug Garantie.
+Wil je weten waar jouw website nu staat ten opzichte van top-3 reparatiebedrijven in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen de complete concurrentieanalyse plus website-audit.
 
 ## Veelgestelde vragen
 
@@ -135,6 +135,6 @@ Voor de eerste analyse helpt vaak een externe blik. Daarna kun je de jaarlijkse 
 
 Een concurrentieanalyse van 30 minuten geeft je objectieve data om je tarief, je responstijd en je marketing op te baseren. Reparatiebedrijven die deze check minstens één keer per jaar doen, prijzen zichzelf marktconform of premium en winnen significant meer klussen dan collega's die op gevoel werken.
 
-Wil je weten hoe jouw bedrijf zich positioneert in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen een volledige concurrentieanalyse plus directe verbeterpunten voor je website en aanbod. Met de Groei-of-Geld-Terug Garantie weet je vooraf wat je investering oplevert.
+Wil je weten hoe jouw bedrijf zich positioneert in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen een volledige concurrentieanalyse plus directe verbeterpunten voor je website en aanbod.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/specialiseren-reparatiebedrijf-nichemarketing" class="text-dark fw-semibold">Specialiseren als reparatiebedrijf: nichemarketing</a> →</p></div></div></div>

@@ -85,8 +85,6 @@ Start met deze 5 stappen:
 
 Bij StudioLee bouwen we merken voor vakmensen. Van [online reputatie](/blog/online-reputatie-reparatiebedrijf-beschermen) tot content marketing — alles afgestemd op jouw positionering. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe sterk jouw merk al is.
 
 ## Conclusie

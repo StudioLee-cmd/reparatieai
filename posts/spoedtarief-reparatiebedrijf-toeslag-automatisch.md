@@ -97,6 +97,6 @@ Als je deze week één ding verandert, maak het dan dit: schrijf de vier element
 
 Die alinea is meteen je scriptblok, je instructie voor een nieuwe medewerker en je bewijs dat je aan je informatieplicht voldoet. Wil je weten of je huidige opzet dat al dekt, dan laat een [gratis ai scan voor reparatiebedrijven](/gratis-scan) zien waar het nu blijft hangen.
 
-En als je het liever laat inrichten: bij ons managed abonnement zetten wij het toeslag-blok, de bevestigingsvraag en het automatische bericht achteraf voor je klaar, met onze Groei-of-Geld-Terug Garantie. Wat dat kost staat op onze tarievenpagina, en het is doorgaans minder dan één misgelopen vrijdagavond.
+Wat dat kost staat op onze tarievenpagina, en het is doorgaans minder dan één misgelopen vrijdagavond.
 
 Want [geen oproepen meer missen als reparatiebedrijf](/voice-ai) is maar de helft van het verhaal. De andere helft is dat de oproepen die je wel aanneemt, geen discussie meer opleveren.

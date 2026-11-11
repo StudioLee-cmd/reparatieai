@@ -97,4 +97,4 @@ Begin met deze drie. Drie goede, feitelijke antwoorden zijn meer waard dan tien 
 
 Het kost je een half uur om die drie antwoorden ergens neer te zetten waar ze gelezen kunnen worden. Daarna staat er antwoord op de vragen die je anders elke week aan de telefoon uitlegt, op de plek waar mensen jou met je concurrent vergelijken. Jij repareert, wij regelen de rest.
 
-Wil je weten wat er nu van jouw bedrijf in Google staat, en welke van deze drie antwoorden nergens te vinden zijn? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan. We kijken je bedrijfsprofiel en je vindbaarheid door en laten zien waar je aanvragen laat liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Wil je weten wat er nu van jouw bedrijf in Google staat, en welke van deze drie antwoorden nergens te vinden zijn? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan. We kijken je bedrijfsprofiel en je vindbaarheid door en laten zien waar je aanvragen laat liggen.

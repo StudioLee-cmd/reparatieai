@@ -94,6 +94,4 @@ Vanaf dag 6: live zetten en elke dag 10 minuten reserveren om responsen op te pa
 
 In onze managed service zetten wij deze volledige nazorgflow voor reparatiebedrijven op: CRM-koppeling, automatische triggers, WhatsApp-templates op jouw toon, centrale inbox voor responsen en maandelijkse rapportage over herhaalklus-conversie. Je hoeft alleen nog de klussen uit te voeren. Bekijk de [tarieven](/tarieven) of vraag een [gratis scan](/gratis-scan) aan om te zien hoeveel herhaalomzet jij nu laat liggen.
 
-## Groei-of-Geld-Terug Garantie
-
-Als de herhaalklussen na zes maanden niet meetbaar zijn gestegen, krijg je je investering terug. Jij fixt de apparaten, wij regelen de rest.
+Jij fixt de apparaten, wij regelen de rest.
