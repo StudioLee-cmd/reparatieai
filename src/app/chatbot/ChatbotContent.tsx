@@ -451,17 +451,17 @@ export default function ChatbotContent() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <Link href="/voice-ai" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Voice AI Telefonist</h3>
-                <p className="text-foreground-accent text-sm mb-3">Vangt oproepen op als de klant liever belt — zelfde info, zelfde flow.</p>
+                <p className="text-foreground-accent text-sm mb-3">Voor de klant die liever belt: dezelfde storingsvragen aan de telefoon, dezelfde complete melding voor jou.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/automatisering" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Workflow Automatisering</h3>
-                <p className="text-foreground-accent text-sm mb-3">Herinneringen, status-updates en review-verzoeken automatisch na elk chatbot-gesprek.</p>
+                <p className="text-foreground-accent text-sm mb-3">Klaarmelding, ophaalherinnering en reviewverzoek gaan vanzelf de deur uit zodra een reparatie klaar is.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/crm" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">CRM voor Reparateurs</h3>
-                <p className="text-foreground-accent text-sm mb-3">Elke chatbot-conversatie landt automatisch in het klantprofiel met geschiedenis.</p>
+                <p className="text-foreground-accent text-sm mb-3">Elke intake komt bij de klant en zijn apparaat te staan, zodat je bij de volgende storing ziet wat je eerder deed.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
           </div>
@@ -505,7 +505,7 @@ export default function ChatbotContent() {
       {/* CTA */}
       <section className="py-16 px-4">
         <div className="max-w-2xl mx-auto text-center">
-          <h2 className="text-2xl md:text-3xl font-bold mb-4">Klaar om 24/7 klanten op te vangen?</h2>
+          <h2 className="text-2xl md:text-3xl font-bold mb-4">Zien hoe hij een storing uitvraagt?</h2>
           <p className="text-foreground-accent mb-8">
             Plan een gratis gesprek. We laten zien hoe de chatbot een storingsmelding,
             een statusvraag en een garantievraag voor jouw reparatiebedrijf afhandelt.
