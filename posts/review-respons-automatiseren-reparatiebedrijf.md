@@ -5,7 +5,7 @@ date: "2026-07-15"
 excerpt: "Positieve reviews verdienen een snel bedankje, kritische een goede reactie. Zo laat je AI de antwoorden opstellen en keur je ze in een paar minuten goed."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-respons-automatiseren-reparatiebedrijf.jpg"
-tags: ["Reviews", "Automatisering", "Reputatie", "Reparatiebedrijf"]
+tags: ["Reviews", "Automatisering"]
 cluster: "reviews"
 ---
 

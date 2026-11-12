@@ -5,7 +5,7 @@ date: "2026-07-03"
 excerpt: "Live chat op je website werkt alleen als iemand hem bemant. Wanneer een AI chatbot voor reparatiebedrijven de slimmere keuze is, lees je hier."
 image: "/images/blog/live-chat-of-ai-chatbot-reparatiebedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Live chat", "Website", "Storingen"]
+tags: ["Chatbot", "Website", "AI"]
 cluster: "chatbot"
 ---
 

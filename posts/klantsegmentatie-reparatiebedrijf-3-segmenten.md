@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "Verdeel je klanten in 3 segmenten: garantie-klant, herhaal-reparant en B2B-makelaar. Stuur elk de juiste automatische WhatsApp-flow, zonder extra werk."
 image: "/images/blog/klantsegmentatie-reparatiebedrijf-3-segmenten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "CRM", "Klantcommunicatie"]
+tags: ["Automatisering", "CRM"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-vindbaarheid-google.jpg"
-tags: ["SEO", "Reparatie", "Vindbaarheid"]
+tags: ["Vindbaarheid"]
 ---
 ## Onzichtbaar in Google? Dan besta je niet
 

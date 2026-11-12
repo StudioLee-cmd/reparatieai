@@ -7,7 +7,7 @@ excerpt: "De meeste klanten vergeten hun reparatiebedrijf na de klus. Met slimme
 image: "/images/blog/email-marketing-reparatiebedrijf-herinnering.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["email marketing", "reparatiebedrijf", "herinneringen"]
+tags: ["E-mail", "Herinneringen"]
 cluster: "automatisering"
 ---
 

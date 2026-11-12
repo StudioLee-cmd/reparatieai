@@ -4,7 +4,7 @@ excerpt: "Zet elke reparatie-categorie apart in je Google Bedrijfsprofiel en wor
 date: "2026-05-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-services-reparatiebedrijf.jpg"
-tags: ["Vindbaarheid", "Google", "Lokale SEO", "Reparatiebedrijf"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 

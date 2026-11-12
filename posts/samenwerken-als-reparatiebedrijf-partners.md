@@ -5,7 +5,7 @@ excerpt: "Strategische samenwerkingen met winkels, verzekeraars en woningbouwver
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-reparatiebedrijf-partners.png"
-tags: ["samenwerkingen", "reparatiebedrijf", "groei"]
+tags: ["Groei", "Branding"]
 cluster: "branding"
 ---
 

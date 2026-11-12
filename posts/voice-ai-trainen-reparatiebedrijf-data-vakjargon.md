@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "Een AI telefonist die droger en vaatwasser verwisselt kost je een rit. Zo lever je de juiste data en het apparaat-vocabulaire aan je voice AI."
 image: "/images/blog/voice-ai-trainen-reparatiebedrijf-data-vakjargon.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "AI telefonist", "Klantcontact", "Werkplaats"]
+tags: ["Voice AI", "Werkplaats"]
 cluster: "voice-ai"
 ---
 

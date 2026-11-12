@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-gevonden-reparatiebedrijf-seo.jpg"
-tags: ["Vindbaarheid", "Google", "SEO"]
+tags: ["Vindbaarheid", "Google"]
 ---
 ## De klant zoekt nu, niet morgen
 

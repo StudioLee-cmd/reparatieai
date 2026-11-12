@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "Een chatbot kiezen voor je reparatiebedrijf? Deze checklist toont wat er echt in moet: storings-intake, statusvragen, garantie en de handover naar de monteur."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-moet-reparatiebedrijf-chatbot-kunnen.jpg"
-tags: ["Chatbot", "AI", "Klantcontact", "Automatisering"]
+tags: ["Chatbot", "AI", "Automatisering"]
 cluster: "chatbot"
 ---
 

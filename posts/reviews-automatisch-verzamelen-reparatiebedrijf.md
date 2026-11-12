@@ -5,7 +5,7 @@ date: "2026-04-19"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-automatisch-verzamelen-reparatiebedrijf.jpg"
-tags: ["Reviews", "Automatisering", "Groei"]
+tags: ["Reviews", "Automatisering"]
 ---
 ## Het probleem met handmatig reviews vragen
 

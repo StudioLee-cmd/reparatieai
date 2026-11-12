@@ -5,7 +5,7 @@ date: "2026-07-27"
 excerpt: "De helft van je vragen kan gewoon op een pagina staan. De andere helft hangt af van merk, leeftijd en storing. Zo verdeel je ze over beide."
 image: "/images/blog/chatbot-vs-faq-pagina-reparatiebedrijf-modelvragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Website", "Klantcontact"]
+tags: ["Chatbot", "Website"]
 cluster: "chatbot"
 ---
 

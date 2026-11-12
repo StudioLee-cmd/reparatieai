@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiekosten-communiceren-klant.jpg"
-tags: ["Prijzen", "Reparatie", "Klantcommunicatie"]
+tags: ["Prijzen", "Klantcommunicatie"]
 ---
 ## "Hoeveel gaat dit kosten?"
 

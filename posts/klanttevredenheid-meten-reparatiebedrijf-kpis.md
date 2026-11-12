@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-meten-reparatiebedrijf-kpis.jpg"
-tags: ["Reparatiebedrijf", "Klanttevredenheid", "KPI", "Groei"]
+tags: ["Klanttevredenheid", "Groei"]
 ---
 "Onze klanten zijn tevreden" is de meest gelogen zin in elk reparatiebedrijf. Niet omdat eigenaren expres liegen, maar omdat ze meten wat toevallig zichtbaar is: een paar reviews, geen klachten de afgelopen twee weken, tevreden gezichten tijdens oplevering. Die signalen zeggen weinig over de werkelijke gezondheid van je klantrelaties. Een reparatiebedrijf dat serieus wil groeien heeft vier harde KPI's die de werkelijkheid boven tafel krijgen — en daarmee voorspellen of je het volgende jaar meer of minder aanvragen krijgt.
 

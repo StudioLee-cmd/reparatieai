@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/garantie-reparatie-vertrouwen-opbouwen.jpg"
-tags: ["Garantie", "Klantrelatie", "Reparatie Tips"]
+tags: ["Garantie", "Klantrelatie"]
 ---
 ## Waarom garantie het verschil maakt
 

@@ -5,7 +5,7 @@ date: "2026-06-28"
 excerpt: "TikTok zonder dansjes? Voor reparateurs is je opengewerkte werkplaats precies wat het algoritme beloont. Zo zet je video om in lokale klussen."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/tiktok-voor-reparatiebedrijven.jpg"
-tags: ["Social Media", "TikTok", "Marketing"]
+tags: ["Social Media", "Marketing"]
 cluster: "social-media"
 ---
 

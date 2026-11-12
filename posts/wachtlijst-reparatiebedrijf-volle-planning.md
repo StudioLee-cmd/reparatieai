@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijst-reparatiebedrijf-volle-planning.jpg"
-tags: ["No-shows", "Reparatie", "Planning"]
+tags: ["No-shows", "Planning"]
 ---
 ## Het probleem: lege plekken die je niet meer kunt vullen
 

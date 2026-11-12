@@ -5,7 +5,7 @@ excerpt: "Een duidelijk garantiebeleid wint het vertrouwen van klanten en voorko
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/garantiebeleid-reparatiebedrijf-vertrouwen.png"
-tags: ["Reparatiebedrijf", "Garantie", "Vertrouwen"]
+tags: ["Garantie", "Vertrouwen"]
 cluster: "website"
 ---
 ## Waarom garantie het verschil maakt

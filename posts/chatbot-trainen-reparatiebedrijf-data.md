@@ -5,7 +5,7 @@ date: "2026-07-17"
 excerpt: "Een chatbot die op elke vraag zegt bel het kantoor is waardeloos. Zo train je hem op je reparatiebedrijf-data via FAQ, garantie, voorraad en handleidingen."
 image: "/images/blog/chatbot-trainen-reparatiebedrijf-data.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "AI", "Klantcontact"]
+tags: ["Chatbot", "AI"]
 cluster: "chatbot"
 ---
 

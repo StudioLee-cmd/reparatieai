@@ -5,7 +5,7 @@ excerpt: "De krachtigste marketing voor reparatiebedrijven is mond-tot-mond. Lee
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-reparatiebedrijf.png"
-tags: ["mond-tot-mond", "reparatiebedrijf", "marketing"]
+tags: ["Marketing", "Branding"]
 cluster: "branding"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Nooit meer staren naar een leeg postvak. Een complete contentkalender met 30 dagen aan Instagram-ideeen voor jouw reparatiebedrijf."
 image: "/images/blog/instagram-contentkalender-reparatiebedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram", "Marketing"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

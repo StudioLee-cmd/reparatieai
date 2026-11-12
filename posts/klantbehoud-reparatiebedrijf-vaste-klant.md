@@ -7,7 +7,7 @@ excerpt: "Een reparatie is vaak een eenmalig contactmoment. Maar met de juiste a
 image: "/images/blog/klantbehoud-reparatiebedrijf-vaste-klant.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["klantbehoud", "reparatie", "relatiebeheer"]
+tags: ["Klantbehoud"]
 cluster: "automatisering"
 ---
 ## De waarde van terugkerende klanten

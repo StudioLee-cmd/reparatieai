@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voice-ai-scripts-reparatiebedrijf-intake.jpg"
 cluster: "voice-ai"
-tags: ["Voice AI", "Reparatie Intake", "Klantcommunicatie"]
+tags: ["Voice AI", "Intake"]
 ---
 Een klant belt een reparatiebedrijf met een wasmachine die niet meer aanslaat. De medewerker neemt op, vraagt het serie-nummer, vraagt naar de geluiden, vraagt wanneer het probleem begon en plant een afspraak. Vier minuten gesprek. Drie maanden later belt diezelfde klant terug omdat zijn vaatwasser lekt. De medewerker stelt opnieuw alle basis-vragen, plus drie nieuwe specifiek voor afvoerproblemen. Vijf minuten gesprek. Per dag tien tot vijftien van zulke gesprekken bij een gemiddeld reparatiebedrijf, alleen al voor de intake.
 

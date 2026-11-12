@@ -5,7 +5,7 @@ date: "2026-04-11"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-vragen-na-reparatie-timing.jpg"
-tags: ["Reviews", "Klanttevredenheid", "Groei"]
+tags: ["Reviews", "Klanttevredenheid"]
 ---
 ## Waarom timing alles is bij reviews vragen
 

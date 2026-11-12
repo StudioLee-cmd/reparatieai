@@ -5,7 +5,7 @@ excerpt: "Leer hoe je als reparatiebedrijf je administratie slim regelt en meer 
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-reparatiebedrijf-slim-regelen.jpg"
-tags: ["Administratie", "Efficiëntie", "Tools"]
+tags: ["Efficiëntie", "Tools"]
 cluster: "automatisering"
 ---
 ## Het belang van goede administratie

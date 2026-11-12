@@ -4,7 +4,7 @@ excerpt: "Pre-intake-gesprekken over storingen kosten reparatiebedrijven 5 uur p
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-pre-diagnose-efficiency.jpg"
-tags: ["Intake", "Pre-diagnose", "Tijdwinst"]
+tags: ["Intake", "Automatisering"]
 cluster: "automatisering"
 ---
 

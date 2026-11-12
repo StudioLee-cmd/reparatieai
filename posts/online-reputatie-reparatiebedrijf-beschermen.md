@@ -5,7 +5,7 @@ excerpt: "Eén onterechte klacht kan je online reputatie beschadigen. Leer hoe j
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-reparatiebedrijf-beschermen.png"
-tags: ["Reputatie", "Reviews", "Strategie"]
+tags: ["Reputatie", "Reviews"]
 cluster: "reviews"
 ---
 Je hebt jarenlang kwaliteit geleverd. Honderden tevreden klanten. En dan plaatst iemand een vernietigende Google-review — onterecht, overdreven, of zelfs nep. Die ene review staat bovenaan, terwijl je 47 positieve beoordelingen eronder verdwijnen. Herkenbaar? Je bent niet alleen. Online reputatiemanagement is een van de grootste uitdagingen voor reparatiebedrijven in 2026.

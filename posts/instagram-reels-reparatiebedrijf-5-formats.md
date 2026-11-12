@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Geen tijd of ideeën voor social media? Deze 5 Reel-formats film je zo in je werkplaats en leveren reparatiebedrijven echt nieuwe klussen op."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/instagram-reels-reparatiebedrijf-5-formats.jpg"
-tags: ["Social Media", "Instagram", "Marketing"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

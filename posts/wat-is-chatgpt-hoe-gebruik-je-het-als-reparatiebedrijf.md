@@ -4,7 +4,7 @@ excerpt: "ChatGPT kan reparatiebedrijven helpen bij communicatie en marketing. M
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-reparatiebedrijf.png"
-tags: ["Tools", "ChatGPT", "Reparatie"]
+tags: ["Tools", "ChatGPT"]
 cluster: "automatisering"
 ---
 

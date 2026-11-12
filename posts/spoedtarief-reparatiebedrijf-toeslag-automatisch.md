@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "De discussie over je spoedtoeslag ontstaat niet bij het bedrag, maar bij het moment waarop de klant het hoort. Zo valt dat bedrag altijd voor je rijdt."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedtarief-reparatiebedrijf-toeslag-automatisch.jpg"
-tags: ["Voice AI", "Spoed", "Klantcommunicatie"]
+tags: ["Voice AI"]
 cluster: "voice-ai"
 ---
 

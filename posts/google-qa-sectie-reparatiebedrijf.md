@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "Het vragenblok in je Google Bedrijfsprofiel is verdwenen. Google beantwoordt de drie vragen van je klant nu zelf, uit bronnen die jij vult of leeg laat."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-qa-sectie-reparatiebedrijf.jpg"
-tags: ["Vindbaarheid", "Google Bedrijfsprofiel", "Lokale SEO", "Reparatiebedrijf"]
+tags: ["Vindbaarheid", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

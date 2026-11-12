@@ -5,7 +5,7 @@ excerpt: "Moet je als reparatiebedrijf prijzen op je website tonen? Ontdek hoe t
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-website-reparatiebedrijf.png"
-tags: ["prijzen communiceren", "reparatiebedrijf", "website"]
+tags: ["Prijzen", "Website"]
 cluster: "website"
 ---
 

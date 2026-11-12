@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "Een lekkende vriezer om 19:00 of een garantievraag overdag: hoe laat je AI-telefonie de echte spoedklus er meteen uithalen? Zo werkt slimme call-routing."
 image: "/images/blog/ai-routing-spoed-standaard-reparatiebedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Reparatiebedrijf"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

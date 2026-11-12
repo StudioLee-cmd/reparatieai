@@ -6,7 +6,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-automatiseren.jpg"
-tags: ["Automatisering", "Reparatie", "Efficiëntie"]
+tags: ["Automatisering"]
 ---
 ## Repareren doe je met je handen, niet met je inbox
 

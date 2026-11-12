@@ -5,7 +5,7 @@ date: "2026-05-01"
 excerpt: "Een goed gecommuniceerde garantie levert 30-45% meer reviews en 15-25% meer herhaalbezoek op. Voorbeeldteksten en de 4 fouten die je moet vermijden."
 image: "/images/blog/reparatiebedrijf-garantie-communiceren-klanten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Garantie", "Klantcommunicatie", "Reparatie", "Vertrouwen", "Reviews"]
+tags: ["Garantie", "Vertrouwen"]
 cluster: "automatisering"
 ---
 Een reparatiebedrijf dat alleen op de factuur "garantie 6 maanden" zet, mist 70 procent van de marketingwaarde van zijn eigen garantie. Een reparatiebedrijf dat de garantie actief en helder communiceert — vóór de reparatie, tijdens de afgifte, en in de opvolging — bouwt zichtbaar meer vertrouwen op, krijgt 30 tot 45 procent meer reviews, en ziet 15 tot 25 procent meer herhaalbezoek dan concurrenten met dezelfde fysieke garantie.

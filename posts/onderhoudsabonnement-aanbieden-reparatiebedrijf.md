@@ -5,7 +5,7 @@ date: "2026-07-10"
 excerpt: "Eenmalige reparaties maken je omzet onvoorspelbaar. Zo bouw je een onderhoudsabonnement dat witgoed-klanten twee keer per jaar automatisch terughaalt."
 image: "/images/blog/onderhoudsabonnement-aanbieden-reparatiebedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Onderhoudsabonnement", "WhatsApp", "Terugkerende omzet"]
+tags: ["Automatisering", "WhatsApp"]
 cluster: "automatisering"
 ---
 

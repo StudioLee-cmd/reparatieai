@@ -4,7 +4,7 @@ excerpt: "Reparatiebedrijven leven van urgente aanvragen. Wie bovenaan staat in 
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-reparatiebedrijven-meer-aanvragen-krijgen-via-google.png"
-tags: ["Vindbaarheid", "Google", "Aanvragen", "Reparatie"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 ## Reparatiebedrijven draaien op urgentie — en Google levert die klanten

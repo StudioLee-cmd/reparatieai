@@ -4,7 +4,7 @@ excerpt: "Ontdek hoe je als reparatiebedrijf je website inricht zodat bezoekers 
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiewebsite-aanvraagmachine.png"
-tags: ["Website", "Conversie", "Leadgeneratie"]
+tags: ["Website", "Conversie", "Leads"]
 cluster: "website"
 ---
 ## Waarom je website meer kan doen

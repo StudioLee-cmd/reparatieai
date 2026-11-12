@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Werk verdelen met een team zonder whiteboard-chaos: routing-regels en digitale werkbonnen die elke klus automatisch bij de juiste monteur leggen."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/workflow-automatisering-reparatiebedrijf-meerdere-medewerkers.jpg"
-tags: ["Automatisering", "Werkplanning", "AI"]
+tags: ["Automatisering", "Planning", "AI"]
 cluster: "automatisering"
 ---
 

@@ -6,7 +6,7 @@ date: "2026-04-08"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-google-bedrijfsprofiel-optimaliseren.jpg"
-tags: ["SEO", "Google Bedrijfsprofiel", "Reparatiebedrijf"]
+tags: ["Vindbaarheid", "Google"]
 ---
 ## Waarom je Google Bedrijfsprofiel jouw belangrijkste verkoopkanaal is
 

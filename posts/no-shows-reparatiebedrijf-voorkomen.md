@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-reparatiebedrijf-voorkomen.jpg"
-tags: ["No-shows", "Reparatie", "Herinneringen"]
+tags: ["No-shows", "Herinneringen"]
 ---
 ## Gemiste afspraken: het duurste probleem dat niemand bijhoudt
 

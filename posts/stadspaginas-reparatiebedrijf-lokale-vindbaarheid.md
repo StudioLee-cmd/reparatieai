@@ -5,7 +5,7 @@ date: "2026-04-16"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stadspaginas-reparatiebedrijf-lokale-vindbaarheid.jpg"
-tags: ["Vindbaarheid", "Stadspagina", "Reparatie"]
+tags: ["Vindbaarheid"]
 ---
 ## Waarom "wasmachine reparatie [stad]" goud is voor jou
 

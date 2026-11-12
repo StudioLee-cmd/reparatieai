@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "Overstappen naar andere werkplaatssoftware voelt riskant. Zo migreer je reparatie-tickets, klanthistorie en voorraad zonder je werkplaats plat te leggen."
 image: "/images/blog/bedrijfssoftware-overstappen-reparatiebedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Bedrijfssoftware", "Werkplaats"]
+tags: ["Automatisering", "Werkplaats"]
 cluster: "automatisering"
 ---
 

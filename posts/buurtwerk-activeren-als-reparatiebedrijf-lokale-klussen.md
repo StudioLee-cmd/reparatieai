@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Buurtwerk activeren is goedkoper dan ads. 6 tactieken die je reparatiebedrijf zichtbaar maken in de straten waar je werkt en lokale klussen opleveren."
 image: "/images/blog/buurtwerk-activeren-als-reparatiebedrijf-lokale-klussen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Lokale marketing", "Buurtmarketing", "Branding"]
+tags: ["Branding", "Marketing"]
 cluster: "branding"
 ---
 

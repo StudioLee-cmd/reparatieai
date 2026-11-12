@@ -7,7 +7,7 @@ excerpt: "De snelste offerte wint. Ontdek hoe je als reparatiebedrijf je offerte
 image: "/images/blog/offertes-reparatiebedrijf-meer-klussen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["offerte proces", "reparatiebedrijf", "klussen"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

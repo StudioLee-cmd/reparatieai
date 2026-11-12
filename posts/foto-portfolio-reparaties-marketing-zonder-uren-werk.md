@@ -5,7 +5,7 @@ date: "2026-05-16"
 excerpt: "Voor-na fotos van reparaties zijn de sterkste marketing-asset die een reparatiebedrijf heeft. Hoe je ze maakt, deelt en herbruikt zonder extra tijd."
 image: "/images/blog/foto-portfolio-reparaties-marketing-zonder-uren-werk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Portfolio", "Marketing", "Foto", "Social media", "Reparatiebedrijf"]
+tags: ["Marketing", "Social Media"]
 cluster: "website"
 ---
 

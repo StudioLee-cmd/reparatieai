@@ -4,7 +4,7 @@ excerpt: "Hoe kies je een naam voor je reparatiebedrijf die mensen onthouden, ma
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/naamgeving-reparatiebedrijf-branding.jpg"
-tags: ["Branding", "Naamgeving", "Reparatiebedrijf"]
+tags: ["Branding"]
 cluster: "branding"
 ---
 ## In het kort

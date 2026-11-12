@@ -5,7 +5,7 @@ date: "2026-06-21"
 excerpt: "Tijdens een storingspiek mis je oproepen terwijl je repareert. Een hybride model met Voice AI als basis en een call-center als overflow vangt elke klant op."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voice-ai-callcenter-hybride-reparatiebedrijf.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "Reparatiebedrijf"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

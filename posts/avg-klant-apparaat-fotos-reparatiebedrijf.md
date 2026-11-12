@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Fotos van gerepareerde apparaten posten zonder AVG-risico: het scherm dat je vergeet, wanneer je toestemming nodig hebt en hoe je een veilige foto maakt."
 image: "/images/blog/avg-klant-apparaat-fotos-reparatiebedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "AVG", "Privacy"]
+tags: ["Social Media"]
 cluster: "social-media"
 ---
 

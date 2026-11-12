@@ -5,7 +5,7 @@ date: "2026-07-16"
 excerpt: "De juiste hashtags zorgen dat mensen in jouw stad je reparatiebedrijf vinden op Instagram. Zo bouw je een lokale hashtag-strategie die klanten oplevert."
 image: "/images/blog/hashtag-strategie-reparatiebedrijf-instagram.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social media", "Instagram", "Vindbaarheid", "Reparatiebedrijf"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

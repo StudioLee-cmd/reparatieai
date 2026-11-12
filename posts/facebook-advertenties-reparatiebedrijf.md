@@ -5,7 +5,7 @@ date: "2026-08-01"
 excerpt: "Je grootste concurrent op Facebook is niet de reparateur om de hoek. Het is de advertentie voor een nieuw apparaat ernaast. Zo win je die."
 image: "/images/blog/facebook-advertenties-reparatiebedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Adverteren", "Lokale marketing"]
+tags: ["Social Media", "Marketing"]
 cluster: "social-media"
 ---
 

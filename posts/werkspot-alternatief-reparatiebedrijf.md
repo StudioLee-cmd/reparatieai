@@ -4,7 +4,7 @@ excerpt: "Ontdek waarom steeds meer reparatiebedrijfs stoppen met Werkspot en ki
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkspot-alternatief-reparatiebedrijf.jpg"
-tags: ["Vergelijking", "Werkspot", "Groei"]
+tags: ["Vergelijking", "Groei"]
 cluster: "automatisering"
 ---
 ## Het Werkspot-model: wat het je echt kost

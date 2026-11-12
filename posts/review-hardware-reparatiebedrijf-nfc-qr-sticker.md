@@ -5,7 +5,7 @@ date: "2026-07-11"
 excerpt: "Blije klanten maar een stille reviewpagina? Vergelijk NFC-kaart, QR op de balie en sticker op het apparaat, en kies wat past bij jouw reparatiebedrijf."
 image: "/images/blog/review-hardware-reparatiebedrijf-nfc-qr-sticker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "NFC", "QR-code", "Reputatie"]
+tags: ["Reviews", "Reputatie"]
 cluster: "reviews"
 ---
 

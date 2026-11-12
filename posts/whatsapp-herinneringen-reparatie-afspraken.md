@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-herinneringen-reparatie-afspraken.jpg"
-tags: ["WhatsApp", "No-shows", "Reparatie", "Automatisering"]
+tags: ["WhatsApp", "No-shows"]
 ---
 ## Waarom WhatsApp beter werkt dan bellen of mailen
 

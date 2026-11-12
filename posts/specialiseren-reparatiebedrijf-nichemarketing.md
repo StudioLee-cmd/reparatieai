@@ -5,7 +5,7 @@ excerpt: "Leer waarom specialisatie als reparatiebedrijf meer oplevert dan alles
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-reparatiebedrijf-nichemarketing.png"
-tags: ["Specialisatie", "Marketing", "Strategie"]
+tags: ["Marketing", "Strategie"]
 cluster: "branding"
 ---
 ## Waarom specialisatie loont

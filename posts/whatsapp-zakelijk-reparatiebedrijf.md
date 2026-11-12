@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-zakelijk-reparatiebedrijf.jpg"
-tags: ["WhatsApp", "Reparatie", "Communicatie"]
+tags: ["WhatsApp"]
 ---
 ## Iedereen appt — jij ook?
 
