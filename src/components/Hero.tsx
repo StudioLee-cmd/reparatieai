@@ -109,20 +109,16 @@ const Hero: React.FC = () => {
 
                         <RotatingText
                             texts={[
-                                'Meer Reparaties 🔧',
-                                'Alles-in-1 Systeem ✨',
+                                'Klant Weet Wanneer Het Klaar Is 📲',
+                                'Minder Telefoontjes Over de Status 📞',
+                                'Storingsmelding Compleet Binnen 🔧',
+                                'Klaarmelding Gaat Vanzelf ✅',
+                                'Brengmoment Direct in de Agenda 📅',
                                 'Nooit Meer Gemiste Oproepen 📞',
-                                'Snelle Reactie ⚡',
-                                'Ondernemen Zonder Zorgen 🚀',
-                                'Werkplaats in je Broekzak 📱',
                                 'Jouw AI Receptioniste 🤖',
-                                'Administratie op Orde 📂',
-                                'Geen Gedoe Met Facturen 🧾',
-                                'Alle Tools in 1 App 📱',
-                                'Meer Vrijheid, Minder Stress 🧘',
-                                'Klanten & AI in 1 Systeem 🤝',
-                                'Volgeboekte Agenda 📈',
-                                'Snelle Service 🛠️',
+                                'Werkplaats in je Broekzak 📱',
+                                'Review na Elke Reparatie ⭐',
+                                'Meer Reparaties 🔧',
                             ]}
                             mainClassName="px-2 sm:px-3 bg-[#0EA5E9] text-white overflow-hidden py-0.5 sm:py-1 justify-center rounded-lg shadow-md"
                             staggerFrom="last"
