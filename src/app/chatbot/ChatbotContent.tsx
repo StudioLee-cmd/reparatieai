@@ -25,94 +25,102 @@ const brand = siteDetails.siteName;
 
 const features = [
   {
-    icon: BsClockHistory,
-    title: "24/7 beschikbaar",
-    desc: `Jouw chatbot slaapt nooit. Klanten krijgen direct antwoord, ook om 23:00 of op zondag.`,
-  },
-  {
     icon: BsChatDots,
-    title: "Getraind op jouw diensten",
-    desc: `De chatbot kent jouw prijzen, openingstijden en specialisaties — geen generieke antwoorden.`,
+    title: "Storings-intake die doorvraagt",
+    desc: `Welk apparaat, welk merk en type, wat doet het wel of niet, sinds wanneer. De chatbot vraagt door tot er een melding staat waar je op kunt plannen, met een foto van het typeplaatje als de klant die heeft.`,
   },
   {
-    icon: BsWhatsapp,
-    title: "WhatsApp integratie",
-    desc: `Leads en gesprekken worden automatisch doorgestuurd naar jouw WhatsApp, zodat je niets mist.`,
+    icon: BsQuestionCircle,
+    title: "\"Is mijn apparaat al klaar?\"",
+    desc: `De statusvraag over een lopende reparatie krijgt een antwoord zonder dat jij je soldeerbout neerlegt. Houd je je werkorders digitaal bij, dan leest de chatbot de status daar.`,
   },
   {
-    icon: BsPeople,
-    title: "Lead kwalificatie",
-    desc: `De chatbot stelt slimme vragen en filtert serieuze klanten van vrijblijvende vragen.`,
+    icon: BsCheck2Circle,
+    title: "Garantievragen voorbereid",
+    desc: `Datum van de reparatie, het apparaat, het huidige probleem en de bon of het ordernummer staan klaar. Of iets onder garantie valt, beslis jij.`,
   },
   {
     icon: BsCalendar3,
-    title: "Afspraken boeken",
-    desc: `Klanten plannen direct een afspraak via de chatbot — zonder dat jij hoeft te bellen of mailen.`,
+    title: "Brengmoment of monteursbezoek",
+    desc: `De klant kiest meteen wanneer hij de wasmachine, laptop of koffiemachine brengt, of wanneer de monteur langskomt. Het gesprek is in één keer rond.`,
+  },
+  {
+    icon: BsWhatsapp,
+    title: "Overdracht via WhatsApp",
+    desc: `Jij of je monteur krijgt geen chatlog van veertig regels, maar één bericht: apparaat, klacht, foto, contactgegevens en hoe dringend het is.`,
   },
   {
     icon: BsGlobe,
-    title: "Meertalig",
-    desc: `De chatbot spreekt Nederlands, Engels, Duits en meer — perfect voor internationale klanten.`,
+    title: "Ook op zondagavond, ook in het Engels",
+    desc: `Een vaatwasser gaat niet kapot tijdens openingstijden. De chatbot antwoordt 's avonds en in het weekend, in goed Nederlands en in de taal van je klant.`,
   },
 ];
 
 const steps = [
   {
     number: "01",
-    title: "Wij bouwen jouw chatbot",
-    desc: `We trainen de AI op jouw bedrijf: diensten, prijzen, veelgestelde vragen en tone of voice. Jij hoeft niets te doen.`,
+    title: "Wij zetten jouw werkplaats erin",
+    desc: `Welke apparaten je repareert en welke niet, je onderzoekskosten, brengtijden, ophaalregels en garantievoorwaarden. Daarop bouwen wij de vragen van de chatbot.`,
   },
   {
     number: "02",
-    title: "Chatbot gaat live op je website",
-    desc: `We plaatsen de chatbot op jouw website. Binnen een dag is hij actief en vangt hij klanten op.`,
+    title: "De chatbot komt op je website",
+    desc: `Hij staat op je website en vangt de eerste storingsmelding, statusvraag of garantievraag op, ook als de werkplaats dicht is.`,
   },
   {
     number: "03",
-    title: "Jij ontvangt leads via WhatsApp",
-    desc: `Elke lead, afspraak of vraag wordt direct naar jou doorgestuurd. Jij beslist wanneer je reageert.`,
+    title: "Jij krijgt een complete melding",
+    desc: `Elke intake landt als één overzichtelijk bericht in je WhatsApp. Jij kiest welke klus je eerst oppakt.`,
   },
 ];
 
 const painPoints = [
   {
     icon: BsXCircle,
-    title: "Leads kwijt na sluitingstijd",
-    desc: `Klanten bezoeken je website 's avonds, stellen een vraag en horen pas de volgende dag iets. Tegen die tijd hebben ze een concurrent gebeld.`,
+    title: "De telefoon gaat met je handen in een machine",
+    desc: `Je hebt de lagers van een wasmachine eruit liggen en de telefoon gaat voor de derde keer. Niet opnemen voelt als een klant wegsturen, wel opnemen kost je het karwei.`,
   },
   {
     icon: BsClockHistory,
-    title: "Trage reactietijd",
-    desc: `Terwijl jij bezig bent met een klant of klus, lopen nieuwe aanvragen op. Hoe langer je wacht, hoe kleiner de kans dat ze klant worden.`,
+    title: "Statusbellers die je dag opeten",
+    desc: `"Is mijn apparaat al klaar?" is een vraag waar geen monteur voor nodig is, maar die je wel elke dag opnieuw beantwoordt, tussen twee reparaties door.`,
   },
   {
     icon: BsQuestionCircle,
-    title: "Steeds dezelfde vragen beantwoorden",
-    desc: `"Wat kost het?", "Hebben jullie plek?", "Hoe kan ik een afspraak maken?" — dagelijks dezelfde vragen, maar jij hebt er geen tijd voor.`,
+    title: "\"Mijn wasmachine doet raar\"",
+    desc: `Een contactformulier levert meldingen op waar je niets mee kunt. Dus bel je terug om te vragen welk merk, welk type en wat er precies mis is.`,
   },
 ];
 
 const faqs = [
   {
-    q: "Hoe snel is de chatbot actief?",
-    a: "Binnen 1-2 werkdagen. Wij bouwen en trainen de chatbot, plaatsen hem op je website en testen alles voordat hij live gaat.",
+    q: "Wat vraagt de chatbot uit bij een storingsmelding?",
+    a: "Het soort apparaat, merk en type, wat het apparaat doet of juist niet doet, sinds wanneer, wat de klant al heeft geprobeerd en of er een foto van het typeplaatje of het defect is. Welke vragen het precies zijn, stemmen we af op de apparaten die jij repareert.",
   },
   {
-    q: "Moet ik zelf de chatbot trainen of bijhouden?",
-    a: "Nee, dat doen wij. Wij trainen de chatbot op jouw diensten, prijzen en veelgestelde vragen. Als er iets verandert, passen wij het aan — dat zit in de service.",
+    q: "Kan de chatbot vragen over de status van een reparatie beantwoorden?",
+    a: "Ja. Houd je je werkorders bij in een reparatiesysteem of planning die we kunnen koppelen, dan zoekt de chatbot de status daar op: in behandeling, wacht op onderdeel of klaar om op te halen. Zonder koppeling noteert hij de vraag en zet hij hem voor je klaar.",
   },
   {
-    q: "Wat als de chatbot een vraag niet kan beantwoorden?",
-    a: "Dan stuurt hij de vraag direct door naar jou via WhatsApp of e-mail, zodat je zelf kunt reageren. De klant krijgt ondertussen een melding dat je zo snel mogelijk reageert.",
+    q: "Beslist de chatbot over garantie of reparatiekosten?",
+    a: "Nee. Hij verzamelt de gegevens, legt de klant de vervolgstap uit en zet het gesprek klaar voor jou. Jij beslist en jij blijft verantwoordelijk voor wat de chatbot namens jouw reparatiebedrijf zegt en verstuurt.",
   },
   {
-    q: "Werkt de chatbot ook op mobiel?",
-    a: "Ja, de chatbot werkt perfect op telefoon, tablet en desktop. De meeste bezoekers komen via mobiel en de ervaring is daar volledig op geoptimaliseerd.",
+    q: "Hoe snel staat de chatbot op mijn website?",
+    a: "Binnen 1-2 werkdagen staat de chatbot met jouw apparaatsoorten en intakevragen op je website. Een koppeling met je werkorders hangt af van het systeem dat je gebruikt; dat bekijken we samen in het gesprek.",
   },
   {
     q: `Wat kost een AI chatbot bij ${brand}?`,
     a: `Een AI chatbot zit inbegrepen in ons maandelijkse pakket vanaf €79/maand. Geen opstartkosten, geen verborgen kosten. Bekijk onze tarieven voor alle details.`,
   },
+];
+
+const reading = [
+  { href: "/blog/wat-moet-reparatiebedrijf-chatbot-kunnen", title: "Wat moet een reparatiebedrijf-chatbot kunnen? De checklist" },
+  { href: "/blog/whatsapp-chatbot-reparatiebedrijf-avondstoringen", title: "WhatsApp chatbot voor reparatiebedrijven: avondstoringen" },
+  { href: "/blog/chatbot-vs-faq-pagina-reparatiebedrijf-modelvragen", title: "FAQ-pagina of chatbot: welke reparatievraag hoort waar?" },
+  { href: "/blog/live-chat-of-ai-chatbot-reparatiebedrijf", title: "Live chat of AI chatbot voor je reparatiebedrijf?" },
+  { href: "/blog/chatbot-trainen-reparatiebedrijf-data", title: "AI chatbot trainen op je reparatiebedrijf-data: 4 manieren" },
 ];
 
 export default function ChatbotContent() {
@@ -134,9 +142,9 @@ export default function ChatbotContent() {
           <motion.p
             className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8 sl-reveal sl-reveal-1"
           >
-            Een slimme AI chatbot die jouw website bezoekers direct helpt,
-            vragen beantwoordt en afspraken inplant — ook als jij niet
-            beschikbaar bent. Geen gemiste leads meer.
+            De chatbot neemt de storingsmelding op, beantwoordt de vraag of
+            het apparaat al klaar is en plant het brengmoment in, terwijl jij
+            aan de werkbank staat. Jij repareert, wij regelen de rest.
           </motion.p>
           <motion.div
             className="flex flex-col sm:flex-row gap-4 justify-center sl-reveal sl-reveal-2"
@@ -165,7 +173,7 @@ export default function ChatbotContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/chatbot-hero.jpg"
-              alt="AI chatbot voor reparateurs — homeowner stelt vraag via chat"
+              alt="AI chatbot voor reparatiebedrijven neemt een storingsmelding op via de chat"
               fill
               priority
               className="object-cover"
@@ -180,25 +188,26 @@ export default function ChatbotContent() {
       <section className="py-16 px-4">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-6">
-            Wat is een AI chatbot?
+            Wat doet een AI chatbot voor een reparatiebedrijf?
           </h2>
           <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
             <p>
-              Een AI chatbot is een slimme digitale assistent die op jouw
-              website draait en bezoekers direct helpt — dag en nacht. Anders
-              dan een simpel contactformulier voert de chatbot echte gesprekken,
-              beantwoordt vragen over jouw diensten en kan zelfs afspraken
-              inplannen.
+              De meeste chatbots zijn gebouwd voor webshops en kantoren: ze
+              noemen je openingstijden en sturen bij elke moeilijkere vraag een
+              e-mailadres terug. Bij een reparatiebedrijf zijn de vragen anders.
+              Er komt iemand met een koffiemachine die lekt, een trommel die
+              schuurt of een laptop die niet meer oplaadt, en die wil weten of
+              je het kunt maken, wat het ongeveer kost en wanneer hij langs kan
+              komen.
             </p>
             <p>
-              Voor {niche} betekent dit dat potentiele klanten die &apos;s avonds
-              of in het weekend jouw website bezoeken, direct geholpen worden.
-              Geen wachttijd, geen gemiste kansen. De chatbot is getraind op
-              jouw specifieke diensten, prijzen en werkwijze, zodat klanten
-              altijd relevante en accurate informatie krijgen. Elke lead wordt
-              automatisch naar jou doorgestuurd via WhatsApp, zodat je altijd
-              op de hoogte bent — zonder dat je continu achter je laptop hoeft
-              te zitten.
+              Een AI chatbot voor reparatiebedrijven voert dat gesprek zoals jij
+              het aan de balie zou doen. Hij werkt drie stromen af: nieuwe
+              storingen, lopende reparaties en garantie. Bij een nieuwe storing
+              vraagt hij door tot je weet of het een klus is en welke onderdelen
+              je misschien alvast bestelt. Bij een lopende reparatie geeft hij de
+              status. Bij een garantievraag zet hij de feiten op een rij. Wat hij
+              niet zeker weet, legt hij bij jou neer in plaats van te gokken.
             </p>
           </div>
         </div>
@@ -209,7 +218,7 @@ export default function ChatbotContent() {
         <div className="max-w-5xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">Herken je dit?</h2>
           <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
-            De meeste {niche} lopen tegen dezelfde problemen aan. Herkenbaar?
+            Drie momenten waarop een werkplaats klanten en uren verliest.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {painPoints.map((point, idx) => (
@@ -237,7 +246,7 @@ export default function ChatbotContent() {
         <div className="max-w-5xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">Hoe het werkt</h2>
           <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
-            In 3 stappen naar een AI chatbot die dag en nacht klanten opvangt.
+            Van jouw apparaatsoorten en garantieregels naar een chatbot die storingen voor je uitvraagt.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 relative">
             {/* Connecting line */}
@@ -271,14 +280,14 @@ export default function ChatbotContent() {
             <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
               <Image
                 src="/images/services/chatbot-workflow.jpg"
-                alt="Klant chat, reparateur krijgt notificatie"
+                alt="Klant meldt een storing in de chat, het reparatiebedrijf krijgt de complete intake binnen"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 1024px"
               />
             </div>
             <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
-              Een homeowner stelt `'`s avonds een vraag — chatbot vangt op, jij krijgt direct notificatie.
+              Een vaatwasser begeeft het op zondagavond: de chatbot neemt de storing op, jij leest maandagochtend de complete melding.
             </p>
           </motion.div>
 
@@ -289,7 +298,7 @@ export default function ChatbotContent() {
         <div className="max-w-6xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">Wat krijg je?</h2>
           <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
-            Alles wat je nodig hebt om 24/7 klanten op te vangen — inbegrepen in je pakket.
+            Wat de chatbot voor jouw werkplaats doet, inbegrepen in je pakket.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {features.map((feature, idx) => (
@@ -316,24 +325,23 @@ export default function ChatbotContent() {
       <section className="py-16 px-4">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-6">
-            Waarom {niche} kiezen voor een chatbot?
+            Waarom reparatiebedrijven een chatbot inzetten
           </h2>
           <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
             <p>
-              In de {nicheSingular}sbranche draait alles om snelheid en vertrouwen. Een
-              klant die via Google op jouw website landt, verwacht direct
-              antwoord. Niet morgen, niet over een uur — nu. Uit onderzoek
-              blijkt dat 78% van de leads kiest voor het bedrijf dat als
-              eerste reageert. Met een AI chatbot ben jij dat bedrijf, altijd.
+              Wie een kapot apparaat heeft, zoekt meteen een oplossing, vaak
+              &apos;s avonds als de werkplaats dicht is. Krijgt die klant dan direct
+              een concreet antwoord en kan hij meteen een brengmoment kiezen, dan
+              ligt de reparatie de volgende ochtend bij jou op de werkbank in
+              plaats van bij een ander.
             </p>
             <p>
-              Daarnaast bespaar je als ondernemer enorm veel tijd. Geen
-              eindeloze telefoontjes meer met steeds dezelfde vragen over
-              prijzen of beschikbaarheid. De chatbot handelt dat af, terwijl
-              jij bezig bent met waar je goed in bent. En het mooiste? Elke
-              serieuze lead komt netjes bij jou binnen via WhatsApp, inclusief
-              alle relevante informatie. Zo mis je nooit meer een klant en
-              groeit je bedrijf zonder extra personeel in te hoeven huren.
+              Overdag wint de chatbot tijd terug. De vragen die geen monteur
+              nodig hebben, zoals de status van een reparatie, je openingstijden
+              of wat je onderzoek kost, beantwoordt hij zelf. Een nieuwe storing
+              komt binnen als een intake die je in één keer leest, met merk,
+              type en klacht erbij. Zo besteed je je uren aan repareren en niet
+              aan terugbellen om te vragen wat er precies kapot is.
             </p>
           </div>
         </div>
@@ -423,7 +431,7 @@ export default function ChatbotContent() {
             >
               <Image
                 src="/images/services/chatbot-section.jpg"
-                alt="Laptop met chatbot widget voor reparateur website"
+                alt="Laptop met de chatbot op de website van een reparatiebedrijf"
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 50vw"
@@ -435,8 +443,8 @@ export default function ChatbotContent() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <h2 className="text-2xl md:text-3xl font-bold mb-4">Een chatbot die op je vakgebied is afgestemd</h2>
-              <p className="text-foreground-accent leading-relaxed">De chatbot is getraind op typische reparateur-vragen. Hij weet wanneer een aanvraag spoed is en triggert direct een actie — geen leads die `'`s nachts verdampen.</p>
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">Ingericht op witgoed, elektronica en apparaten</h2>
+              <p className="text-foreground-accent leading-relaxed">Een wasmachine die niet afpompt vraagt om andere vragen dan een telefoon met een gebarsten scherm. Wij zetten per apparaatsoort de vragen erin die jij aan de balie zou stellen, en de chatbot herkent wanneer een melding spoed is, zoals een lekkende vaatwasser, zodat jij die als eerste ziet.</p>
             </motion.div>
           </div>
           <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
@@ -457,6 +465,22 @@ export default function ChatbotContent() {
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
           </div>
+        </div>
+      </section>
+
+      {/* Verder lezen: the chatbot cluster of the blog */}
+      <section className="pb-16 px-4">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-center mb-6">Verder lezen over chatbots voor reparatiebedrijven</h2>
+          <ul className="space-y-3">
+            {reading.map((item) => (
+              <li key={item.href}>
+                <Link href={item.href} className="inline-flex items-center gap-2 text-primary font-semibold hover:underline">
+                  <BsArrowRight size={14} /> {item.title}
+                </Link>
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
 
@@ -483,8 +507,8 @@ export default function ChatbotContent() {
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-2xl md:text-3xl font-bold mb-4">Klaar om 24/7 klanten op te vangen?</h2>
           <p className="text-foreground-accent mb-8">
-            Plan een gratis strategiegesprek van 15 minuten. We laten zien hoe een AI chatbot
-            jouw {nicheSingular}sbedrijf kan laten groeien — zonder extra personeel.
+            Plan een gratis gesprek. We laten zien hoe de chatbot een storingsmelding,
+            een statusvraag en een garantievraag voor jouw reparatiebedrijf afhandelt.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
