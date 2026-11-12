@@ -44,8 +44,6 @@ Daardoor draaien beide reeksen naast elkaar zonder dat de klant 2 keer hetzelfde
 
 ## De droger-reeks in één overzicht
 
-![De droger-reeks in één overzicht](/images/blog/cross-sell-email-reparatiebedrijf-droger-onderhoud-2.jpg)
-
 | Mail | Trigger | Wanneer |
 |---|---|---|
 | 1. De vraag | Welkomstreeks klaar | Dag 14 |
@@ -157,6 +155,8 @@ Neem daarbij de reistijd. Vallen 20 van die 30 beurten op een route-dag, dan rij
 Kijk na 3 maanden naar deze cijfers en pas 1 ding tegelijk aan, anders weet je niet wat het verschil maakte.
 
 ## Hetzelfde pad voor andere apparaten
+
+![Hetzelfde pad voor andere apparaten](/images/blog/cross-sell-email-reparatiebedrijf-droger-onderhoud-2.jpg)
 
 Dezelfde vertakking werkt voor andere paren, bijvoorbeeld:
 
