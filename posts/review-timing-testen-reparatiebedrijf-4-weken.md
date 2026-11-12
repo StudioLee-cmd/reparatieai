@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Vraag je te vroeg om een review, dan beoordeelt de klant je balie en niet je reparatie. Zo test je in vier weken welk moment jou de meeste sterren oplevert."
 image: "/images/blog/review-timing-testen-reparatiebedrijf-4-weken.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Klantcommunicatie"]
+tags: ["Reviews", "Meten"]
 cluster: "reviews"
 ---
 

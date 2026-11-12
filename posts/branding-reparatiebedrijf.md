@@ -5,7 +5,7 @@ excerpt: "Een sterk merk als reparatiebedrijf zorgt voor herkenning en vertrouwe
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-reparatiebedrijf.png"
-tags: ["Branding", "Klanten"]
+tags: ["Branding", "Merkopbouw"]
 cluster: "branding"
 ---
 

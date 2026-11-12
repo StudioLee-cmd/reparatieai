@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reactietijd-reparatie-eerste-uur.jpg"
-tags: ["Leads", "Groei", "Voice AI"]
+tags: ["Leads", "Snelheid"]
 ---
 ## De klant kiest wie het snelst reageert
 

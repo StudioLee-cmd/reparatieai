@@ -6,7 +6,7 @@ date: "2026-04-12"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-website-tonen-reparatiebedrijf.jpg"
-tags: ["Reviews", "Website", "Groei"]
+tags: ["Reviews", "Website"]
 ---
 ## Waarom reviews op je website meer doen dan op Google alleen
 

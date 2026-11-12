@@ -5,7 +5,7 @@ excerpt: "Een reparatie is vaak eenmalig contact. Maar met de juiste strategie m
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/terugkerende-klanten-reparatiebedrijf.png"
-tags: ["Klantbehoud", "Klanten"]
+tags: ["Terugkerende Klanten"]
 cluster: "automatisering"
 ---
 ## Het eenmalige-klant-probleem

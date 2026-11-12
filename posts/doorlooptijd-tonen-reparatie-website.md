@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "De helft van je telefoontjes gaat over hoe lang het duurt. Zo zet je die tijd op je site zonder jezelf vast te leggen op een datum die je niet haalt."
 image: "/images/blog/doorlooptijd-tonen-reparatie-website.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Website", "Klantcommunicatie"]
+tags: ["Website", "Verwachtingen"]
 cluster: "website"
 ---
 

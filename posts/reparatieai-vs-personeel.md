@@ -5,7 +5,7 @@ excerpt: "De harde cijfers. Waarom zou je €3000 per maand betalen aan personee
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatieai-vs-personeel.png"
-tags: ["Strategie", "Automatisering"]
+tags: ["Managed Service"]
 cluster: "automatisering"
 ---
 Als je als reparateur groeit, loop je vroeg of laat tegen een muur aan. Je werkplaats ligt vol, je telefoon blijft gaan, en de administratie stapelt zich op. Je kunt het kantoorwerk niet meer alleen af naast je fysieke werk. De logische stap die ondernemers al decennia maken is dan: iemand aannemen voor op kantoor. Een planner, of een administratief medewerker/telefoniste.

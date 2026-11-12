@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als reparatiebedrijf no-shows vermindert met slimme herinn
 date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verminderen-reparatiebedrijf.jpg"
-tags: ["No-shows", "Groei", "Klanten"]
+tags: ["Klantenmanagement"]
 cluster: "automatisering"
 ---
 ## De verborgen kosten van no-shows

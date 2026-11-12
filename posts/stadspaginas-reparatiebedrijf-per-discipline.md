@@ -4,7 +4,7 @@ excerpt: "Repareer je witgoed, elektronica en telefoons in meerdere steden? Zo s
 date: "2026-07-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stadspaginas-reparatiebedrijf-per-discipline.jpg"
-tags: ["Vindbaarheid", "Lokale SEO"]
+tags: ["Lokale SEO", "Website"]
 cluster: "vindbaarheid"
 ---
 

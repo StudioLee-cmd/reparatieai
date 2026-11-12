@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-reparateur-verlies-beperken.jpg"
-tags: ["No-shows", "Planning"]
+tags: ["No-shows", "Planning", "Omzet"]
 ---
 ## Het probleem van de dichte deur
 

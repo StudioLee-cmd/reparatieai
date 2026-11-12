@@ -6,7 +6,7 @@ date: "2026-04-22"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-reparatiebedrijf-herhaalklussen-contactmomenten.jpg"
-tags: ["Klantrelatie"]
+tags: ["Nazorg", "Herhaalklussen"]
 ---
 Een reparatiebedrijf krijgt gemiddeld 60 tot 80 procent van zijn omzet uit nieuwe klanten en slechts 20 tot 40 procent uit herhaalklussen. Dat is precies omgekeerd aan wat een gezond groeiend bedrijf zou moeten doen. De reden is simpel: na een reparatie horen de meeste klanten niks meer van hun monteur, totdat er weer iets kapot gaat, en tegen die tijd zijn ze jou vergeten en zoeken ze opnieuw op Google.
 

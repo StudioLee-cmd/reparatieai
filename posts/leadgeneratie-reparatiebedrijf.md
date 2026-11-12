@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als reparatiebedrijf structureel meer aanvragen genereer
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-reparatiebedrijf.png"
-tags: ["Leads", "Marketing"]
+tags: ["Leads"]
 cluster: "automatisering"
 ---
 

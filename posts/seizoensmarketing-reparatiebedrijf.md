@@ -5,7 +5,7 @@ excerpt: "Reparaties kennen piekmomenten en dalen. Ontdek hoe je met seizoensmar
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoensmarketing-reparatiebedrijf.png"
-tags: ["Planning", "Groei", "Marketing"]
+tags: ["Seizoensmarketing"]
 cluster: "automatisering"
 ---
 

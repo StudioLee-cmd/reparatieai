@@ -4,7 +4,7 @@ excerpt: "Ontdek hoe je als reparatiebedrijf meer klanten wint door sneller en s
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-reparatiebedrijf-meer-klanten.jpg"
-tags: ["Lead opvolging", "Klanten"]
+tags: ["Lead opvolging"]
 cluster: "automatisering"
 ---
 ## De klant die niet wacht

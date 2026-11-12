@@ -5,7 +5,7 @@ date: "2026-06-07"
 excerpt: "Je werkplaats sluit om vijf uur, maar de wasmachine begeeft het om acht uur. Zo vangt een WhatsApp-chatbot die avondstoringen op en zet ze in je agenda."
 image: "/images/blog/whatsapp-chatbot-reparatiebedrijf-avondstoringen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "WhatsApp"]
+tags: ["WhatsApp", "Bereikbaarheid"]
 cluster: "chatbot"
 ---
 Je werkplaats gaat om vijf uur dicht. De wasmachine van een klant begeeft het om acht uur 's avonds, midden in een berg natte was. Die klant gaat niet wachten tot morgen negen uur, die pakt zijn telefoon en zoekt nu iemand. Komt hij bij jou op een dichte deur en een voicemail, dan staat zijn aanvraag binnen twee minuten bij de reparateur die wel reageert.

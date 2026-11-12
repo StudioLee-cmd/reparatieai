@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "Een klant met een kapotte wasmachine spreekt geen voicemail in, die belt de volgende reparateur. Zo houd je die storings-aanvraag zelf binnen."
 image: "/images/blog/voice-ai-vs-voicemail-reparatiebedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "AI"]
+tags: ["Bereikbaarheid", "Voicemail"]
 cluster: "voice-ai"
 ---
 

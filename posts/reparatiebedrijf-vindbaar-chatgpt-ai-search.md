@@ -4,7 +4,7 @@ excerpt: "Zo wordt jouw reparatiebedrijf genoemd door ChatGPT, Perplexity en Goo
 date: "2026-04-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatiebedrijf-vindbaar-chatgpt-ai-search.jpg"
-tags: ["Vindbaarheid", "ChatGPT", "AI"]
+tags: ["AI Search", "ChatGPT"]
 cluster: "vindbaarheid"
 ---
 

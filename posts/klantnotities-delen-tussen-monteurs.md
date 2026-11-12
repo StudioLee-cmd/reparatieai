@@ -5,7 +5,7 @@ date: "2026-07-24"
 excerpt: "Twee monteurs, een klant, twee halve verhalen. Zo leg je klantnotities vast zodat je collega ze volgende week nog kan gebruiken."
 image: "/images/blog/klantnotities-delen-tussen-monteurs.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "CRM"]
+tags: ["CRM", "Samenwerken"]
 cluster: "automatisering"
 ---
 

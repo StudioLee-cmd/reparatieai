@@ -5,7 +5,7 @@ date: "2026-05-18"
 excerpt: "Concrete ROI-rekensom voor AI-automatisering in een reparatiebedrijf: cost-per-line-item, payback in maanden en wanneer het zin heeft."
 image: "/images/blog/kosten-ai-automatisering-reparatiebedrijf-roi.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Tools", "Automatisering", "AI"]
+tags: ["Tools", "ROI", "Kosten"]
 cluster: "automatisering"
 ---
 

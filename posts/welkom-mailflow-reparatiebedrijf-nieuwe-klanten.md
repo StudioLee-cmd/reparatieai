@@ -5,7 +5,7 @@ date: "2026-06-30"
 excerpt: "Veel reparatiebedrijven horen na de reparatie niks meer van de klant. Met deze 4 automatische welkom-mails maak je van een eenmalige klus een vaste klant."
 image: "/images/blog/welkom-mailflow-reparatiebedrijf-nieuwe-klanten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "E-mail"]
+tags: ["E-mail", "Klantbehoud"]
 cluster: "automatisering"
 ---
 

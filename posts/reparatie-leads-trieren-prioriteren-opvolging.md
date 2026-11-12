@@ -5,7 +5,7 @@ date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reparatie-leads-trieren-prioriteren-opvolging.jpg"
-tags: ["Lead opvolging", "Conversie"]
+tags: ["Lead opvolging", "Triage"]
 ---
 Een gemiddeld Nederlands reparatiebedrijf krijgt op een normale dinsdag tussen de 8 en 25 binnenkomende leads — telefoon, WhatsApp, contactformulier, Google Bedrijfsprofiel-bericht, Werkspot, doorverwijzing van een collega. Op een topdrukke maandag na een hagelschade-weekend kunnen dat er 50 zijn. De vraag is niet hoeveel je er krijgt; de vraag is welke je eerst belt, welke je vandaag nog opvolgt, en welke je beter laat liggen of zelfs afwijst. Dat heet **triage**.
 

@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanten-motiveren-review-schrijven-reparatiebedrijf.jpg"
-tags: ["Reviews", "Klanten"]
+tags: ["Reviews"]
 ---
 ## Het probleem is niet onwil, het is vergeten
 

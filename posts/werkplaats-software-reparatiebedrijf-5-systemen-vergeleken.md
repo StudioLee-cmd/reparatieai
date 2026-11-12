@@ -5,7 +5,7 @@ date: "2026-05-17"
 excerpt: "Vijf systemen voor reparatiebeheer vergeleken: Repender, CRRM, Minuba, IT-ERP en een custom koppeling. Welke past bij jouw servicebedrijf?"
 image: "/images/blog/werkplaats-software-reparatiebedrijf-5-systemen-vergeleken.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vergelijking"]
+tags: ["Reparatiebeheer"]
 cluster: "automatisering"
 ---
 

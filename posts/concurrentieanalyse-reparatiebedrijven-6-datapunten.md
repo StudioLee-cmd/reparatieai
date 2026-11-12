@@ -5,7 +5,7 @@ date: "2026-05-03"
 excerpt: "Een concurrentieanalyse helpt reparatiebedrijven het uurtarief en aanbod onderbouwen. Zo verzamel je in 30 min 6 lokale datapunten die positionering scherpen."
 image: "/images/blog/concurrentieanalyse-reparatiebedrijven-6-datapunten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Strategie", "Branding"]
+tags: ["Concurrentieanalyse"]
 cluster: "branding"
 ---
 
