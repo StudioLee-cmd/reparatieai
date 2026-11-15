@@ -4,7 +4,7 @@ export const siteDetails = {
     siteUrl: 'https://www.reparatieai.nl/',
     metadata: {
         title: 'ReparatieAI - AI voor jouw reparatiebedrijf',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. ReparatieAI regelt je agenda, telefoon en administratie volledig automatisch.',
+        description: 'ReparatieAI: wij maken de website voor jouw reparatiebedrijf. Chatbot, telefoon en marketing sluit je erop aan via je pakket.',
     },
     language: 'nl-NL',
     locale: 'nl-NL',
