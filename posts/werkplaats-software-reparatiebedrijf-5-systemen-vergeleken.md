@@ -126,6 +126,6 @@ Bij ReparatieAI helpen we reparatiebedrijven hun systeem op te zetten en er de l
 - Een [voice ai voor reparatiebedrijven](/voice-ai) die opneemt als jij onder een apparaat ligt
 - Boekhouding-koppeling met Moneybird, Exact, Snelstart of e-Boekhouden
 
-[Plan een gratis AI-scan voor reparatiebedrijven](/gratis-scan) of [plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor reparatiebedrijven](/gratis-scan) of [plan een gesprek met Tim](/demo).
 
 **Lees ook:** [Beste software voor reparatiebedrijven 2026: tools vergeleken](/blog/beste-software-voor-reparatiebedrijven-2026) gaat over de platformen en tools waarmee je klanten binnenhaalt. Dit artikel gaat over het systeem waarin je de klus daarna afhandelt. →

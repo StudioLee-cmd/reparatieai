@@ -145,6 +145,6 @@ Bij ReparatieAI helpen we reparatiebedrijven hun werk-fotos systematisch inzette
 - AI-watermark-tool die jouw logo op elke foto plaatst zonder dat je ze hoeft te bewerken
 - Maandelijkse content-rapportage van best-presterende fotos plus aanbevelingen
 
-[Plan een gratis AI-scan voor reparatiebedrijven](/gratis-scan) of bekijk onze [tarieven ReparatieAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor reparatiebedrijven](/gratis-scan) of bekijk onze [tarieven ReparatieAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/naamgeving-reparatiebedrijf-branding" class="text-dark fw-semibold">Naam reparatiebedrijf: hoe kies je een naam die plakt?</a> →</p></div></div></div>
