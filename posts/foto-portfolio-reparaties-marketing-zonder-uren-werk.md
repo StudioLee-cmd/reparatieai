@@ -144,7 +144,6 @@ Bij ReparatieAI helpen we reparatiebedrijven hun werk-fotos systematisch inzette
 - Intake-formulier-template met klant-toestemming voor foto-gebruik standaard ingebouwd
 - AI-watermark-tool die jouw logo op elke foto plaatst zonder dat je ze hoeft te bewerken
 - Maandelijkse content-rapportage van best-presterende fotos plus aanbevelingen
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor reparatiebedrijven](/gratis-scan) of bekijk onze [tarieven ReparatieAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

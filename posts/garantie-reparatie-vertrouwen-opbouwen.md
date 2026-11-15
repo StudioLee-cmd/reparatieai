@@ -74,4 +74,4 @@ Maak duidelijk hoe een klant een beroep doet op de garantie. Moet hij bellen? Ee
 
 De reparateurs die het beste draaien, zijn niet degenen met de laagste prijzen. Het zijn de bedrijven die zekerheid bieden. Garantie is het bewijs dat je vertrouwen hebt in je eigen vakmanschap. En dat vertrouwen is precies wat klanten zoeken.
 
-Wil je weten hoe jouw reparatiebedrijf online sterker kan staan? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw reparatiebedrijf online sterker kan staan? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

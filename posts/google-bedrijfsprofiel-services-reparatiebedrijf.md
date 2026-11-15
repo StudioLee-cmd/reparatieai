@@ -57,7 +57,3 @@ Zet je belangrijkste en meest winstgevende reparaties bovenaan. Klanten scannen 
 Loop je services elk kwartaal even na. Neem je een nieuw type apparaat aan, bijvoorbeeld airfryers of robotstofzuigers, voeg die dienst dan meteen toe in plaats van te wachten tot je profiel achterloopt.
 
 **Lees ook:** [Welke GBP-categorie kies je als reparateur die meerdere apparaten doet?](/blog/gbp-categorie-keuze-multi-discipline-reparatiebedrijf), zodat je eerst de juiste categorie kiest voordat je je services eronder structureert.
-
-## Groei-of-Geld-Terug Garantie
-
-ReparatieAI richt voor reparatiebedrijven het complete Google Bedrijfsprofiel in: elke reparatie-categorie als losse service-entry, beschrijvingen die ranken, plus de review-funnel die er logisch op aansluit. Zo noemen klanten in hun tekst vanzelf het apparaat dat je repareerde. Geen contract, wel een Groei-of-Geld-Terug Garantie, zodat je zeker weet dat de investering rendement oplevert. Wil je weten welke reparaties in jouw regio nog onbenut blijven, vraag dan een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan. We laten zien op welke zoekopdrachten je nu misloopt en geven een concreet plan voor de komende 30 dagen.

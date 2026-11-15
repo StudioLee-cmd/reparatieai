@@ -64,7 +64,7 @@ Naast statusupdates kun je automatiseren:
 
 Statusupdates automatiseren is misschien wel de simpelste verbetering die je in je reparatiebedrijf kunt doorvoeren. Minder telefoon, meer reparaties, en gelukkigere klanten.
 
-Met [ReparatieAI](/) automatiseer je alle klantcommunicatie — van ontvangstbevestiging tot ophaalmelding. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [ReparatieAI](/) automatiseer je alle klantcommunicatie — van ontvangstbevestiging tot ophaalmelding. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel tijd je kunt besparen.
 

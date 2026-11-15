@@ -75,7 +75,7 @@ Goed ingericht niet. Doordat naam, apparaat en segment automatisch worden ingevu
 
 Je behandelt je garantie-klant, je vaste klant en je makelaar nu waarschijnlijk al verschillend in je hoofd. Klantsegmentatie zorgt er alleen voor dat je systeem dat ook doet, automatisch, ook op de dagen dat je werkplaats vol staat. Eén keer je klanten in drie groepen verdelen en de juiste flow eraan koppelen, en je communicatie loopt vanzelf gelijk met hoe je klanten écht zijn.
 
-Benieuwd welke segmenten in jouw bedrijf het meeste opleveren? Bij ReparatieAI zetten we de [automatische opvolging](/automatisering) per segment compleet voor je op, gekoppeld aan het klantsysteem dat je al gebruikt. Doe de [gratis ai scan voor reparatiebedrijven](/gratis-scan) en je ziet precies waar je klantcommunicatie nu blijft hangen. We werken met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast. Jij repareert, wij regelen de rest.
+Benieuwd welke segmenten in jouw bedrijf het meeste opleveren? Bij ReparatieAI zetten we de [automatische opvolging](/automatisering) per segment compleet voor je op, gekoppeld aan het klantsysteem dat je al gebruikt. Doe de [gratis ai scan voor reparatiebedrijven](/gratis-scan) en je ziet precies waar je klantcommunicatie nu blijft hangen. Jij repareert, wij regelen de rest.
 
 <div class="lees-ook" style="margin:2.5rem 0; padding:1rem 1.25rem; border-radius:0.75rem; background-color:rgba(234, 88, 12, 0.10);">
 <strong>Lees ook:</strong> <a href="/blog/statusupdates-reparatiebedrijf-klanten">Automatische statusupdates voor je reparatieklanten: zo houd je het rustig</a> &rarr;
