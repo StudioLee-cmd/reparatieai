@@ -81,7 +81,3 @@ Zo betaal je de menselijke laag alleen voor de momenten die het echt verdienen, 
 Een seizoenspiek hoeft geen verloren klussen meer te betekenen. Door je bereikbaarheid in lagen op te bouwen, met een [ai telefoonbeantwoorder voor reparatiebedrijven](/voice-ai) als altijd-aan basis en een call-center als overflow voor de toppen, vang je elke storingsaanvraag op zonder het hele jaar voor piekcapaciteit te betalen. De AI doet het zware werk en houdt de rekening van het call-center klein, jij houdt je handen vrij voor de reparaties zelf. Zo ben je in de drukste weken juist het best bereikbaar.
 
 **Lees ook:** [Het einde van de telefoon tijdens het sleutelen: 24/7 bereikbaar zonder personeel](/blog/ai-telefoniste-voor-monteurs), waar je leest hoe de Voice AI-basislaag in de praktijk werkt.
-
-## Groei-of-Geld-Terug Garantie
-
-ReparatieAI richt je bereikbaarheid in als één hybride systeem: de Voice AI als 24/7 basis, met de juiste routing naar een call-center en naar jou voor de piek. Zo mis je nooit meer een storingsaanvraag in je drukste weken, zonder dat je het hele jaar voor extra personeel betaalt. Geen contract, wel een Groei-of-Geld-Terug Garantie, zodat je zeker weet dat de investering rendement oplevert. Benieuwd hoeveel klussen je nu misloopt tijdens de piek? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan. We brengen je belverkeer in kaart en geven een concreet plan voor de komende 30 dagen.

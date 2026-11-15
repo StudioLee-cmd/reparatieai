@@ -95,4 +95,4 @@ De vraag "hoe lang duurt het" verdwijnt niet omdat je hem beter beantwoordt aan 
 
 Meet je echte doorlooptijd over dertig klussen. Publiceer drie banden in plaats van één getal. Zeg wanneer de klok begint en wat hem verlengt. En zorg dat er een bericht uitgaat zodra het langer wordt dan je zei.
 
-Bij ReparatieAI zetten we die drie banden op je dienstpagina's, in je intake-bevestiging en in je chat uit dezelfde bron, en koppelen we de vier statusberichten aan je werkbon. Wil je eerst weten wat je site nu wel en niet beantwoordt, dan meet onze [gratis ai scan voor reparatiebedrijven](/gratis-scan) dat voor je door. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Bij ReparatieAI zetten we die drie banden op je dienstpagina's, in je intake-bevestiging en in je chat uit dezelfde bron, en koppelen we de vier statusberichten aan je werkbon. Wil je eerst weten wat je site nu wel en niet beantwoordt, dan meet onze [gratis ai scan voor reparatiebedrijven](/gratis-scan) dat voor je door.

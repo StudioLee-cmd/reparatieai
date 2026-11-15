@@ -125,7 +125,6 @@ Bij ReparatieAI helpen we reparatiebedrijven hun systeem op te zetten en er de l
 - Een [chatbot voor reparatiebedrijven](/chatbot) op je website en WhatsApp, die de intake al invult voordat de klant belt
 - Een [voice ai voor reparatiebedrijven](/voice-ai) die opneemt als jij onder een apparaat ligt
 - Boekhouding-koppeling met Moneybird, Exact, Snelstart of e-Boekhouden
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor reparatiebedrijven](/gratis-scan) of [plan een gesprek met Tim](https://cal.com/studiolee).
 

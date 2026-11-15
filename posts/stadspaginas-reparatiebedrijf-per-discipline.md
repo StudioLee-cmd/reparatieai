@@ -88,7 +88,3 @@ Niet als je ze uniek maakt. Het wordt pas duplicate content wanneer pagina's op 
 Begin met de drie tot vijf combinaties die het meeste zoekvolume én de hoogste marge hebben en waar je al klussen hebt. Zo win je snel zichtbaarheid op de reparaties waar je het meest aan verdient, en breid je pas daarna uit.
 
 **Lees ook:** [Google Bedrijfsprofiel services voor reparatiebedrijven](/blog/google-bedrijfsprofiel-services-reparatiebedrijf), zodat elke discipline ook in je profiel als losse dienst vindbaar wordt.
-
-## Groei-of-Geld-Terug Garantie
-
-ReparatieAI bouwt en vult het raster dat bij jouw bedrijf past: de juiste combinaties van discipline en stad, elk met eigen tekst, lokale reviews en de techniek eronder, zodat je opduikt voor "witgoed-reparatie" én "telefoon-reparatie" in elke plaats waar je werkt, zonder duplicate content. En omdat die pagina's aanvragen opleveren, koppelen we er meteen de opvolging aan, van een [ai telefonist voor reparatiebedrijven](/voice-ai) die de oproepen aanneemt terwijl jij aan het schroeven bent, tot de review-funnel die je pagina's blijft voeden. Geen contract, wel een Groei-of-Geld-Terug Garantie, zodat je zeker weet dat de investering rendement oplevert. Benieuwd welke discipline-stad-combinaties in jouw regio nog onbenut zijn? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan. We laten zien waar je aanvragen misloopt en geven een concreet plan voor de komende 30 dagen.

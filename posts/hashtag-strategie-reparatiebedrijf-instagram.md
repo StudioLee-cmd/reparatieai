@@ -75,6 +75,6 @@ Zo wordt de keten compleet: de juiste tags brengen de juiste lokale kijker, je c
 
 Jij repareert, je zichtbaarheid mag je niet aan het toeval overlaten. Begin klein: stel vandaag drie vaste hashtag-sets samen met je stad, je specialismes en één eigen merk-tag erin. Gebruik ze consequent en kijk na een maand welke tags bereik uit je eigen regio opleveren.
 
-Wil je weten waar je nu lokale zichtbaarheid laat liggen? Vraag een [gratis AI-scan voor reparatiebedrijven](/gratis-scan) aan en we laten precies zien welke stappen jou in jouw stad bovenaan krijgen. We werken met een Groei-of-Geld-Terug Garantie, dus je loopt geen risico. Meer opdrachten uit je eigen buurt, minder losse likes van de andere kant van het land.
+Wil je weten waar je nu lokale zichtbaarheid laat liggen? Vraag een [gratis AI-scan voor reparatiebedrijven](/gratis-scan) aan en we laten precies zien welke stappen jou in jouw stad bovenaan krijgen. Meer opdrachten uit je eigen buurt, minder losse likes van de andere kant van het land.
 
 <p style="background-color: rgba(193, 255, 114, 0.18); border-radius: 8px; padding: 12px 16px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/instagram-contentkalender-reparatiebedrijf">30-dagen Instagram contentkalender voor je reparatiebedrijf</a> &rarr;</p>

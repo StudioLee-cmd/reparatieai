@@ -99,7 +99,7 @@ Ja. Het formulier vervangt het uitvragen, niet het contact. Het verschil: wie be
 
 ## Zelf aan de slag
 
-Je kunt je huidige formulier vandaag al uitbreiden met deze zeven velden. Wil je het in één keer goed, dan bouwen wij bij ReparatieAI een [professionele website voor reparatiebedrijven](/gratis-website) waar dit intake-formulier, de bevestigingsberichten en de statusupdates standaard in zitten, afgestemd op jouw werkwijze. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Je kunt je huidige formulier vandaag al uitbreiden met deze zeven velden. Wil je het in één keer goed, dan bouwen wij bij ReparatieAI een [professionele website voor reparatiebedrijven](/gratis-website) waar dit intake-formulier, de bevestigingsberichten en de statusupdates standaard in zitten, afgestemd op jouw werkwijze.
 
 Eerst weten waar jouw site nu aanvragen laat liggen? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan en je ziet per onderdeel wat er al goed staat en wat er ontbreekt.
 

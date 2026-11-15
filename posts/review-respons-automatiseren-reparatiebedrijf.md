@@ -91,4 +91,4 @@ Ja. Je kunt de achterstand in één sessie wegwerken: het systeem zet voor elke 
 
 Je bent reparateur, geen tekstschrijver. Jij repareert, wij regelen de rest, ook de reacties onder je reviews. Met een slimme concept-en-goedkeuren-flow blijft elke klant gehoord, blijft je Google-profiel verzorgd, en houd jij je handen vrij voor het echte werk. Twijfel je waar je nu staat, vraag dan een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan: daarin zie je precies hoeveel reviews er onbeantwoord staan en wat een snelle inhaalslag oplevert.
 
-Bij ReparatieAI werken we met een Groei-of-Geld-Terug Garantie, dus je probeert het zonder risico. Meer opdrachten, minder gedoe met je reputatie, zonder er zelf avonden aan kwijt te zijn.
+Meer opdrachten, minder gedoe met je reputatie, zonder er zelf avonden aan kwijt te zijn.

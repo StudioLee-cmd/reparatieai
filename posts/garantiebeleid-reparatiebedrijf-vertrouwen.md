@@ -117,7 +117,7 @@ Dit is extra omzet met minimaal risico (de meeste problemen manifesteren zich bi
 
 Een helder garantiebeleid is geen kostenpost — het is een investering in vertrouwen. Het verlaagt de drempel voor nieuwe klanten, vermindert discussies en positioneert je als een professioneel reparatiebedrijf dat achter zijn werk staat.
 
-Met [ReparatieAI](/) automatiseren we je klantcommunicatie en opvolgingsberichten. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [ReparatieAI](/) automatiseren we je klantcommunicatie en opvolgingsberichten. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer vertrouwen opbouwt bij je klanten.
 

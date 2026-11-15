@@ -97,7 +97,7 @@ De drie operationele veranderingen om actieve garantiecommunicatie in je bedrijf
 - **Print fysieke garantiebonnen:** A6 formaat met datum, reparatieomschrijving, garantieperiode. Of een digitale variant via WhatsApp.
 - **Automatiseer de 7-dagen opvolging:** een [klantcommunicatie-systeem](https://www.reparatieai.nl/voice-ai) stuurt 7 dagen na elke reparatie automatisch een check-in bericht via WhatsApp.
 
-Voor [een complete reparateurs-stack inclusief geautomatiseerde klantcommunicatie](https://www.reparatieai.nl/gratis-website) en garantiecommunicatie, zie de pagina hierboven. De Groei-of-Geld-Terug Garantie zorgt dat je geen risico loopt.
+Voor [een complete reparateurs-stack inclusief geautomatiseerde klantcommunicatie](https://www.reparatieai.nl/gratis-website) en garantiecommunicatie, zie de pagina hierboven.
 
 ## Wat het kost
 

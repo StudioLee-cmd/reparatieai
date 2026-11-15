@@ -51,7 +51,7 @@ Dat scheelt jou twee dingen. Klanten met een probleem dat ze zelf kunnen verhelp
 
 Doe het in de volgorde hierboven. Start met de FAQ-import, want die geeft binnen een dag resultaat en kost je alleen een uurtje je vragen op een rij zetten. Voeg daarna de garantie-lookup toe zodra je klantdata op orde is, dan de voorraad-feed, en tot slot de handleidingen. Elke laag maakt de bot een stuk zelfstandiger.
 
-Houd de data actueel. Een chatbot die met oude prijzen of een verlopen voorraadlijst werkt, doet meer kwaad dan goed. Koppel de bronnen daarom waar het kan aan systemen die je toch al bijwerkt, zodat de bot automatisch meebeweegt in plaats van dat je hem los moet onderhouden. Wil je weten welke van je huidige gegevens al klaar zijn om een chatbot mee te voeden? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan, dan kijken we samen waar je snelste winst zit. Werkt het niet zoals beloofd, dan geldt de Groei-of-Geld-Terug Garantie.
+Houd de data actueel. Een chatbot die met oude prijzen of een verlopen voorraadlijst werkt, doet meer kwaad dan goed. Koppel de bronnen daarom waar het kan aan systemen die je toch al bijwerkt, zodat de bot automatisch meebeweegt in plaats van dat je hem los moet onderhouden. Wil je weten welke van je huidige gegevens al klaar zijn om een chatbot mee te voeden? Vraag een [gratis ai scan voor reparatiebedrijven](/gratis-scan) aan, dan kijken we samen waar je snelste winst zit.
 
 Jij repareert, wij regelen de rest. Een [chatbot voor reparatiebedrijven](/chatbot) die jouw data kent, is geen speeltje maar een collega die de simpele vragen wegvangt zodat jij aan het werk kunt blijven.
 
