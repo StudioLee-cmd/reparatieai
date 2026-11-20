@@ -61,7 +61,7 @@ Variant voor minder publieke types: "repaircafé-bezoek" als technische onderste
 ### Tactiek 4: Partnerships met 3 buurtondernemers
 
 Niet alle samenwerkingen vragen geld of contracten. Drie types werken altijd voor reparatiebedrijven:
-- **De buurtsuper of bakker:** een A5-bordje bij de toonbank met "Apparaat kapot? Vraag eerst [naam reparateur] – vaak goedkoper dan vervanging" plus QR-code naar je WhatsApp.
+- **De buurtsuper of bakker:** een A5-bordje bij de toonbank met "Apparaat kapot? Vraag eerst [naam reparateur], vaak goedkoper dan vervanging" plus QR-code naar je WhatsApp.
 - **De makelaar:** woningen-bezitter-overdracht vraagt vaak nog even apparaat-checks; spreek af dat de makelaar jouw nummer doorgeeft bij vragen, in ruil noem jij hen in de evaluatie-mail na een klus.
 - **De installateur of klusbedrijf:** zij doen geen reparaties maar wel installaties; jij doet geen installaties maar wel reparaties. Cross-doorverwijzen kost niets en levert beide 1-3 klussen per maand op.
 

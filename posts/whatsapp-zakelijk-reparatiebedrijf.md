@@ -8,7 +8,7 @@ authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-zakelijk-reparatiebedrijf.jpg"
 tags: ["WhatsApp"]
 ---
-## Iedereen appt — jij ook?
+## Iedereen appt. Jij ook?
 
 95% van de Nederlanders gebruikt WhatsApp dagelijks. Je klanten sturen liever een appje dan dat ze bellen. Toch gebruiken veel reparatiebedrijven WhatsApp nog steeds alsof het 2015 is: één telefoon, persoonlijke chats, geen structuur.
 
@@ -19,10 +19,10 @@ Tijd om dat professioneel aan te pakken.
 Gebruik WhatsApp Business (gratis) in plaats van je privé-WhatsApp. De voordelen:
 
 - **Bedrijfsprofiel** met adres, openingstijden en website
-- **Snelle antwoorden** — sla veelgebruikte berichten op
-- **Labels** — markeer gesprekken als "offerte verstuurd", "wacht op onderdeel", "afgerond"
-- **Automatische begroeting** — nieuwe klanten krijgen direct een welkomstbericht
-- **Afwezigheidsbericht** — buiten werktijd automatisch antwoorden
+- **Snelle antwoorden**: sla veelgebruikte berichten op
+- **Labels**: markeer gesprekken als "offerte verstuurd", "wacht op onderdeel", "afgerond"
+- **Automatische begroeting**: nieuwe klanten krijgen direct een welkomstbericht
+- **Afwezigheidsbericht**: buiten werktijd automatisch antwoorden
 
 ![WhatsApp Business voor reparatiebedrijf](/images/blog/whatsapp-zakelijk-reparatiebedrijf-2.jpg)
 
@@ -63,9 +63,9 @@ Het handmatig versturen van al deze berichten kost je uren per dag. Met automati
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als reparatiebedrijf.
 
-Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [AI chatbot](/chatbot) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [AI chatbot](/chatbot) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-herinneringen-reparatie-afspraken" class="text-dark fw-semibold">WhatsApp-herinneringen voor reparatie-afspraken</a> →</p></div></div></div>
 

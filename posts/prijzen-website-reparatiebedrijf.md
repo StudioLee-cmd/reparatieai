@@ -39,14 +39,14 @@ Voor veelvoorkomende reparaties kun je een vast bedrag hanteren. Dit geeft maxim
 
 ## De voordelen
 
-- **Gekwalificeerde leads** — wie belt, weet wat het kost
-- **Meer vertrouwen** — transparantie schept vertrouwen
-- **Beter gevonden worden** — prijsgerelateerde zoekopdrachten zijn populair
-- **Minder tijdverspilling** — geen offertes voor klanten die het budget niet hebben
+- **Gekwalificeerde leads**: wie belt, weet wat het kost
+- **Meer vertrouwen**: transparantie schept vertrouwen
+- **Beter gevonden worden**: prijsgerelateerde zoekopdrachten zijn populair
+- **Minder tijdverspilling**: geen offertes voor klanten die het budget niet hebben
 
-## De nadelen — en hoe je ze oplost
+## De nadelen en hoe je ze oplost
 
-"Elke reparatie is anders" — gebruik daarom richtprijzen, geen vaste bedragen. "Concurrenten zien mijn prijzen" — zij weten al wat je vraagt; klanten niet.
+"Elke reparatie is anders": gebruik daarom richtprijzen, geen vaste bedragen. "Concurrenten zien mijn prijzen": zij weten al wat je vraagt; klanten niet.
 
 Combineer prijsinformatie met [sterke reviews](/blog/meer-google-reviews-reparatiebedrijf) en een duidelijk [offerte-proces](/blog/offertes-reparatiebedrijf-meer-klussen). Als klanten zien dat je eerlijk bent over kosten en dat anderen tevreden zijn, kiezen ze voor jou.
 
@@ -64,7 +64,7 @@ Begin klein. Je hoeft niet alle prijzen in een keer te tonen. Start met de 5 mee
 
 ## Prijzen en SEO
 
-Prijsgerelateerde zoekopdrachten hebben hoge zoekvolumes. "Wasmachine reparatie kosten", "lekkende kraan repareren prijs" — klanten googelen dit dagelijks. Door deze informatie op je website te tonen, word je beter gevonden en trek je precies de juiste bezoekers aan.
+Prijsgerelateerde zoekopdrachten hebben hoge zoekvolumes. "Wasmachine reparatie kosten", "lekkende kraan repareren prijs": klanten googelen dit dagelijks. Door deze informatie op je website te tonen, word je beter gevonden en trek je precies de juiste bezoekers aan.
 
 Elke richtprijs op je website is ook een antwoord op een zoekopdracht. Hoe meer specifieke prijsinformatie je biedt, hoe vaker je verschijnt in de zoekresultaten.
 

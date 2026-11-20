@@ -7,9 +7,9 @@ image: "/images/blog/hoe-reparatiebedrijven-meer-aanvragen-krijgen-via-google.pn
 tags: ["Google", "Aanvragen"]
 cluster: "vindbaarheid"
 ---
-## Reparatiebedrijven draaien op urgentie — en Google levert die klanten
+## Reparatiebedrijven draaien op urgentie, en Google levert die klanten
 
-Een wasmachine die kapot gaat, een vaatwasser die lekt, een apparaat dat niet meer werkt — dat wil iemand meteen opgelost hebben. Ze googlen "wasmachine reparatie [stad]" of "witgoed reparateur in de buurt" en bellen het eerste resultaat dat betrouwbaar oogt.
+Een wasmachine die kapot gaat, een vaatwasser die lekt, een apparaat dat niet meer werkt: dat wil iemand meteen opgelost hebben. Ze googlen "wasmachine reparatie [stad]" of "witgoed reparateur in de buurt" en bellen het eerste resultaat dat betrouwbaar oogt.
 
 Reparatiebedrijven hebben een streepje voor ten opzichte van veel andere vakgebieden: de aanvraag is urgent, de klant is gemotiveerd, en de keuze valt snel. Wie op het juiste moment zichtbaar is, krijgt de klus. Wie dat niet is, bestaat niet voor die klant.
 
@@ -17,14 +17,14 @@ Reparatiebedrijven hebben een streepje voor ten opzichte van veel andere vakgebi
 
 ## Stap 1: Wees zichtbaar bij urgente zoekopdrachten
 
-Mensen zoeken bij reparaties niet lang — ze willen snel een nummer. Google Maps-resultaten zijn daarin bepalend.
+Mensen zoeken bij reparaties niet lang. Ze willen snel een nummer. Google Maps-resultaten zijn daarin bepalend.
 
 **Optimaliseer je Google Bedrijfsprofiel:**
 - Categorieën: "Reparatiebedrijf", "Witgoed reparatie", "Apparatenreparateur"
-- Diensten: wasmachine, vaatwasser, droger, oven, koelkast, magnetron — alles wat je repareert
+- Diensten: wasmachine, vaatwasser, droger, oven, koelkast, magnetron (alles wat je repareert)
 - Werkgebied: jouw stad én alle omliggende gemeenten
 - Foto's: gerepareerde apparaten, je werkplek, gereedschap
-- Spoednummer en openingstijden — inclusief of je ook avonden/weekenden doet
+- Spoednummer en openingstijden, inclusief of je ook avonden/weekenden doet
 
 ---
 
@@ -67,7 +67,7 @@ Elke pagina rankt op zijn eigen zoekwoord. Meer pagina's = meer kansen om gevond
 
 Schrijf korte artikelen die mensen geruststellen en tegelijk jouw expertise laten zien:
 
-- "Wasmachine repareert of nieuw kopen — wanneer loont het?"
+- "Wasmachine repareert of nieuw kopen: wanneer loont het?"
 - "Wat kost het om een vaatwasser te laten repareren?"
 - "Hoe weet je of je koelkast aan het einde van zijn levensduur is?"
 
@@ -77,7 +77,7 @@ Wie jouw artikel leest en merkt dat jij weet waar je over praat, belt jou als hi
 
 ## Stap 6: Gebruik vertrouwenssignalen op je website
 
-Reparatiebedrijven worden ingehuurd op vertrouwen — iemand laat je toe in zijn huis en bij zijn apparaten. Zorg dat je website dat vertrouwen uitstraalt:
+Reparatiebedrijven worden ingehuurd op vertrouwen: iemand laat je toe in zijn huis en bij zijn apparaten. Zorg dat je website dat vertrouwen uitstraalt:
 
 - Laat zien hoeveel reparaties je al hebt gedaan
 - Toon Google-reviews prominent op de homepage

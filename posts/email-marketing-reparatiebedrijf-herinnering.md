@@ -13,7 +13,7 @@ cluster: "automatisering"
 
 ## Waarom email marketing werkt voor reparatiebedrijven
 
-Een reparatie is voor de klant een probleem dat opgelost moet worden. Zodra het apparaat weer werkt, denken ze niet meer aan jouw bedrijf — tot het volgende probleem. En dan googelen ze opnieuw, vergelijken ze opnieuw en kiezen ze misschien iemand anders.
+Een reparatie is voor de klant een probleem dat opgelost moet worden. Zodra het apparaat weer werkt, denken ze niet meer aan jouw bedrijf, tot het volgende probleem. En dan googelen ze opnieuw, vergelijken ze opnieuw en kiezen ze misschien iemand anders.
 
 Email marketing doorbreekt dat patroon. Met een simpele herinnering op het juiste moment, zorg je dat klanten aan jou denken wanneer ze je nodig hebben. Niet aan je concurrent.
 
@@ -21,7 +21,7 @@ Het is ook de meest kosteneffectieve marketingstrategie die er is. Een email naa
 
 ## Je mailinglijst slim opbouwen
 
-Begin met wat je al hebt. Elke klant die ooit een reparatie heeft laten uitvoeren, heeft een emailadres achtergelaten — op de factuur, in je [CRM](/blog/statusupdates-reparatiebedrijf-klanten) of in je inbox.
+Begin met wat je al hebt. Elke klant die ooit een reparatie heeft laten uitvoeren, heeft een emailadres achtergelaten: op de factuur, in je [CRM](/blog/statusupdates-reparatiebedrijf-klanten) of in je inbox.
 
 **Verzamel de afgelopen drie jaar**. Ga systematisch door je administratie en maak een lijst. Dat is je basis.
 
@@ -33,7 +33,7 @@ Begin met wat je al hebt. Elke klant die ooit een reparatie heeft laten uitvoere
 
 De kern van email marketing voor reparatiebedrijven zijn herinneringsmails. Drie types werken uitstekend:
 
-**Onderhoudsherinneringen**. "Het is een jaar geleden dat we je wasmachine hebben gerepareerd. Een kort onderhoud voorkomt de volgende storing — wil je een afspraak maken?" Dit is de krachtigste email die je kunt sturen. Relevant, tijdig en direct gekoppeld aan een actie.
+**Onderhoudsherinneringen**. "Het is een jaar geleden dat we je wasmachine hebben gerepareerd. Een kort onderhoud voorkomt de volgende storing. Wil je een afspraak maken?" Dit is de krachtigste email die je kunt sturen. Relevant, tijdig en direct gekoppeld aan een actie.
 
 **Garantieherinneringen**. "De garantie op je reparatie loopt over twee maanden af. Alles nog naar tevredenheid? Zo niet, dan repareren we het kosteloos." Dit laat zien dat je achter je werk staat en activeert klanten die misschien een klein probleem hebben maar er nog niets mee hebben gedaan.
 
@@ -43,10 +43,10 @@ De kern van email marketing voor reparatiebedrijven zijn herinneringsmails. Drie
 
 Reparatiebedrijven hebben seizoenspatronen. Gebruik die in je email marketing:
 
-- **Januari**: "Nieuwjaarscheck — laat je witgoed controleren voor een zorgeloos jaar"
-- **Maart/april**: "Lentecheck voor je airconditioning — voorkom problemen tijdens de warmte"
+- **Januari**: "Nieuwjaarscheck: laat je witgoed controleren voor een zorgeloos jaar"
+- **Maart/april**: "Lentecheck voor je airconditioning: voorkom problemen tijdens de warmte"
 - **September**: "Is je cv-ketel klaar voor de winter? Boek nu je onderhoudsbeurt"
-- **November**: "Feestdagen komen eraan — zorg dat je oven en vaatwasser in topconditie zijn"
+- **November**: "Feestdagen komen eraan: zorg dat je oven en vaatwasser in topconditie zijn"
 
 Elke seizoensmail sluit aan bij een natuurlijk moment waarop klanten nadenken over hun apparaten.
 
@@ -60,7 +60,7 @@ De kracht zit in automatisering. Stel eenmalig in:
 - **12 maanden na reparatie**: onderhoudsherinnering
 - **Einde garantieperiode**: garantieherinnering
 
-Dit alles draait automatisch via een gratis tool als Mailchimp of MailerLite. Je configureert het een keer en vergeet het — behalve wanneer de afspraken binnenstromen.
+Dit alles draait automatisch via een gratis tool als Mailchimp of MailerLite. Je configureert het een keer en vergeet het, behalve wanneer de afspraken binnenstromen.
 
 **Houd je mails kort**. Drie alinea's, een duidelijke afbeelding en een call-to-action (bel ons, mail ons of plan online). Niemand leest een lange mail van een reparatiebedrijf.
 
@@ -75,6 +75,6 @@ Dit alles draait automatisch via een gratis tool als Mailchimp of MailerLite. Je
 
 Begin vandaag. Verzamel je klantenlijst, kies een gratis email-tool en stuur je eerste mail: een korte onderhoudstip die relevant is voor het seizoen.
 
-Over drie maanden heb je je eerste herhaalopdrachten via email. Over een jaar heb je een systeem dat automatisch klanten terugbrengt — zonder dat je er dagelijks aan hoeft te denken.
+Over drie maanden heb je je eerste herhaalopdrachten via email. Over een jaar heb je een systeem dat automatisch klanten terugbrengt, zonder dat je er dagelijks aan hoeft te denken.
 
 Wil je als reparatiebedrijf online beter gevonden worden? [Vraag een gratis scan aan](/gratis-scan) en ontdek wat er beter kan.

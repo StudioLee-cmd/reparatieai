@@ -34,7 +34,7 @@ Alles drie wordt opgelost door een basis-CRM waarin elke klus wordt vastgelegd. 
 
 Begin simpel. Een goed klant-dossier heeft deze velden, niet meer:
 
-- **Naam + adres + telefoon + e-mail** — basis.
+- **Naam + adres + telefoon + e-mail**: basis.
 - **Type apparaat** (wasmachine merk X, CV-ketel merk Y, Senseo-koffiezetter, enz.).
 - **Datum klus** + **korte beschrijving wat je hebt gedaan**.
 - **Onderdelen gebruikt** + kosten.

@@ -10,7 +10,7 @@ cluster: "automatisering"
 
 Een gemiddeld Nederlands reparatiebedrijf voor huishoudelijke apparaten, elektronica of kleine motoren voert elke werkdag tussen de 15 en 30 pre-intake-gesprekken. Een potentiële klant belt of vult een formulier in met een vage omschrijving ("mijn wasmachine maakt rare geluiden" of "de koelkast koelt niet meer"), en voordat er überhaupt een reparatie-afspraak geboekt kan worden moet er een diagnose-achtig gesprek plaatsvinden. Wat is het precies? Welk merk, welk type, hoe oud? Wat zijn de symptomen? Kun je een foto sturen? Wat verwacht je qua kosten?
 
-Deze gesprekken duren gemiddeld 6 tot 12 minuten. Samen kost dit je receptieteam 2 tot 5 uur per werkdag. En het is de minst omzetgevende tijdsbesteding in je bedrijf, want slechts 40 tot 55 procent van deze pre-intakes eindigt in een werkelijke reparatie-opdracht. De rest haakt af na het gesprek — vaak omdat ze elders belden en daar sneller een afspraak of antwoord kregen.
+Deze gesprekken duren gemiddeld 6 tot 12 minuten. Samen kost dit je receptieteam 2 tot 5 uur per werkdag. En het is de minst omzetgevende tijdsbesteding in je bedrijf, want slechts 40 tot 55 procent van deze pre-intakes eindigt in een werkelijke reparatie-opdracht. De rest haakt af na het gesprek, vaak omdat ze elders belden en daar sneller een afspraak of antwoord kregen.
 
 Dit artikel legt uit hoe je die pre-intake structureel naar een gestructureerd digitaal kanaal verschuift, waarom foto-upload de belangrijkste innovatie is, en wat het concreet oplevert aan tijdwinst en conversie.
 
@@ -47,7 +47,7 @@ Dit betekent:
 - Je herkent direct of het überhaupt te repareren is of dat vervanging zinniger is
 - Je weet of je thuis moet komen of dat de klant het apparaat kan brengen
 
-Een foto-integrated intake-flow — of het nu via een chatbot of een specifiek formulier is — levert typisch 30 procent extra conversie op omdat klanten het gevoel hebben dat ze serieus worden genomen en dat er aandacht is voor hun specifieke situatie.
+Een foto-integrated intake-flow (of het nu via een chatbot of een specifiek formulier is) levert typisch 30 procent extra conversie op omdat klanten het gevoel hebben dat ze serieus worden genomen en dat er aandacht is voor hun specifieke situatie.
 
 ## Wat je NIET in de chatbot moet stoppen
 

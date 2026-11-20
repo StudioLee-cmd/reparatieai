@@ -27,7 +27,7 @@ Een werkende stadspagina voor reparatiebedrijven heeft een aantal vaste bouwsten
 
 ### Title + H1 formule
 
-De title-tag is "[Apparaat] reparatie [Stad] | [Bedrijfsnaam]". De H1 op de pagina is "[Apparaat] reparatie in [Stad] door erkende monteur" of een variant. Beide bevatten exact de zoekopdracht waarop je wilt ranken. Geen creatieve titels die "leuk klinken" — de zoeker matcht op exacte termen.
+De title-tag is "[Apparaat] reparatie [Stad] | [Bedrijfsnaam]". De H1 op de pagina is "[Apparaat] reparatie in [Stad] door erkende monteur" of een variant. Beide bevatten exact de zoekopdracht waarop je wilt ranken. Geen creatieve titels die "leuk klinken", want de zoeker matcht op exacte termen.
 
 ### Unieke content-blokken per stad
 
@@ -89,7 +89,7 @@ Stuk voor stuk te voorkomen met een goed opgezette template en een geleidelijke 
 
 - AI-assisted content waarbij je zelf de structuur en de lokale input geeft, en AI de tekstuele invulling doet. Bespaart 70 procent van de schrijftijd, maar je moet daarna nog wel kwaliteitscontrole doen.
 - Een eenmalige bouwopdracht uitbesteden voor een vast bedrag. Investering 2.500 tot 5.000 euro, daarna onderhoud je zelf.
-- Een managed service waarbij wij doorlopend stadspagina's bijbouwen, reviews verzamelen, en je vindbaarheid maandelijks rapporteren. Bekijk onze [tarieven](/tarieven) als je wilt zien wat dit kost — voor de meeste reparatiebedrijven is dit binnen drie maanden terugverdiend op extra geboekte klussen.
+- Een managed service waarbij wij doorlopend stadspagina's bijbouwen, reviews verzamelen, en je vindbaarheid maandelijks rapporteren. Bekijk onze [tarieven](/tarieven) als je wilt zien wat dit kost. Voor de meeste reparatiebedrijven is dit binnen drie maanden terugverdiend op extra geboekte klussen.
 
 Welke route je ook kiest, de volgorde is dezelfde: thuisstad eerst, dan 3 tot 5 omliggende, dan langzaam uitbreiden. Niet 40 in een keer.
 

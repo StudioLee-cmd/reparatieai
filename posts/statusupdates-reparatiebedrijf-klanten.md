@@ -16,7 +16,7 @@ Dat is 5 uur per week. 20 uur per maand. Uren die je had kunnen besteden aan daa
 
 ## Waarom klanten bellen (en hoe je dat voorkomt)
 
-Klanten bellen niet om je te storen — ze bellen omdat ze niet weten waar ze aan toe zijn. De oplossing is simpel: geef ze de informatie voordat ze ernaar hoeven vragen.
+Klanten bellen niet om je te storen. Ze bellen omdat ze niet weten waar ze aan toe zijn. De oplossing is simpel: geef ze de informatie voordat ze ernaar hoeven vragen.
 
 Automatische statusupdates werken precies zo:
 
@@ -32,14 +32,14 @@ Vier berichten. Nul telefoontjes.
 ## De voordelen zijn direct merkbaar
 
 ### Voor jou als reparateur
-- **Minder onderbrekingen** — focus op je werk
-- **Meer reparaties per dag** — minder telefoon, meer productiviteit
-- **Professionelere uitstraling** — klanten zijn onder de indruk
+- **Minder onderbrekingen**: focus op je werk
+- **Meer reparaties per dag**: minder telefoon, meer productiviteit
+- **Professionelere uitstraling**: klanten zijn onder de indruk
 
 ### Voor je klanten
-- **Altijd op de hoogte** — geen onzekerheid meer
-- **Geen wachttijden aan de telefoon** — informatie komt naar hen toe
-- **Snellere akkoorden** — via SMS reageren is makkelijker dan bellen
+- **Altijd op de hoogte**: geen onzekerheid meer
+- **Geen wachttijden aan de telefoon**: informatie komt naar hen toe
+- **Snellere akkoorden**: via SMS reageren is makkelijker dan bellen
 
 ## Wat kost het om dit niet te doen?
 
@@ -48,15 +48,15 @@ Reken mee:
 - 40 minuten = 1 extra reparatie die je had kunnen doen
 - 1 reparatie × €75 gemiddelde opbrengst × 22 werkdagen = **€1.650 per maand**
 
-Automatische statusupdates kosten een fractie daarvan — en verdienen zichzelf terug in de eerste week.
+Automatische statusupdates kosten een fractie daarvan en verdienen zichzelf terug in de eerste week.
 
 ## Extra mogelijkheden
 
 Naast statusupdates kun je automatiseren:
-- **Ophaalherinneringen** — voor apparaten die al weken klaarstaan
-- **Garantie-meldingen** — "Uw reparatie van [datum] valt nog onder garantie tot [datum]"
-- **Reviewverzoeken** — automatisch na ophalen: "Hoe was uw ervaring?"
-- **Seizoenstips** — "Laat uw CV-ketel nakijken voor de winter"
+- **Ophaalherinneringen**: voor apparaten die al weken klaarstaan
+- **Garantie-meldingen**: "Uw reparatie van [datum] valt nog onder garantie tot [datum]"
+- **Reviewverzoeken**: automatisch na ophalen, met "Hoe was uw ervaring?"
+- **Seizoenstips**: "Laat uw CV-ketel nakijken voor de winter"
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-reparatiebedrijf-voorkomen" class="text-dark fw-semibold">No-shows voorkomen bij reparaties: klant op tijd herinneren</a> →</p></div></div></div>
 
@@ -64,7 +64,7 @@ Naast statusupdates kun je automatiseren:
 
 Statusupdates automatiseren is misschien wel de simpelste verbetering die je in je reparatiebedrijf kunt doorvoeren. Minder telefoon, meer reparaties, en gelukkigere klanten.
 
-Met [ReparatieAI](/) automatiseer je alle klantcommunicatie — van ontvangstbevestiging tot ophaalmelding. Onze managed service kost slechts 15 minuten van je tijd per maand.
+Met [ReparatieAI](/) automatiseer je alle klantcommunicatie, van ontvangstbevestiging tot ophaalmelding. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel tijd je kunt besparen.
 
