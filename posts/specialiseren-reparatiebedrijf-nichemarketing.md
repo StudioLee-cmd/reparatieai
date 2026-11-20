@@ -33,15 +33,15 @@ Populaire niches voor reparatiebedrijven:
 - Kleine elektronica (laptops, gameconsoles)
 - Huishoudelijke apparaten
 
-Je hoeft je niet tot één categorie te beperken. Twee of drie gerelateerde specialisaties werken ook — zolang ze een logisch geheel vormen.
+Je hoeft je niet tot één categorie te beperken. Twee of drie gerelateerde specialisaties werken ook, zolang ze een logisch geheel vormen.
 
 ## Je expertise uitdragen online
 
 Specialisatie werkt alleen als je het zichtbaar maakt:
 
-- **Website**: richt je homepage en titels in op je specialisatie. Niet "Reparatiebedrijf Jansen" maar "Witgoedreparatie Jansen — specialist in wasmachines en vaatwassers"
-- **Google Bedrijfsprofiel**: vermeld je specialisatie in de beschrijving en diensten — optimaliseer het zoals beschreven in onze [complete gids](/blog/google-bedrijfsprofiel-reparatiebedrijf)
-- **Social media**: deel content die je expertise bewijst — reparatietips, voorbeelden van complexe klussen
+- **Website**: richt je homepage en titels in op je specialisatie. Niet "Reparatiebedrijf Jansen" maar "Witgoedreparatie Jansen, specialist in wasmachines en vaatwassers"
+- **Google Bedrijfsprofiel**: vermeld je specialisatie in de beschrijving en diensten, en optimaliseer het zoals beschreven in onze [complete gids](/blog/google-bedrijfsprofiel-reparatiebedrijf)
+- **Social media**: deel content die je expertise bewijst, zoals reparatietips en voorbeelden van complexe klussen
 
 Klanten die zoeken op "wasmachine reparatie [plaatsnaam]" vinden jou sneller dan een generalist. Dat is de kracht van nichepositionering.
 
@@ -49,19 +49,19 @@ Klanten die zoeken op "wasmachine reparatie [plaatsnaam]" vinden jou sneller dan
 
 Content marketing is bijzonder effectief voor gespecialiseerde reparatiebedrijven. Schrijf artikelen en tips over je niche:
 
-- **Veelgestelde vragen**: "Wasmachine centrifugeert niet meer — wat nu?"
+- **Veelgestelde vragen**: "Wasmachine centrifugeert niet meer. Wat nu?"
 - **Onderhouds tips**: "Zo verleng je de levensduur van je vaatwasser"
 - **Vergelijkingen**: "Repareren of vervangen: wanneer loont welke keuze?"
 
-Deze content trekt precies de juiste bezoekers naar je website — mensen met een probleem dat jij kunt oplossen. Combineer het met een goede [social media strategie](/blog/social-media-reparatiebedrijven-online) en je bouwt een stabiele stroom van leads op.
+Deze content trekt precies de juiste bezoekers naar je website: mensen met een probleem dat jij kunt oplossen. Combineer het met een goede [social media strategie](/blog/social-media-reparatiebedrijven-online) en je bouwt een stabiele stroom van leads op.
 
 ## Van generalist naar specialist
 
 De transitie hoeft niet abrupt te zijn:
 
 1. **Fase 1**: kies je niche en pas je online aanwezigheid aan (website, Google-profiel)
-2. **Fase 2**: focus je marketing op je specialisatie — blog, social media, advertenties
-3. **Fase 3**: pas geleidelijk je aanbod aan — verwijs klussen buiten je niche door naar collega's
+2. **Fase 2**: focus je marketing op je specialisatie: blog, social media, advertenties
+3. **Fase 3**: pas geleidelijk je aanbod aan en verwijs klussen buiten je niche door naar collega's
 
 Bouw ondertussen je [terugkerende klanten](/blog/terugkerende-klanten-reparatiebedrijf) op binnen je specialisatie. Een vaste klantenkring van witgoed-eigenaren is waardevoller dan incidentele opdrachten in tien verschillende categorieën.
 

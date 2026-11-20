@@ -17,42 +17,42 @@ Seizoensinvloeden zijn onvermijdelijk, maar je hoeft er niet het slachtoffer van
 
 De meeste reparatiebedrijven zien een vergelijkbaar patroon:
 
-- **Januari-februari:** rustig — klanten stellen reparaties uit na de feestdagen
-- **Maart-april:** stijgend — voorjaarsschoonmaak, mensen ontdekken problemen
-- **Mei-juni:** druk — voorbereiding op de zomer, airco's, buiteninstallaties
-- **Juli-augustus:** wisselend — vakanties dempen de vraag, maar spoedgevallen pieken
-- **September-oktober:** druk — terug van vakantie, voorbereiden op de winter
-- **November-december:** piek — verwarmingssystemen, grote apparaten voor de feestdagen
+- **Januari-februari:** rustig, want klanten stellen reparaties uit na de feestdagen
+- **Maart-april:** stijgend (voorjaarsschoonmaak, mensen ontdekken problemen)
+- **Mei-juni:** druk (voorbereiding op de zomer, airco's, buiteninstallaties)
+- **Juli-augustus:** wisselend, want vakanties dempen de vraag, maar spoedgevallen pieken
+- **September-oktober:** druk (terug van vakantie, voorbereiden op de winter)
+- **November-december:** piek (verwarmingssystemen, grote apparaten voor de feestdagen)
 
 Door je marketing af te stemmen op dit patroon, bereik je klanten precies wanneer ze je nodig hebben.
 
 ## Seizoensmarketingstrategieën per kwartaal
 
-### Q1: Januari-maart — het onderhoudskwartaal
+### Q1 (januari-maart): het onderhoudskwartaal
 
 De winter is traditioneel rustig voor veel reparatiebedrijven. Gebruik deze periode voor preventief onderhoud:
 
 - Stuur [onderhoudsmails](/blog/email-marketing-reparatiebedrijf-herinnering) naar bestaande klanten: "Is uw wasmachine klaar voor het voorjaar?"
-- Bied een winteronderhoudsactie aan — korting op preventieve checks
-- Maak content over onderhoudstips — dit trekt bezoekers naar je website
+- Bied een winteronderhoudsactie aan: korting op preventieve checks
+- Maak content over onderhoudstips, want dit trekt bezoekers naar je website
 
-### Q2: April-juni — het voorbereidingskwartaal
+### Q2 (april-juni): het voorbereidingskwartaal
 
 De vraag stijgt. Klanten bereiden zich voor op de zomer:
 
 - Promoot airco-onderhoud en -reparatie actief
 - Zet Google Ads in op seizoensgebonden zoekwoorden: "airco reparatie [stad]"
-- Publiceer blogcontent over seizoensonderhoud — deze artikelen ranken net op tijd voor de piek
+- Publiceer blogcontent over seizoensonderhoud, want deze artikelen ranken net op tijd voor de piek
 
-### Q3: Juli-september — het piek-kwartaal
+### Q3 (juli-september): het piekkwartaal
 
 Nu is het druk. Marketing verschuift van werving naar efficiëntie:
 
-- Focus op snelle reactietijden — de snelste reparateur wint
+- Focus op snelle reactietijden, want de snelste reparateur wint
 - Automatiseer [statusupdates](/blog/statusupdates-reparatiebedrijf-klanten) zodat je minder tijd kwijt bent aan telefonisch klantcontact
-- Verzamel reviews na elke klus — deze helpen je in het rustige seizoen
+- Verzamel reviews na elke klus, want deze helpen je in het rustige seizoen
 
-### Q4: Oktober-december — het verwarmingskwartaal
+### Q4 (oktober-december): het verwarmingskwartaal
 
 Verwarmingssystemen en grote apparaten voor de feestdagen:
 
@@ -90,12 +90,12 @@ De slimste manier om seizoensdalen op te vangen is met [terugkerende klanten via
 
 ## Laat seizoensmarketing voor je werken
 
-Geen tijd om een contentkalender bij te houden en seizoensacties te plannen? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. De rest — seizoenscontent, email campagnes, online vindbaarheid — wordt voor je geregeld.
+Geen tijd om een contentkalender bij te houden en seizoensacties te plannen? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. De rest (seizoenscontent, email campagnes, online vindbaarheid) wordt voor je geregeld.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe seizoensmarketing jouw reparatiebedrijf laat groeien.
 
 ## Conclusie
 
-Seizoensinvloeden zijn een gegeven in de reparatiebranche. Maar met een doordachte seizoensmarketingstrategie — combineer preventief onderhoud in dalen, gerichte campagnes voor pieken, en onderhoudscontracten voor stabiliteit — bouw je een bedrijf dat het hele jaar door draait. Begin met het Q1-plan en bouw van daaruit verder.
+Seizoensinvloeden zijn een gegeven in de reparatiebranche. Maar met een doordachte seizoensmarketingstrategie (combineer preventief onderhoud in dalen, gerichte campagnes voor pieken, en onderhoudscontracten voor stabiliteit) bouw je een bedrijf dat het hele jaar door draait. Begin met het Q1-plan en bouw van daaruit verder.
 
 Lees ook onze tips voor een [sterke online reputatie](/blog/online-reputatie-reparatiebedrijf-beschermen) en hoe je [meer klussen wint via slimme offertes](/blog/offertes-reparatiebedrijf-meer-klussen).

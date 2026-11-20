@@ -22,9 +22,9 @@ In dit artikel: stap voor stap hoe je je profiel optimaliseert, welke factoren G
 
 Google gebruikt drie criteria voor de lokale ranking:
 
-1. **Relevantie** — past je bedrijf bij wat de zoeker vraagt?
-2. **Afstand** — hoe dicht ben je bij de zoeker?
-3. **Bekendheid** — hoeveel reviews, foto's, posts en interactie heeft je profiel?
+1. **Relevantie**: past je bedrijf bij wat de zoeker vraagt?
+2. **Afstand**: hoe dicht ben je bij de zoeker?
+3. **Bekendheid**: hoeveel reviews, foto's, posts en interactie heeft je profiel?
 
 De eerste stel je in met de juiste categorie. De tweede ligt deels vast (je locatie). De derde bouw je actief op. En precies die derde factor is waar de meeste reparatiebedrijven punten laten liggen.
 
@@ -40,14 +40,14 @@ Een ongeverifieerd profiel scoort altijd lager dan een geverifieerd profiel. Dit
 
 De grootste reden waarom reparatiebedrijven niet hoog ranken: hun profiel is half ingevuld. Wat moet er allemaal in?
 
-- **Bedrijfsnaam** — exact zoals op je facturen, geen extra trefwoorden zoals "Reparatie Spoed [Stad]". Google bestraft dat.
-- **Categorie primair** — kies de meest specifieke categorie die past. Voor wasmachine reparatie: "Reparateur huishoudelijke apparaten". Voor telefoon: "Reparateur mobiele telefoons". Voor fietsen: "Fietsenmaker".
-- **Categorie secundair** — voeg er twee of drie bij die ook bij je passen
-- **Adres of servicegebied** — als klanten bij je komen, vul je adres in. Werk je op locatie, dan kies je servicegebied
-- **Telefoonnummer** — vast en lokaal indien mogelijk
-- **Website** — link naar je homepage
-- **Openingstijden** — exact en up-to-date
-- **Beschrijving** — 750 tekens, vertel wat je doet, welke merken je repareert, welke problemen je oplost, en in welke regio je werkt
+- **Bedrijfsnaam**: exact zoals op je facturen, geen extra trefwoorden zoals "Reparatie Spoed [Stad]". Google bestraft dat.
+- **Categorie primair**: kies de meest specifieke categorie die past. Voor wasmachine reparatie: "Reparateur huishoudelijke apparaten". Voor telefoon: "Reparateur mobiele telefoons". Voor fietsen: "Fietsenmaker".
+- **Categorie secundair**: voeg er twee of drie bij die ook bij je passen
+- **Adres of servicegebied**: als klanten bij je komen, vul je adres in. Werk je op locatie, dan kies je servicegebied
+- **Telefoonnummer**: vast en lokaal indien mogelijk
+- **Website**: link naar je homepage
+- **Openingstijden**: exact en up-to-date
+- **Beschrijving**: 750 tekens, vertel wat je doet, welke merken je repareert, welke problemen je oplost, en in welke regio je werkt
 
 Een compleet profiel scoort tot 70 procent beter dan een halfvol profiel.
 
@@ -97,18 +97,18 @@ Elke dienst die je toevoegt vergroot de kans dat je verschijnt voor zoekopdracht
 
 Reparatiebedrijven met meer dan 15 foto's krijgen 35 procent meer kliks dan bedrijven met minder dan 5. Wat voeg je toe?
 
-- **Foto van je werkplaats** — netjes uitgestalde gereedschap, goed verlicht
-- **Foto's van je gevel of ingang** — zodat klanten weten hoe ze je herkennen
+- **Foto van je werkplaats**: netjes uitgestalde gereedschap, goed verlicht
+- **Foto's van je gevel of ingang**, zodat klanten weten hoe ze je herkennen
 - **Voor-na foto's** van reparaties (bijvoorbeeld een gebroken telefoonscherm en het herstelde resultaat)
-- **Foto's van je team** — laat zien dat je echte mensen bent
-- **Foto's van merken die je repareert** — een rij wasmachines, of een collectie fietsen
+- **Foto's van je team**: laat zien dat je echte mensen bent
+- **Foto's van merken die je repareert**: een rij wasmachines, of een collectie fietsen
 - **Een korte video** (15-30 seconden) waarin je vertelt wie je bent en wat je doet
 
 Wat je vermijdt: stockfoto's (Google detecteert ze), wazige telefoonfoto's, foto's met klanten zonder toestemming.
 
 ![Reparatiegereedschap netjes georganiseerd](/images/blog/reparatiebedrijf-google-bedrijfsprofiel-optimaliseren-2.jpg)
 
-## Stap 6: Reviews — de belangrijkste factor
+## Stap 6: Reviews, de belangrijkste factor
 
 Reviews zijn waar de meeste winst zit. Reparatiebedrijven met 50+ reviews en een gemiddelde van 4,5 of hoger verschijnen tot drie keer vaker in de top drie dan bedrijven met minder dan 10 reviews.
 
@@ -136,7 +136,7 @@ Wil je het hele proces uit handen geven? Een [review-pakket](/review-pakket) aut
 
 ## Stap 7: Google Posts wekelijks
 
-Google Posts zijn korte updates die in je profiel verschijnen. De meeste reparatiebedrijven gebruiken ze niet — en juist daarom werken ze. Je krijgt een voorsprong op concurrenten die er niet aan denken.
+Google Posts zijn korte updates die in je profiel verschijnen. De meeste reparatiebedrijven gebruiken ze niet, en juist daarom werken ze. Je krijgt een voorsprong op concurrenten die er niet aan denken.
 
 Wat post je?
 
@@ -152,9 +152,9 @@ Eén post per week is genoeg. Doe het op vaste momenten. Dit signaleert aan Goog
 
 In je Bedrijfsprofiel konden klanten vroeger een vraag stellen die zichtbaar was voor anderen. Die sectie bestaat niet meer: Google stopte op 3 november 2025 de koppeling ernaartoe en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen blijven, en Google stelt het antwoord nu zelf samen uit je profiel, je website en je reviews. Zorg dus dat het er staat:
 
-- "Wat kost een wasmachine reparatie?" — op je tarievenpagina, met het bedrag er echt bij: "Onze reparaties starten vanaf 75 euro inclusief diagnose. Bij complexere reparaties bespreken we de prijs vooraf."
-- "Hoe lang duurt een telefoonscherm vervangen?" — bij die dienst zelf, in je dienstenlijst en op je site: "Bij ons in de winkel meestal binnen een uur."
-- "Werken jullie ook aan oude apparaten?" — in je bedrijfsomschrijving: "We repareren wasmachines tot 15 jaar oud, mits onderdelen beschikbaar zijn."
+- "Wat kost een wasmachine reparatie?" Op je tarievenpagina, met het bedrag er echt bij: "Onze reparaties starten vanaf 75 euro inclusief diagnose. Bij complexere reparaties bespreken we de prijs vooraf."
+- "Hoe lang duurt een telefoonscherm vervangen?" Bij die dienst zelf, in je dienstenlijst en op je site: "Bij ons in de winkel meestal binnen een uur."
+- "Werken jullie ook aan oude apparaten?" In je bedrijfsomschrijving: "We repareren wasmachines tot 15 jaar oud, mits onderdelen beschikbaar zijn."
 
 Deze antwoorden staan daarmee op de plek waar Google ze leest, en niemand anders kan ze voor je invullen. Wat er precies veranderd is staat in [Google Q&A reparatiebedrijf: weg, wat er nu voor komt](/blog/google-qa-sectie-reparatiebedrijf).
 
@@ -189,10 +189,10 @@ Een [reparatiewebsite die goed werkt als aanvraagmachine](/blog/reparatiewebsite
 
 Vier dingen die reparatiebedrijven geregeld verkeerd doen:
 
-1. **Trefwoorden in de bedrijfsnaam stoppen** — "Reparatie Spoed [Stad]" wordt door Google bestraft
-2. **Stockfoto's gebruiken** — verlaagt je betrouwbaarheid
-3. **Niet reageren op reviews** — onbeantwoorde reviews zijn schadelijker dan negatieve
-4. **Profiel instellen en daarna vergeten** — Google waardeert actieve profielen
+1. **Trefwoorden in de bedrijfsnaam stoppen**: "Reparatie Spoed [Stad]" wordt door Google bestraft
+2. **Stockfoto's gebruiken**: verlaagt je betrouwbaarheid
+3. **Niet reageren op reviews**: onbeantwoorde reviews zijn schadelijker dan negatieve
+4. **Profiel instellen en daarna vergeten**: Google waardeert actieve profielen
 
 ## Hoe lang duurt het tot je resultaten ziet?
 

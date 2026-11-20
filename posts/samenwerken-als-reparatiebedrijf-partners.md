@@ -13,7 +13,7 @@ De meeste reparatiebedrijven wachten tot klanten hen vinden via Google of mond-t
 
 ## Waarom partnerschappen werken voor reparatiebedrijven
 
-Reparatieklanten zijn reactief — ze zoeken pas een reparateur als iets kapot is. Op dat moment kiezen ze de eerste betrouwbare optie die ze vinden. Als een winkel of verzekeraar jou aanbeveelt, ben je die eerste optie.
+Reparatieklanten zijn reactief: ze zoeken pas een reparateur als iets kapot is. Op dat moment kiezen ze de eerste betrouwbare optie die ze vinden. Als een winkel of verzekeraar jou aanbeveelt, ben je die eerste optie.
 
 Voordelen:
 - Warme leads via vertrouwde bronnen
@@ -25,11 +25,11 @@ Voordelen:
 
 | Partner | Samenwerking | Kans |
 |---------|-------------|------|
-| Winkelketen (witgoed, elektronica) | Reparatieservice na garantie | Hoog — winkels willen klanten helpen |
-| Verzekeraar | Reparatie van verzekerde apparaten | Hoog — volume |
-| Woningbouwvereniging | Onderhoud voor huurwoningen | Zeer hoog — regelmatig werk |
+| Winkelketen (witgoed, elektronica) | Reparatieservice na garantie | Hoog, want winkels willen klanten helpen |
+| Verzekeraar | Reparatie van verzekerde apparaten | Hoog (volume) |
+| Woningbouwvereniging | Onderhoud voor huurwoningen | Zeer hoog: regelmatig werk |
 | Schoonmaakbedrijf | Doorverwijzing bij defecte apparaten | Gemiddeld |
-| Kringloopwinkel | Reparatie voor doorverkoop | Gemiddeld — duurzaamheidshoek |
+| Kringloopwinkel | Reparatie voor doorverkoop | Gemiddeld: duurzaamheidshoek |
 
 ## Hoe start je?
 
@@ -51,7 +51,7 @@ Inboedelverzekeraars vergoeden reparaties van beschadigde apparaten. Zij zoeken 
 
 Repareren in plaats van weggooien is een groeiende trend. Kringloopwinkels, duurzaamheidsinitiatieven en gemeenten zoeken reparatiepartners. Positioneer je als de duurzame keuze en je opent een heel nieuw kanaal.
 
-Versterk dit met je [specialisatie](/blog/specialiseren-reparatiebedrijf-nichemarketing) — een reparatiebedrijf dat gespecialiseerd is in witgoed en duurzaamheid uitdraagt, is aantrekkelijker voor samenwerkingspartners.
+Versterk dit met je [specialisatie](/blog/specialiseren-reparatiebedrijf-nichemarketing): een reparatiebedrijf dat gespecialiseerd is in witgoed en duurzaamheid uitdraagt, is aantrekkelijker voor samenwerkingspartners.
 
 ## Online versterken
 
@@ -63,7 +63,7 @@ Registreer bij elke klus via welk kanaal de klant is binnengekomen. Samenwerking
 
 ## Waarom partnerschappen de toekomst zijn
 
-De reparatiemarkt groeit door de trend naar duurzaamheid en repareren in plaats van weggooien. Maar klanten vinden reparatiebedrijven niet altijd makkelijk. Partnerschappen met winkels, woningbouwverenigingen en verzekeraars zorgen ervoor dat klanten jou vinden op het moment dat ze je nodig hebben. Het is de meest directe weg naar structurele groei — zonder advertentiekosten. Investeer in drie tot vijf sterke partners en je bouwt een bedrijf dat niet afhankelijk is van Google alleen.
+De reparatiemarkt groeit door de trend naar duurzaamheid en repareren in plaats van weggooien. Maar klanten vinden reparatiebedrijven niet altijd makkelijk. Partnerschappen met winkels, woningbouwverenigingen en verzekeraars zorgen ervoor dat klanten jou vinden op het moment dat ze je nodig hebben. Het is de meest directe weg naar structurele groei, zonder advertentiekosten. Investeer in drie tot vijf sterke partners en je bouwt een bedrijf dat niet afhankelijk is van Google alleen.
 
 ## Hulp nodig?
 

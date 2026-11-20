@@ -12,9 +12,9 @@ cluster: "automatisering"
 ---
 ## De waarde van terugkerende klanten
 
-Een reparatiebedrijf leeft van aanvragen. Kapotte wasmachine, defecte laptop, gebarsten telefoonscherm — klanten komen wanneer er iets stuk is. Het probleem: de meeste klanten komen maar een keer. Ze laten iets repareren, betalen en verdwijnen.
+Een reparatiebedrijf leeft van aanvragen. Kapotte wasmachine, defecte laptop, gebarsten telefoonscherm: klanten komen wanneer er iets stuk is. Het probleem: de meeste klanten komen maar een keer. Ze laten iets repareren, betalen en verdwijnen.
 
-Dat is zonde, want een terugkerende klant is vijf tot zeven keer goedkoper dan een nieuwe klant werven. Bovendien verwijzen loyale klanten je door naar familie en vrienden — de beste en goedkoopste vorm van marketing.
+Dat is zonde, want een terugkerende klant is vijf tot zeven keer goedkoper dan een nieuwe klant werven. Bovendien verwijzen loyale klanten je door naar familie en vrienden, de beste en goedkoopste vorm van marketing.
 
 De sleutel is om het contactmoment na de reparatie niet te laten eindigen bij de factuur.
 

@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Het eenmalige-klant-probleem
 
-Een reparatiebedrijf heeft een uniek probleem: klanten komen wanneer iets kapot is, je repareert het, en ze vertrekken. Missie geslaagd — maar je ziet ze mogelijk nooit meer terug. Tot hun volgende apparaat kapotgaat, en dan googelen ze opnieuw en kiezen misschien een ander.
+Een reparatiebedrijf heeft een uniek probleem: klanten komen wanneer iets kapot is, je repareert het, en ze vertrekken. Missie geslaagd, maar je ziet ze mogelijk nooit meer terug. Tot hun volgende apparaat kapotgaat, en dan googelen ze opnieuw en kiezen misschien een ander.
 
 Dit patroon zorgt ervoor dat reparatiebedrijven constant moeten investeren in nieuwe klanten. Terwijl het veel goedkoper is om een bestaande klant te laten terugkomen dan een nieuwe te werven.
 
@@ -26,11 +26,11 @@ De cijfers spreken voor zich:
 
 ### 1. Onderhoudscontracten aanbieden
 
-Niet elk apparaat gaat kapot — maar elk apparaat heeft onderhoud nodig. Bied jaarlijkse onderhoudscontracten aan voor:
-- **CV-ketels** — jaarlijkse servicebeurt
-- **Vaatwassers en wasmachines** — ontkalking en inspectie
-- **Koffieapparaten** — reiniging en kalibratie
-- **Airconditioning** — filter vervangen en koelmiddel checken
+Niet elk apparaat gaat kapot, maar elk apparaat heeft onderhoud nodig. Bied jaarlijkse onderhoudscontracten aan voor:
+- **CV-ketels**: jaarlijkse servicebeurt
+- **Vaatwassers en wasmachines**: ontkalking en inspectie
+- **Koffieapparaten**: reiniging en kalibratie
+- **Airconditioning**: filter vervangen en koelmiddel checken
 
 Een contract van €79-149 per jaar per apparaat geeft jou voorspelbare inkomsten en de klant gemoedsrust.
 
@@ -75,7 +75,7 @@ Al deze strategieen werken het best als ze automatisch draaien:
 | Seizoensherinnering | Per seizoen | Geplande campagne |
 | Verjaardagskorting | Op klantverjaardag | Automatische email |
 
-Met de juiste software draait dit volledig automatisch. Je hoeft er niet elke dag aan te denken — het systeem doet het voor je.
+Met de juiste software draait dit volledig automatisch. Je hoeft er niet elke dag aan te denken, want het systeem doet het voor je.
 
 ## Conclusie
 

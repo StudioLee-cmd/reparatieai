@@ -9,7 +9,7 @@ tags: ["Leads"]
 cluster: "automatisering"
 ---
 
-Veel reparatiebedrijven zijn afhankelijk van een handvol vaste klanten en af en toe een toevallige aanvraag. Dat werkt — tot het niet meer werkt. Een vaste klant verhuist, een concurrent opent om de hoek, en opeens is je agenda half leeg.
+Veel reparatiebedrijven zijn afhankelijk van een handvol vaste klanten en af en toe een toevallige aanvraag. Dat werkt, tot het niet meer werkt. Een vaste klant verhuist, een concurrent opent om de hoek, en opeens is je agenda half leeg.
 
 Leadgeneratie betekent dat je een systeem opzet dat structureel nieuwe klanten aantrekt. Niet afhankelijk van geluk, maar van slimme kanalen die voor je werken terwijl jij bezig bent met reparaties.
 
@@ -23,7 +23,7 @@ Het verschil met traditionele marketing: je wacht niet tot klanten je vinden. Je
 
 ### 1. Je website als aanvraagmachine
 
-Je website moet niet alleen informeren — het moet conversie opleveren. Elke pagina eindigt met een duidelijke actie: bel, mail of vul het formulier in.
+Je website moet niet alleen informeren, maar ook conversie opleveren. Elke pagina eindigt met een duidelijke actie: bel, mail of vul het formulier in.
 
 Zorg dat je [website is ingericht als aanvraagmachine](/blog/reparatiewebsite-aanvraagmachine) met een contactformulier dat makkelijk te vinden is en weinig velden heeft.
 
@@ -33,7 +33,7 @@ Wanneer iemand zoekt op "reparatiebedrijf in de buurt", wil je bovenaan staan. J
 
 ### 3. Google reviews als vertrouwenssignaal
 
-Reviews zijn niet alleen voor reputatie — ze verbeteren ook je zichtbaarheid. Bedrijven met meer [positieve reviews](/blog/meer-google-reviews-reparatiebedrijf) scoren hoger in lokale zoekresultaten.
+Reviews zijn niet alleen voor reputatie, maar verbeteren ook je zichtbaarheid. Bedrijven met meer [positieve reviews](/blog/meer-google-reviews-reparatiebedrijf) scoren hoger in lokale zoekresultaten.
 
 ### 4. Social media voor zichtbaarheid
 

@@ -9,7 +9,7 @@ cluster: "automatisering"
 ---
 ## De verborgen kosten van no-shows
 
-Als reparatiebedrijf werk je op afspraak. Je plant je dag, rijdt naar klanten en voert reparaties uit. Een no-show gooit die planning in de war — en kost meer dan je denkt.
+Als reparatiebedrijf werk je op afspraak. Je plant je dag, rijdt naar klanten en voert reparaties uit. Een no-show gooit die planning in de war en kost meer dan je denkt.
 
 Directe kosten per no-show:
 
@@ -24,7 +24,7 @@ Bij twee no-shows per week loop je als reparatiebedrijf al snel €15.000 tot �
 
 Begrip voor de oorzaak helpt bij de oplossing:
 
-- **Vergeten**: 55 procent van de no-shows — de afspraak stond niet in hun agenda
+- **Vergeten**: 55 procent van de no-shows, want de afspraak stond niet in hun agenda
 - **Probleem opgelost**: iemand anders heeft het gerepareerd of het product werkt weer
 - **Te laat geannuleerd**: de klant wilde afzeggen maar vond het ongemakkelijk
 - **Miscommunicatie**: de klant dacht dat het een andere datum was
@@ -57,7 +57,7 @@ Richtlijnen:
 - Tweede no-show: vooruitbetaling verplicht bij de volgende boeking
 - Bij herhaaldelijk niet opdagen: klant wordt niet meer ingepland zonder aanbetaling
 
-De meeste klanten respecteren een helder beleid. Het zijn de chronische no-shows die je eruit filtert — en dat zijn vaak maar 5 procent van je klanten die 80 procent van de no-shows veroorzaken.
+De meeste klanten respecteren een helder beleid. Het zijn de chronische no-shows die je eruit filtert, en dat zijn vaak maar 5 procent van je klanten die 80 procent van de no-shows veroorzaken.
 
 ## Online bevestiging en omboeken
 
@@ -79,6 +79,6 @@ Het verschil tussen een reparatiebedrijf met veel no-shows en eentje met weinig 
 
 Automatische [herinneringen](/automatisering), een helder beleid en een makkelijk omboeksysteem verminderen no-shows met 50 tot 70 procent. Dat zijn tientallen productieve uren per maand die je terugwint.
 
-De opzet kost je een ochtend. De besparing is structureel — week na week, maand na maand.
+De opzet kost je een ochtend. De besparing is structureel: week na week, maand na maand.
 
 Wil je weten hoe je no-shows kunt verminderen? Vraag een [gratis AI-scan](/gratis-scan) aan.

@@ -9,7 +9,7 @@ tags: ["WhatsApp", "No-shows"]
 ---
 ## Waarom WhatsApp beter werkt dan bellen of mailen
 
-Iedereen checkt WhatsApp. Het is de communicatie-app die Nederlanders het vaakst openen — meer dan 10 keer per dag gemiddeld. E-mail verdwijnt in de inbox, een telefoontje wordt weggedrukt, maar een WhatsApp-bericht wordt bijna altijd gelezen. De open rate ligt boven de 90 procent.
+Iedereen checkt WhatsApp. Het is de communicatie-app die Nederlanders het vaakst openen: meer dan 10 keer per dag gemiddeld. E-mail verdwijnt in de inbox, een telefoontje wordt weggedrukt, maar een WhatsApp-bericht wordt bijna altijd gelezen. De open rate ligt boven de 90 procent.
 
 Voor reparatiebedrijven is dat cruciaal. Je klanten zijn drukbezette mensen die een kapotte wasmachine, lekkende kraan of defecte cv-ketel willen laten maken. Ze boeken een afspraak, gaan door met hun dag en vergeten het. Een WhatsApp-herinnering op het juiste moment brengt de afspraak terug in beeld.
 
@@ -29,10 +29,10 @@ Systemen zoals die van [ReparatieAI](/) automatiseren dit volledig. Eén keer in
 
 Reparatiebedrijven die WhatsApp-herinneringen inzetten, zien gemiddeld:
 
-- **50-70% minder no-shows** — het simpele feit dat de klant eraan herinnerd wordt, is genoeg
-- **Betere klanttevredenheid** — klanten waarderen proactieve communicatie
-- **Minder telefoontjes** — klanten hoeven niet te bellen om te vragen hoe laat je komt
-- **Efficiëntere planning** — bij geen bevestiging weet je vroegtijdig dat een slot vrijkomt
+- **50-70% minder no-shows**: het simpele feit dat de klant eraan herinnerd wordt, is genoeg
+- **Betere klanttevredenheid**: klanten waarderen proactieve communicatie
+- **Minder telefoontjes**: klanten hoeven niet te bellen om te vragen hoe laat je komt
+- **Efficiëntere planning**: bij geen bevestiging weet je vroegtijdig dat een slot vrijkomt
 
 ![Georganiseerde reparatiewerkplaats met apparaten en gereedschap](/images/blog/whatsapp-herinneringen-reparatie-afspraken-2.jpg)
 
@@ -65,7 +65,7 @@ Een veelgestelde vraag: mag je zomaar WhatsApp-berichten sturen? Ja, mits:
 - De berichten gerelateerd zijn aan de afspraak (geen marketing)
 - Je een opt-out mogelijkheid biedt
 
-Dit valt onder de uitvoering van de overeenkomst — je stuurt een herinnering voor een dienst die de klant zelf heeft aangevraagd.
+Dit valt onder de uitvoering van de overeenkomst: je stuurt een herinnering voor een dienst die de klant zelf heeft aangevraagd.
 
 ## Kosten en implementatie
 
@@ -81,7 +81,7 @@ Absoluut. Berichten als "Onderdeel besteld, levertijd 2 dagen" of "Reparatie afg
 
 ### Werkt dit ook voor spoedklussen?
 
-Bij spoedklussen is de herinnering minder relevant — de klant wacht actief op je komst. Maar een "monteur is onderweg" bericht is alsnog waardevol voor de klanervaring.
+Bij spoedklussen is de herinnering minder relevant, want de klant wacht actief op je komst. Maar een "monteur is onderweg" bericht is alsnog waardevol voor de klanervaring.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/garantie-reparatie-vertrouwen-opbouwen" class="text-dark fw-semibold">Garantie op reparaties: zo bouw je vertrouwen op</a> →</p></div></div></div>
 
@@ -89,4 +89,4 @@ Bij spoedklussen is de herinnering minder relevant — de klant wacht actief op 
 
 WhatsApp-herinneringen zijn de meest effectieve en goedkoopste manier om no-shows te verminderen. De open rate is ongeëvenaard, klanten waarderen de service en jij verspilt minder tijd aan lege adressen.
 
-Wil je weten hoe ReparatieAI automatische WhatsApp-herinneringen voor je instelt? Vraag een [gratis scan](/gratis-scan) aan. Wij regelen de volledige setup — jij hoeft er maar 15 minuten per maand aan te besteden.
+Wil je weten hoe ReparatieAI automatische WhatsApp-herinneringen voor je instelt? Vraag een [gratis scan](/gratis-scan) aan. Wij regelen de volledige setup. Jij hoeft er maar 15 minuten per maand aan te besteden.

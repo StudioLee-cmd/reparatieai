@@ -9,7 +9,7 @@ tags: ["Branding", "Merkopbouw"]
 cluster: "branding"
 ---
 
-"Welk reparatiebedrijf was dat ook alweer?" — als klanten deze vraag stellen, heb je een brandingprobleem. In een markt vol anonieme reparatiediensten is herkenning goud waard.
+"Welk reparatiebedrijf was dat ook alweer?" Als klanten deze vraag stellen, heb je een brandingprobleem. In een markt vol anonieme reparatiediensten is herkenning goud waard.
 
 Branding gaat niet over een duur logo. Het gaat over hoe klanten je onthouden, herkennen en aanbevelen. Dit artikel laat zien hoe je als reparatiebedrijf een merk bouwt dat blijft hangen.
 
@@ -65,7 +65,7 @@ Elk contactmoment is een kans om je merk te versterken:
 
 ## Van reviews naar merkvertrouwen
 
-[Google reviews](/blog/meer-google-reviews-reparatiebedrijf) zijn niet alleen goed voor je ranking — ze bouwen je merk. Reageer altijd persoonlijk:
+[Google reviews](/blog/meer-google-reviews-reparatiebedrijf) zijn niet alleen goed voor je ranking, maar bouwen ook je merk. Reageer altijd persoonlijk:
 
 - Bedank voor positieve reviews
 - Los negatieve reviews professioneel op
@@ -83,10 +83,10 @@ Start met deze 5 stappen:
 
 ## Laat je branding professioneel uitwerken
 
-Bij StudioLee bouwen we merken voor vakmensen. Van [online reputatie](/blog/online-reputatie-reparatiebedrijf-beschermen) tot content marketing — alles afgestemd op jouw positionering. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee bouwen we merken voor vakmensen. Van [online reputatie](/blog/online-reputatie-reparatiebedrijf-beschermen) tot content marketing: alles afgestemd op jouw positionering. Met slechts **15 minuten per maand** aan jouw kant.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe sterk jouw merk al is.
 
 ## Conclusie
 
-Branding is het verschil tussen een anoniem reparatiebedrijf en een naam die klanten onthouden en aanbevelen. Het begint met consistentie — in je visuele identiteit, je communicatie en je klantervaring. Investeer erin en je ziet het terug in hogere retentie, meer doorverwijzingen en minder prijsconcurrentie.
+Branding is het verschil tussen een anoniem reparatiebedrijf en een naam die klanten onthouden en aanbevelen. Het begint met consistentie: in je visuele identiteit, je communicatie en je klantervaring. Investeer erin en je ziet het terug in hogere retentie, meer doorverwijzingen en minder prijsconcurrentie.

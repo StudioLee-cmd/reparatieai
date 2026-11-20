@@ -17,7 +17,7 @@ const pillars = [
     {
         title: "Je werkplaats blijft vol",
         subtitle: "Meer afspraken",
-        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda — ook als jij midden in een reparatie zit.",
+        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda, ook als jij midden in een reparatie zit.",
         icon: <FiTrendingUp size={32} />,
         pillarLinks: [{ href: "/voice-ai", anchor: "ai telefonist voor reparatiebedrijven" }, { href: "/chatbot", anchor: "ai chatbot voor reparatiebedrijven" }],
     },

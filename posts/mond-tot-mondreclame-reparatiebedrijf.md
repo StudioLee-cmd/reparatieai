@@ -26,7 +26,7 @@ Reparatiebedrijven die actief aan mond-tot-mond werken, zien:
 
 ### Excellente service is de basis
 
-Alles begint bij de ervaring. Snelle [diagnose](/blog/statusupdates-reparatiebedrijf-klanten), eerlijke communicatie over kosten en een vlotte reparatie — dat is wat klanten doet praten.
+Alles begint bij de ervaring. Snelle [diagnose](/blog/statusupdates-reparatiebedrijf-klanten), eerlijke communicatie over kosten en een vlotte reparatie: dat is wat klanten doet praten.
 
 ### Het juiste moment om te vragen
 
@@ -34,11 +34,11 @@ Na een succesvolle reparatie, wanneer de klant opgelucht is: "Als u tevreden ben
 
 ### Beloon doorverwijzingen
 
-Geef klanten die een nieuwe klant aanbrengen een kleine korting op hun volgende reparatie. Het bedrag is niet belangrijk — de erkenning wel.
+Geef klanten die een nieuwe klant aanbrengen een kleine korting op hun volgende reparatie. Het bedrag is niet belangrijk, de erkenning wel.
 
 ## Online versterken
 
-[Google reviews](/blog/meer-google-reviews-reparatiebedrijf) zijn de digitale versie van mond-tot-mond. Een review staat permanent online en is zichtbaar voor iedereen die een reparatiebedrijf zoekt. Het mooie aan reviews is dat ze 24 uur per dag werken — ook als jij slaapt, overtuigen je reviews potentiele klanten.
+[Google reviews](/blog/meer-google-reviews-reparatiebedrijf) zijn de digitale versie van mond-tot-mond. Een review staat permanent online en is zichtbaar voor iedereen die een reparatiebedrijf zoekt. Het mooie aan reviews is dat ze 24 uur per dag werken: ook als jij slaapt, overtuigen je reviews potentiele klanten.
 
 Combineer reviews met een professionele [website](/blog/reparatiewebsite-aanvraagmachine) en zichtbaarheid op [social media](/blog/social-media-reparatiebedrijven-online). Samen vormen deze kanalen een ecosysteem dat elke doorverwijzing versterkt.
 
@@ -48,7 +48,7 @@ Bied garantie op je reparaties. Klanten die weten dat je achter je werk staat, b
 
 ## Buurtgroepen en WhatsApp
 
-Steeds meer buurten hebben WhatsApp-groepen en Facebook-groepen. Wanneer iemand vraagt "wie kent een goed reparatiebedrijf?", wil je dat jouw klanten je naam noemen. Dat gebeurt alleen als de ervaring echt goed was — en als ze je naam onthouden. Herkenbaar merk, duidelijke communicatie en een follow-up na de reparatie maken dat verschil.
+Steeds meer buurten hebben WhatsApp-groepen en Facebook-groepen. Wanneer iemand vraagt "wie kent een goed reparatiebedrijf?", wil je dat jouw klanten je naam noemen. Dat gebeurt alleen als de ervaring echt goed was, en als ze je naam onthouden. Herkenbaar merk, duidelijke communicatie en een follow-up na de reparatie maken dat verschil.
 
 ## Mond-tot-mond en je specialisatie
 
@@ -56,7 +56,7 @@ Als je je hebt [gespecialiseerd](/blog/specialiseren-reparatiebedrijf-nichemarke
 
 ## Meten en verbeteren
 
-Vraag bij elke nieuwe klant: "Hoe heeft u ons gevonden?" Registreer dit structureel. Je zult patronen ontdekken — welke buurten, welke klantsegmenten, welke type reparaties leiden tot de meeste doorverwijzingen. Die inzichten helpen je om je [leadgeneratie](/blog/leadgeneratie-reparatiebedrijf) te versterken en je service gericht te verbeteren.
+Vraag bij elke nieuwe klant: "Hoe heeft u ons gevonden?" Registreer dit structureel. Je zult patronen ontdekken: welke buurten, welke klantsegmenten, welke type reparaties leiden tot de meeste doorverwijzingen. Die inzichten helpen je om je [leadgeneratie](/blog/leadgeneratie-reparatiebedrijf) te versterken en je service gericht te verbeteren.
 
 ## Hulp nodig?
 

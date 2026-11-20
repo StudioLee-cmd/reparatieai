@@ -86,7 +86,7 @@ De ROI is overduidelijk: de extra omzet overtreft de garantiekosten ruimschoots.
 
 ### Accepteer snel en vriendelijk
 
-Een klant die terugkomt met een garantieclaim is geen lastige klant — het is een kans om vertrouwen te bevestigen. Los het snel op, zonder discussie, en je hebt een klant voor het leven.
+Een klant die terugkomt met een garantieclaim is geen lastige klant. Het is een kans om vertrouwen te bevestigen. Los het snel op, zonder discussie, en je hebt een klant voor het leven.
 
 ### Documenteer alles
 
@@ -105,9 +105,9 @@ Als een claim duidelijk buiten de garantie valt (waterschade, val, verkeerd gebr
 ## Uitgebreide garantie als upsell
 
 Bied een verlengde garantie aan als premium optie:
-- Standaard: 6 maanden — inbegrepen
-- Verlengd: 12 maanden — €25 extra
-- Premium: 24 maanden — €49 extra
+- Standaard: 6 maanden, inbegrepen
+- Verlengd: 12 maanden, €25 extra
+- Premium: 24 maanden, €49 extra
 
 Dit is extra omzet met minimaal risico (de meeste problemen manifesteren zich binnen 3 maanden).
 
@@ -115,7 +115,7 @@ Dit is extra omzet met minimaal risico (de meeste problemen manifesteren zich bi
 
 ## Conclusie
 
-Een helder garantiebeleid is geen kostenpost — het is een investering in vertrouwen. Het verlaagt de drempel voor nieuwe klanten, vermindert discussies en positioneert je als een professioneel reparatiebedrijf dat achter zijn werk staat.
+Een helder garantiebeleid is geen kostenpost. Het is een investering in vertrouwen. Het verlaagt de drempel voor nieuwe klanten, vermindert discussies en positioneert je als een professioneel reparatiebedrijf dat achter zijn werk staat.
 
 Met [ReparatieAI](/) automatiseren we je klantcommunicatie en opvolgingsberichten. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

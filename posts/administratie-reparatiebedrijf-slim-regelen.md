@@ -12,7 +12,7 @@ cluster: "automatisering"
 
 Als reparatiebedrijf is je dag gevuld met klussen, klanten en onverwachte storingen. Administratie voelt dan als het laatste waar je zin in hebt. Maar juist een goed geregelde administratie zorgt ervoor dat je bedrijf soepel draait.
 
-Facturen die op tijd verstuurd worden, inzicht in je kosten per klus en een overzichtelijke boekhouding — het zijn de bouwstenen van een financieel gezond bedrijf. Zonder dat overzicht loop je het risico dat je te weinig factureert, materiaalkosten vergeet door te berekenen of aan het einde van het jaar voor een hoge belastingaanslag staat.
+Facturen die op tijd verstuurd worden, inzicht in je kosten per klus en een overzichtelijke boekhouding: het zijn de bouwstenen van een financieel gezond bedrijf. Zonder dat overzicht loop je het risico dat je te weinig factureert, materiaalkosten vergeet door te berekenen of aan het einde van het jaar voor een hoge belastingaanslag staat.
 
 De sleutel is om je administratie zo in te richten dat het minimaal tijd kost. Niet meer papierwerk, maar slimmer papierwerk.
 
@@ -77,6 +77,6 @@ Het einddoel is een systeem dat grotendeels zichzelf draait:
 
 Dit klinkt futuristisch, maar de meeste boekhoudpakketten bieden deze functionaliteit standaard. Een middag investeren in het inrichten bespaart je maandenlang werk.
 
-Goede administratie is niet meer werk — het is minder werk, beter georganiseerd. En dat geeft je meer tijd voor waar je goed in bent: reparaties uitvoeren en klanten helpen.
+Goede administratie is niet meer werk. Het is minder werk, beter georganiseerd. En dat geeft je meer tijd voor waar je goed in bent: reparaties uitvoeren en klanten helpen.
 
 Wil je weten hoe je jouw bedrijfsvoering kunt optimaliseren? [Vraag een gratis scan aan](https://www.reparatieai.nl/gratis-scan) en ontdek je kansen.

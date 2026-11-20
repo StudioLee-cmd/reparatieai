@@ -13,7 +13,7 @@ cluster: "automatisering"
 
 ## Waarom snelheid alles bepaalt
 
-Klanten met een kapot apparaat hebben haast. Ze willen het opgelost hebben — liefst vandaag, uiterlijk morgen. Ze bellen of mailen drie reparatiebedrijven en kiezen degene die het snelst reageert met een duidelijk antwoord.
+Klanten met een kapot apparaat hebben haast. Ze willen het opgelost hebben, liefst vandaag, uiterlijk morgen. Ze bellen of mailen drie reparatiebedrijven en kiezen degene die het snelst reageert met een duidelijk antwoord.
 
 Niet de goedkoopste. Niet degene met de meeste [reviews](/blog/meer-google-reviews-reparatiebedrijf). Degene die het snelst reageert. Uit onderzoek blijkt dat het eerste bedrijf dat reageert in 50% van de gevallen de opdracht krijgt.
 
@@ -35,7 +35,7 @@ Een goede offerte is helder, specifiek en professioneel:
 
 Handmatige offertes kosten tijd. Digitale tools versnellen het proces:
 
-**Standaard templates**. Maak templates voor de meest voorkomende reparaties. Wasmachine, vaatwasser, droger, cv-ketel — elke categorie heeft een eigen template met standaard teksten en prijzen die je alleen nog hoeft aan te passen.
+**Standaard templates**. Maak templates voor de meest voorkomende reparaties. Wasmachine, vaatwasser, droger, cv-ketel: elke categorie heeft een eigen template met standaard teksten en prijzen die je alleen nog hoeft aan te passen.
 
 **Digitale ondertekening**. Laat klanten de offerte accepteren met een klik. Geen geprint document, geen handtekening, geen scan. Eenvoudiger voor de klant en sneller voor jou.
 
@@ -45,7 +45,7 @@ Handmatige offertes kosten tijd. Digitale tools versnellen het proces:
 
 Niet elke klant reageert direct. Maar dat betekent niet dat ze niet geinteresseerd zijn.
 
-**Bel na 24 uur**. Een kort telefoontje: "Ik wilde even checken of u mijn offerte heeft ontvangen en of er nog vragen zijn." Dit is niet opdringerig — het toont betrokkenheid.
+**Bel na 24 uur**. Een kort telefoontje: "Ik wilde even checken of u mijn offerte heeft ontvangen en of er nog vragen zijn." Dit is niet opdringerig, maar toont betrokkenheid.
 
 **Stuur een herinnering na drie dagen**. Per mail: "Uw offerte staat nog open. Wilt u een afspraak inplannen?" Met een directe link om te bevestigen.
 
